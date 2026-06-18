@@ -109,9 +109,15 @@ def match_codes(df_sql: pd.DataFrame, df_arq_exploded: pd.DataFrame,
     # Primero, obtener solo las columnas de matches para asegurar que no hay duplicados
     result = df_sql.join(grouped, how='left')
 
-    # Normalizar listas vacías a NaN para claridad
+    # Convertir listas a strings limpios (vacías → NaN)
+    def list_to_str(x):
+        if not isinstance(x, list):
+            return pd.NA
+        vals = [str(v) for v in x if pd.notna(v) and str(v).strip()]
+        return ', '.join(vals) if vals else pd.NA
+
     for c in ['matched_proc_codes', 'matched_codigo_arquetipo', 'matched_nombre_arquetipo']:
         if c in result.columns:
-            result[c] = result[c].apply(lambda x: x if x and any(pd.notna(v) for v in x) else pd.NA)
+            result[c] = result[c].apply(list_to_str)
 
     return result, merged

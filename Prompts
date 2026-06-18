@@ -1,0 +1,7 @@
+Como puedes observar, los valores de las columnas matched_proc_codes, matched_codigo_arquetipo y matched_nombre_arquetipo están quedando con los caracteres ['']. Este formato no es necesario, ya que requerimos el dato en formato limpio. Por favor, valida la causa de este comportamiento y ajusta la lógica para evitar que estos caracteres se incluyan en la salida.
+
+Adicionalmente, el archivo de resultado debe generarse siempre con el siguiente nombre:
+
+resultado_matching_arquetipos.csv
+
+Es decir, si el archivo ya existe, debe ser sobrescrito. Actualmente se está generando una nueva versión en cada ejecución, lo cual no es el comportamiento esperado (ejemplo aqui se genera el archivo y al final le esta agregando la fecha, lo cual va acumular resultados: resultado_matching_arquetipos_20260618_140956.csv ).

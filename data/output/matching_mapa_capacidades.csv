@@ -1,0 +1,906 @@
+t2.actividad,codigo_proceso,matched_codigo_arquetipo,matched_nombre_arquetipo,Capacidad de Procesos (Nivel 3),Código Capacidad,Arquetipos Relacionado
+recibir solicitud ,PAN040102,ARQ002,Abrir producto,Recibir solicitud,,
+m: gestión de servicios corporativos p: custodiar documentos pagaré panamá ,PAN040102,ARQ002,Abrir producto,Custodiar documento,,Procesar documento
+notificar inconsistencias ,PAN040102,ARQ002,Abrir producto,Notificar inconsistencias,,
+recibir solicitud de apertura ,PAN040103,ARQ002,Abrir producto,Recibir solicitud,,
+notificar inconsistencias ,PAN040103,ARQ002,Abrir producto,Notificar inconsistencias,,
+m: gestión de servicios administrativos p: custodiar documentos pagaré panamá ,PAN040103,ARQ002,Abrir producto,Custodiar documento,,Procesar documento
+documentar caso ,PAN040103,ARQ002,Abrir producto,Documentar caso de investigaciÃ³n.,,
+recibir documentos ,PAN040107,ARQ002,Abrir producto,Recibir documentos comerciales,,
+gestionar y custodiar documentos ,PAN040107,ARQ002,Abrir producto,Custodiar documento,,Procesar documento
+recibir solicitud de activación ,PAN040107,ARQ002,Abrir producto,Recibir solicitud,,
+realizar ajuste ,PAN040107,ARQ002,Abrir producto,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+recibir solicitud ,PAN040107,ARQ002,Abrir producto,Recibir solicitud,,
+c004:gestionar alertas de derechos de petición ,T050301,ARQ027,Atender solicitudes de usuario,Gestionar alertas,,
+generar reportes ,T070203,ARQ056,Administrar el servicio de los canales,Generar reportes de auditorÃ­as realizadas,,
+monitorear experiencias ,T070203,ARQ056,Administrar el servicio de los canales,"Monitorear experiencias, ofertas y alianzas",,
+monitorear experiencias ,T070203,ARQ056,Administrar el servicio de los canales,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencias ,T070203,ARQ056,Administrar el servicio de los canales,Monitorear experiencia,,Atender solicitudes de usuario
+aplicar novedad ,T070203,ARQ056,Administrar el servicio de los canales,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ056,Administrar el servicio de los canales,Aplicar novedad financiera,,Aplicar novedad
+gestionar novedades ,T070203,ARQ056,Administrar el servicio de los canales,Gestionar novedades para campos protegidos,,
+solicitar ajuste ,T080902,ARQ123,Ejecutar cuadre contable del producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+realizar ajuste ,T080902,ARQ123,Ejecutar cuadre contable del producto,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+certificar cuenta ,T080902,ARQ123,Ejecutar cuadre contable del producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+c009 certificar cuenta ,T080902,ARQ123,Ejecutar cuadre contable del producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+c005:certificar cuenta ,T080902,ARQ123,Ejecutar cuadre contable del producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+informar resultado ,T081001,ARQ123,Ejecutar cuadre contable del producto,Emitir e informar resultado,,
+notificar inconsistencia ,T081001,ARQ123,Ejecutar cuadre contable del producto,Notificar inconsistencias,,
+generar alerta ,T081001,ARQ123,Ejecutar cuadre contable del producto,Generar alerta documental,,Procesar documento
+generar alerta ,T081001,ARQ123,Ejecutar cuadre contable del producto,Generar alertas de eventos o inconsistencias,,
+escalar novedad ,T081001,ARQ123,Ejecutar cuadre contable del producto,Escalar novedades,,
+conciliar transacciones ,T081001,ARQ123,Ejecutar cuadre contable del producto,Conciliar transacciones y registros operativos,,
+atender requerimientos ,T081001,ARQ123,Ejecutar cuadre contable del producto,Atender requerimientos de auditorÃ­a,,
+solicitar ajuste ,T081001,ARQ123,Ejecutar cuadre contable del producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+gestionar alerta ,T081001,ARQ123,Ejecutar cuadre contable del producto,Gestionar alertas,,
+generar documentos de pago ,T081001,ARQ123,Ejecutar cuadre contable del producto,Generar documento,,Abrir producto
+generar documentos de pago ,T081001,ARQ123,Ejecutar cuadre contable del producto,Generar documento,,Aplicar novedad
+generar documentos ,T160065,ARQ002,Abrir producto,Generar documento,,Abrir producto
+generar documentos ,T160065,ARQ002,Abrir producto,Generar documento,,Aplicar novedad
+recibir solicitud y hacer validaciones ,T160065,ARQ002,Abrir producto,Recibir solicitud,,
+recibir solicitud y cargar plantilla en ruta controles ,T160065,ARQ002,Abrir producto,Recibir solicitud,,
+recibir solicitud del área comercial de créditos capitalizables ,T160100,ARQ022,Generar información,Recibir solicitud,,
+calcular valor a cobrar por intereses ,T160100,ARQ005,Aplicar novedad,Calcular valor a cobrar,,Ejecutar transacciones monetarias
+calcular valor a cobrar por intereses ,T160100,ARQ005,Aplicar novedad,Calcular valor a cobrar,,Ejecutar transacciÃ³n monetaria
+notificar inconsistencia ,T160100,ARQ022,Generar información,Notificar inconsistencias,,
+c010: recibir solicitud de modificación de las condiciones de crédito ,T160100,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud de beneficio aprogresar ,T160100,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir solicitud del outsourcing ,T160100,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+generar informes de monitoreo ,T160100,ARQ013,Ejecutar transacción monetaria,Generar informes de monitoreo,,
+generar alerta ,T160100,ARQ005,Aplicar novedad,Generar alerta documental,,Procesar documento
+generar alerta ,T160100,ARQ005,Aplicar novedad,Generar alertas de eventos o inconsistencias,,
+recibir solicitud generación de paz y salvo para obligación ,T160107,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+notificar inconsistencias ,T160107,ARQ005,Aplicar novedad,Notificar inconsistencias,,
+cerrar solicitud ,T160107,ARQ005,Aplicar novedad,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160107,ARQ005,Aplicar novedad,Cerrar solicitud novedad,,
+conciliar cuentas ,T160107,ARQ013,Ejecutar transacción monetaria,Conciliar cuentas puente,,
+atender solicitud ,T160108,ARQ005,Aplicar novedad,Atender solicitudes de entes externos.,,
+atender solicitud ,T160108,ARQ005,Aplicar novedad,Atender solicitudes de desembolso,,
+atender solicitud ,T160108,ARQ005,Aplicar novedad,Atender solicitudes AQR's ,,
+atender solicitud ,T160108,ARQ005,Aplicar novedad,Atender solicitudes del usuario,,
+recibir solicitud de mantenimiento por parte del cliente ,T160108,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud y revisar validaciones ,T160108,ARQ005,Aplicar novedad,Recibir solicitud,,
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Ejecutar misiones mediante contactabilidad,,Ninguno
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Recomendar ajustes de contactabilidad,,Ninguno
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Generar la instrucciÃ³n de contactabilidad,,Abrir producto
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Generar la instrucciÃ³n de contactabilidad,,Atender solicitudes de usuarios
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Generar la instrucciÃ³n de contactabilidad,,Ejecutar transacciÃ³n monetaria
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Generar la instrucciÃ³n de contactabilidad,,Procesar compensaciÃ³n
+contactabilidad ,T160108,ARQ005,Aplicar novedad,Generar la instrucciÃ³n de contactabilidad,,Atender solicitudes de usuario
+cerrar solicitud ,T160108,ARQ005,Aplicar novedad,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160108,ARQ005,Aplicar novedad,Cerrar solicitud novedad,,
+"recibir solicitud de cambio de ciclo para el plan eb8, ec8 o p04 de cartera ",T160108,ARQ022,Generar información,Recibir solicitud,,
+recibir solicitud y revisar validaciones ,T160108,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+generar informes ,T160108,ARQ013,Ejecutar transacción monetaria,Generar informes de monitoreo,,
+recibir solicitud de parametrización ,T160109,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+extraer información o recibir solicitud de parametrización ,T160109,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir solicitud de parametrización ,T160109,ARQ005,Aplicar novedad,Recibir solicitud,,
+gestionar alertas ,T160109,ARQ005,Aplicar novedad,Gestionar alertas,,
+realizar trazabilidad ,T160141,ARQ013,Ejecutar transacción monetaria,Realizar trazabilidad solicitudes y aprobaciones de excepcion,,
+realizar trazabilidad ,T160141,ARQ013,Ejecutar transacción monetaria,Realizar trazabilidad de la venta digital,,
+gestionar novedades ,T160141,ARQ005,Aplicar novedad,Gestionar novedades para campos protegidos,,
+gestionar las diferencias ,T160141,ARQ005,Aplicar novedad,Gestionar las diferencias contables,,
+entregar productos débito al subgerente ,T160141,ARQ005,Aplicar novedad,Entregar producto,,Aplicar novedad
+generar documentos de la operación ,T160146,ARQ005,Aplicar novedad,Generar documento,,Abrir producto
+generar documentos de la operación ,T160146,ARQ005,Aplicar novedad,Generar documento,,Aplicar novedad
+reportar inconsistencia ,T160147,ARQ013,Ejecutar transacción monetaria,Detectar y reportar inconsistencias operativas,,
+recibir documentos ,T160147,ARQ005,Aplicar novedad,Recibir documentos comerciales,,
+notificar inconsistencia ,T160147,ARQ013,Ejecutar transacción monetaria,Notificar inconsistencias,,
+cerrar casos y comunicar al cliente ,T160161,ARQ093,Constituir colaterales,Cerrar caso.,,
+generar indicadores de venta responsable ,T160275,ARQ013,Ejecutar transacción monetaria,Generar indicadores,,
+gestionar alertas ,T160275,ARQ093,Constituir colaterales,Gestionar alertas,,
+solicitar ajuste ,T160275,ARQ013,Ejecutar transacción monetaria,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+generar alerta ,T160275,ARQ093,Constituir colaterales,Generar alerta documental,,Procesar documento
+generar alerta ,T160275,ARQ093,Constituir colaterales,Generar alertas de eventos o inconsistencias,,
+recibir respuesta ,T160275,ARQ093,Constituir colaterales,Recibir respuesta del limite,,
+realizar seguimiento ,T160275,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160275,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160275,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento a planes de acciÃ³n.,,
+monitorear experiencia del cliente [act366] ,T160275,ARQ093,Constituir colaterales,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencia del cliente [act366] ,T160275,ARQ093,Constituir colaterales,Monitorear experiencia,,Atender solicitudes de usuario
+identificar oportunidades de mejora ,T160275,ARQ013,Ejecutar transacción monetaria,Identificar oportunidades de mejora del proceso de contenidos,,
+generar alertas ,T160275,ARQ093,Constituir colaterales,Generar alertas de eventos o inconsistencias,,
+generar alerta ,T160275,ARQ013,Ejecutar transacción monetaria,Generar alerta documental,,Procesar documento
+generar alerta ,T160275,ARQ013,Ejecutar transacción monetaria,Generar alertas de eventos o inconsistencias,,
+recibir solicitud de licencias ,T160275,ARQ093,Constituir colaterales,Recibir solicitud,,
+realizar seguimiento ,T160275,ARQ093,Constituir colaterales,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160275,ARQ093,Constituir colaterales,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160275,ARQ093,Constituir colaterales,Realizar seguimiento a planes de acciÃ³n.,,
+aqr ,T160290,ARQ013,Ejecutar transacción monetaria,Atender solicitudes AQR's ,,
+gestionar novedades ,T160290,ARQ013,Ejecutar transacción monetaria,Gestionar novedades para campos protegidos,,
+identificar novedades ,T160290,ARQ013,Ejecutar transacción monetaria,Identificar novedades de forma proactiva ,,
+cerrar caso de novedad ,T160290,ARQ093,Constituir colaterales,Cerrar caso.,,
+realizar ajuste ,T160290,ARQ093,Constituir colaterales,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+recibir solicitud para generar cuenta de cobro ,T160362,ARQ093,Constituir colaterales,Recibir solicitud,,
+analizar resultados ,T160440,ARQ005,Aplicar novedad,Analizar resultados del proceso de monitoreo contable,,
+cerrar caso ,T160440,ARQ005,Aplicar novedad,Cerrar caso.,,
+revisar condiciones ,T160440,ARQ005,Aplicar novedad,Revisar condiciones /anexos/procedimientos de los convenios,,
+gestionar cambios ,T160440,ARQ005,Aplicar novedad,Gestionar cambios de Ãºltima hora y reprogramaciones,,
+asociar producto al cliente [cp0358] ,T160444,ARQ005,Aplicar novedad,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-03] ,T160444,ARQ005,Aplicar novedad,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-02] ,T160444,ARQ005,Aplicar novedad,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-01] ,T160444,ARQ005,Aplicar novedad,Asociar producto al cliente,,Abrir producto
+atender solicitud ,T160444,ARQ005,Aplicar novedad,Atender solicitudes de entes externos.,,
+atender solicitud ,T160444,ARQ005,Aplicar novedad,Atender solicitudes de desembolso,,
+atender solicitud ,T160444,ARQ005,Aplicar novedad,Atender solicitudes AQR's ,,
+atender solicitud ,T160444,ARQ005,Aplicar novedad,Atender solicitudes del usuario,,
+asociar producto al cliente [cp0358-02] ,T160444,ARQ002,Abrir producto,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-01] ,T160444,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-02] ,T160444,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358] ,T160444,ARQ002,Abrir producto,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-21] ,T160444,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-01] ,T160444,ARQ002,Abrir producto,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358] ,T160444,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-04] ,T160444,ARQ039,Ejecutar el desembolso,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-03] ,T160444,ARQ039,Ejecutar el desembolso,Asociar producto al cliente,,Abrir producto
+asociar producto al cliente [cp0358-01] ,T160444,ARQ039,Ejecutar el desembolso,Asociar producto al cliente,,Abrir producto
+elaborar informe o reporte [cp1078] ,T160444,ARQ039,Ejecutar el desembolso,Elaborar informe o reporte,,Generar informaciÃ³n
+cerrar casos de bizagi ,T160452,ARQ039,Ejecutar el desembolso,Cerrar caso.,,
+consultar solicitudes pendientes ,T160456,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Consultar solicitudes,,Atender solicitudes de usuarios
+consultar solicitudes pendientes ,T160456,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Consultar solicitudes,,Atender solicitudes de usuario
+reportar inconsistencias ,T160456,ARQ002,Abrir producto,Detectar y reportar inconsistencias operativas,,
+gestionar novedades ,T160642,ARQ001,Realizar Estudio de Crédito,Gestionar novedades para campos protegidos,,
+recibir solicitud de ajuste al pago ,T160642,ARQ001,Realizar Estudio de Crédito,Recibir solicitud,,
+crear caso ,T160642,ARQ001,Realizar Estudio de Crédito,Crear Caso de investigaciÃ³n.,,
+1\. identificar tipo de novedad ,T160642,ARQ001,Realizar Estudio de Crédito,Identificar tipo de novedad,,Aplicar novedad
+1\. identificar tipo de novedad ,T160642,ARQ001,Realizar Estudio de Crédito,Identificar tipo de novedad,,Aplicar novedades
+atender solicitud ,T160654,ARQ013,Ejecutar transacción monetaria,Atender solicitudes de entes externos.,,
+atender solicitud ,T160654,ARQ013,Ejecutar transacción monetaria,Atender solicitudes de desembolso,,
+atender solicitud ,T160654,ARQ013,Ejecutar transacción monetaria,Atender solicitudes AQR's ,,
+atender solicitud ,T160654,ARQ013,Ejecutar transacción monetaria,Atender solicitudes del usuario,,
+cerrar solicitud ,T160666,ARQ013,Ejecutar transacción monetaria,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160666,ARQ013,Ejecutar transacción monetaria,Cerrar solicitud novedad,,
+extraer datos ,T160667,ARQ013,Ejecutar transacción monetaria,Extraer datos e informaciÃ³n,,
+gestionar novedades ,T160667,ARQ013,Ejecutar transacción monetaria,Gestionar novedades para campos protegidos,,
+procesar datos ,T160667,ARQ013,Ejecutar transacción monetaria,Procesar dato,,Generar informaciÃ³n
+recibir solicitud de parámetro ,T160668,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+guardar ,T160668,ARQ013,Ejecutar transacción monetaria,Guardar el resultado de la simulaciÃ³n,,Abrir producto
+guardar ,T160668,ARQ013,Ejecutar transacción monetaria,Guardar el resultado de la simulaciÃ³n,,Aplicar novedad
+recibir solicitud o novedad ,T160668,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+gestionar novedad ,T160668,ARQ013,Ejecutar transacción monetaria,Gestionar novedades para campos protegidos,,
+solicitar ajuste ,T160668,ARQ013,Ejecutar transacción monetaria,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+cerrar caso ,T160668,ARQ013,Ejecutar transacción monetaria,Cerrar caso.,,
+atender requerimiento ,T160668,ARQ005,Aplicar novedad,Atender requerimientos de auditorÃ­a,,
+notificar al cliente ,T160668,ARQ005,Aplicar novedad,Notificar al clientes activaciÃ³n del producto,,
+solicitar ajustes ,T160668,ARQ005,Aplicar novedad,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+aplicar cambio ,T160668,ARQ005,Aplicar novedad,Aplicar cambios solicitados,,
+recibir solicitud servicio ,T160668,ARQ005,Aplicar novedad,Recibir solicitud,,
+elaborar informe o reporte [cmp86] ,T160668,ARQ005,Aplicar novedad,Elaborar informe o reporte,,Generar informaciÃ³n
+recibir solicitud del canal ,PAN040310,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud de mailpoint ,PAN040310,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir solicitud ,PAN040310,ARQ002,Abrir producto,Recibir solicitud,,
+reportar inconsistencias ,PAN040705,ARQ002,Abrir producto,Detectar y reportar inconsistencias operativas,,
+segmentar cliente ,PAN050802,ARQ013,Ejecutar transacción monetaria,Segmentar cliente,,
+segmentar cliente ,PAN050802,ARQ013,Ejecutar transacción monetaria,Segmentar cliente,,Realizar VinculaciÃ³n
+cerrar solicitud ,PAN050802,ARQ002,Abrir producto,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,PAN050802,ARQ002,Abrir producto,Cerrar solicitud novedad,,
+c007: evaluar debida diligencia alto riesgo ,PAN050802,ARQ013,Ejecutar transacción monetaria,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+cerrar solicitud ,PAN050802,ARQ013,Ejecutar transacción monetaria,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,PAN050802,ARQ013,Ejecutar transacción monetaria,Cerrar solicitud novedad,,
+capturar datos ,PAN050802,ARQ013,Ejecutar transacción monetaria,Capturar datos,,Administrar servicio en canales
+capturar datos ,PAN050802,ARQ013,Ejecutar transacción monetaria,Capturar datos e interacciones del cliente,,Ninguno
+recibir solicitud de vinculación ,PAN050802,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+segmentar cliente ,PAN050802,ARQ002,Abrir producto,Segmentar cliente,,
+segmentar cliente ,PAN050802,ARQ002,Abrir producto,Segmentar cliente,,Realizar VinculaciÃ³n
+c007: evaluar debida diligencia alto riesgo ,PAN050802,ARQ002,Abrir producto,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+capturar datos ,PAN050802,ARQ002,Abrir producto,Capturar datos,,Administrar servicio en canales
+capturar datos ,PAN050802,ARQ002,Abrir producto,Capturar datos e interacciones del cliente,,Ninguno
+recibir solicitud de vinculación ,PAN050802,ARQ002,Abrir producto,Recibir solicitud,,
+c004:gestionar alertas de derechos de petición ,T050301,ARQ002,Abrir producto,Gestionar alertas,,
+identificar brechas ,T051923,ARQ013,Ejecutar transacción monetaria,Identificar brechas entre mensaje emitido y percepciÃ³n recibida,,
+generar documento legal [act369] ,T051923,ARQ039,Ejecutar el desembolso,Generar documento,,Abrir producto
+generar documento legal [act369] ,T051923,ARQ039,Ejecutar el desembolso,Generar documento,,Aplicar novedad
+exponer valor a cobrar cp391 ,T051923,ARQ013,Ejecutar transacción monetaria,Exponer valor a cobrar,,Ejecutar transacciÃ³n monetaria
+exponer precio y/o beneficio cp490 ,T051923,ARQ039,Ejecutar el desembolso,Exponer precio y/o beneficio,,"Determinar y calcular rentabilidad del cliente, precios y beneficios "
+generar precio cp489 ,T051923,ARQ005,Aplicar novedad,Generar precio ,,"Determinar y calcular rentabilidad del cliente, precios y beneficios "
+generar documento de aceptación de condiciones ,T051923,ARQ005,Aplicar novedad,Generar documento,,Abrir producto
+generar documento de aceptación de condiciones ,T051923,ARQ005,Aplicar novedad,Generar documento,,Aplicar novedad
+generar alertas ,T051923,ARQ005,Aplicar novedad,Generar alertas de eventos o inconsistencias,,
+aplicar reglas de negocio en compras y facturas ,T051923,ARQ005,Aplicar novedad,Aplicar reglas de negocio,,Generar informaciÃ³n
+realizar firma [cmt78] ,T051924,ARQ005,Aplicar novedad,Realizar firma,,Abrir producto
+notificar al cliente ,T051924,ARQ005,Aplicar novedad,Notificar al clientes activaciÃ³n del producto,,
+realizar seguimiento ,T051924,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T051924,ARQ005,Aplicar novedad,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T051924,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n.,,
+habilitar pago ,T051924,ARQ005,Aplicar novedad,Habilitar pago de obligaciones,,
+entregar producto [act151] ,T051924,ARQ022,Generar información,Entregar producto,,Aplicar novedad
+realizar firma [cmt78] ,T051924,ARQ022,Generar información,Realizar firma,,Abrir producto
+notificar al cliente ,T051924,ARQ022,Generar información,Notificar al clientes activaciÃ³n del producto,,
+realizar ajuste ,T080508,ARQ114,Realizar Vinculación,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+conciliar transacciones ,T080516,ARQ114,Realizar Vinculación,Conciliar transacciones y registros operativos,,
+certificar cuentas contables de recaudos ,T080516,ARQ027,Atender solicitudes de usuario,Certificar cuenta,,Ejecutar el cuadre contable del producto
+solicitar ajuste ,T080902,ARQ027,Atender solicitudes de usuario,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+realizar ajuste ,T080902,ARQ027,Atender solicitudes de usuario,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+certificar cuenta ,T080902,ARQ027,Atender solicitudes de usuario,Certificar cuenta,,Ejecutar el cuadre contable del producto
+c009 certificar cuenta ,T080902,ARQ027,Atender solicitudes de usuario,Certificar cuenta,,Ejecutar el cuadre contable del producto
+c005:certificar cuenta ,T080902,ARQ027,Atender solicitudes de usuario,Certificar cuenta,,Ejecutar el cuadre contable del producto
+generar alerta ,T081001,ARQ140,Administrar servicio en canales,Generar alerta documental,,Procesar documento
+generar alerta ,T081001,ARQ140,Administrar servicio en canales,Generar alertas de eventos o inconsistencias,,
+escalar novedad ,T081001,ARQ140,Administrar servicio en canales,Escalar novedades,,
+notificar inconsistencia ,T081001,ARQ114,Realizar Vinculación,Notificar inconsistencias,,
+generar documentos de pago ,T081001,ARQ027,Atender solicitudes de usuario,Generar documento,,Abrir producto
+generar documentos de pago ,T081001,ARQ027,Atender solicitudes de usuario,Generar documento,,Aplicar novedad
+recibir solicitud de novedad del establecimiento ,T160057,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+escalar novedad ,T160057,ARQ123,Ejecutar cuadre contable del producto,Escalar novedades,,
+custodiar documento ,T160057,ARQ123,Ejecutar cuadre contable del producto,Custodiar documento,,Procesar documento
+cerrar caso como exitoso en flujo de flujos ,T160057,ARQ123,Ejecutar cuadre contable del producto,Cerrar caso.,,
+recibir solicitud y cargar plantilla en ruta controles ,T160057,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+generar documentos ,T160065,ARQ123,Ejecutar cuadre contable del producto,Generar documento,,Abrir producto
+generar documentos ,T160065,ARQ123,Ejecutar cuadre contable del producto,Generar documento,,Aplicar novedad
+recibir solicitud y hacer validaciones ,T160065,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+recibir solicitud y cargar plantilla en ruta controles ,T160065,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+monitorear eventos ,T160076,ARQ123,Ejecutar cuadre contable del producto,Monitorear eventos criticos,,
+realizar pruebas de conexión ,T160076,ARQ123,Ejecutar cuadre contable del producto,Realizar pruebas,,
+recibir solicitud del cliente y radicar solicitud ,T160087,ARQ022,Generar información,Recibir solicitud,,
+recibir solicitud del cliente ,T160087,ARQ022,Generar información,Recibir solicitud,,
+recibir solicitud ,T160087,ARQ005,Aplicar novedad,Recibir solicitud,,
+notificar al cliente ,T160087,ARQ005,Aplicar novedad,Notificar al clientes activaciÃ³n del producto,,
+notificar inconsistencia ,T160087,ARQ005,Aplicar novedad,Notificar inconsistencias,,
+recibir solicitud del cliente y radicar solicitud ,T160087,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud del cliente ,T160087,ARQ005,Aplicar novedad,Recibir solicitud,,
+atender solicitud ,T160099,ARQ002,Abrir producto,Atender solicitudes de entes externos.,,
+atender solicitud ,T160099,ARQ002,Abrir producto,Atender solicitudes de desembolso,,
+atender solicitud ,T160099,ARQ002,Abrir producto,Atender solicitudes AQR's ,,
+atender solicitud ,T160099,ARQ002,Abrir producto,Atender solicitudes del usuario,,
+atender solicitud ,T160108,ARQ002,Abrir producto,Atender solicitudes de entes externos.,,
+atender solicitud ,T160108,ARQ002,Abrir producto,Atender solicitudes de desembolso,,
+atender solicitud ,T160108,ARQ002,Abrir producto,Atender solicitudes AQR's ,,
+atender solicitud ,T160108,ARQ002,Abrir producto,Atender solicitudes del usuario,,
+recibir solicitud de mantenimiento por parte del cliente ,T160108,ARQ002,Abrir producto,Recibir solicitud,,
+recibir solicitud y revisar validaciones ,T160108,ARQ002,Abrir producto,Recibir solicitud,,
+contactabilidad ,T160108,ARQ002,Abrir producto,Ejecutar misiones mediante contactabilidad,,Ninguno
+contactabilidad ,T160108,ARQ002,Abrir producto,Recomendar ajustes de contactabilidad,,Ninguno
+contactabilidad ,T160108,ARQ002,Abrir producto,Generar la instrucciÃ³n de contactabilidad,,Abrir producto
+contactabilidad ,T160108,ARQ002,Abrir producto,Generar la instrucciÃ³n de contactabilidad,,Atender solicitudes de usuarios
+contactabilidad ,T160108,ARQ002,Abrir producto,Generar la instrucciÃ³n de contactabilidad,,Ejecutar transacciÃ³n monetaria
+contactabilidad ,T160108,ARQ002,Abrir producto,Generar la instrucciÃ³n de contactabilidad,,Procesar compensaciÃ³n
+contactabilidad ,T160108,ARQ002,Abrir producto,Generar la instrucciÃ³n de contactabilidad,,Atender solicitudes de usuario
+cerrar solicitud ,T160108,ARQ002,Abrir producto,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160108,ARQ002,Abrir producto,Cerrar solicitud novedad,,
+"recibir solicitud de cambio de ciclo para el plan eb8, ec8 o p04 de cartera ",T160108,ARQ002,Abrir producto,Recibir solicitud,,
+generar informes ,T160108,ARQ002,Abrir producto,Generar informes de monitoreo,,
+custodiar documentos definitivo datafile ,T160112,ARQ013,Ejecutar transacción monetaria,Custodiar documento,,Procesar documento
+recibir solicitud ,T160112,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear metodologÃ­as de riesgos de cumplimiento.,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear cierre de caso.,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear el conocimiento.,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear entorno de cumplimiento.,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear cumplimiento de misiones,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,"Monitorear experiencias, ofertas y alianzas",,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear indicadores de calidad de datos,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear y auditar parÃ¡metros,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear accesos,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear saldos contables,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear saldos operativos,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear vigencia del parÃ¡metro,,Aplicar novedad
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear vigencia del parÃ¡metro,,Aplicar novedades
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear y controlar reportes y KPI,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear desempeÃ±o de auditorÃ­a,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear entorno,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear la evoluciÃ³n de principalidad por cliente,,Ninguno
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear la satisfacciÃ³n y valor percibido de experiencias no financieras,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear el desempeÃ±o de aliados y cumplimiento de SLAs,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear la efectividad de cambios y optimizaciones,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,"Monitorear menciones de marca, productos y campaÃ±as",,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear la conversiÃ³n y penetraciÃ³n digital,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear la experiencia de ventas digitales,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear niveles de fondeo,,Fondear transacciÃ³n monetaria
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear experiencia,,Atender solicitudes de usuario
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear consumos,,Causar condiciones financieras del producto
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear informaciÃ³n,,Generar informaciÃ³n
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear gestiÃ³n de novedades,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Establecer parametros e informaciÃ³n a monitorear,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Trazar y monitorear ciclo de vida de las facturas,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear comportamiento de clientes,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear eventos criticos,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear disponibilidad de sistemas y plataforma,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear Apertura,,Abrir producto
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear cumplimiento de condiciones econÃ³micas,,Causar condiciones financieras del producto
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear pago,,Solicitar el pago de proveedores y aliados
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear transacciÃ³n,,Ejecutar transacciÃ³n monetaria
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear novedades,,Aplicar novedad
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear novedades,,Aplicar novedades
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear cambios regulatorios.,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear la disponibilidad del canal,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear el comportamiento del cliente en el canal,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear riesgos operativos asociados al canal,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear los niveles de servicio del canal,,
+monitorear ,T160112,ARQ013,Ejecutar transacción monetaria,Monitorear inventarios de efectivo,,Coordinar transporte y distribuciÃ³n de efectivo
+realizar seguimiento ,T160112,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160112,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160112,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento a planes de acciÃ³n.,,
+notificar inconsistencias de la escritura ,T160112,ARQ013,Ejecutar transacción monetaria,Notificar inconsistencias,,
+gestionar alerta ,T160112,ARQ013,Ejecutar transacción monetaria,Gestionar alertas,,
+validar condiciones ,T160112,ARQ013,Ejecutar transacción monetaria,Validar condiciones del producto origen,,Ejecutar transacciÃ³n monetaria
+validar condiciones ,T160112,ARQ013,Ejecutar transacción monetaria,Validar condiciones aprobadas ,,
+validar condiciones ,T160112,ARQ013,Ejecutar transacción monetaria,Validar condiciones de acceso del cliente al canal,,
+reportar inconsistencia ,T160112,ARQ013,Ejecutar transacción monetaria,Detectar y reportar inconsistencias operativas,,
+generar informe ,T160112,ARQ013,Ejecutar transacción monetaria,Generar informes de monitoreo,,
+notificar inconsistencias de la garantía ,T160112,ARQ013,Ejecutar transacción monetaria,Notificar inconsistencias,,
+notificar inconsistencias ,T160112,ARQ013,Ejecutar transacción monetaria,Notificar inconsistencias,,
+generar documento legal ,T160112,ARQ013,Ejecutar transacción monetaria,Generar documento,,Abrir producto
+generar documento legal ,T160112,ARQ013,Ejecutar transacción monetaria,Generar documento,,Aplicar novedad
+elaborar informe ,T160112,ARQ013,Ejecutar transacción monetaria,Elaborar informe o reporte,,Generar informaciÃ³n
+generar informes ,T160112,ARQ013,Ejecutar transacción monetaria,Generar informes de monitoreo,,
+recibir documentos ,T160147,ARQ013,Ejecutar transacción monetaria,Recibir documentos comerciales,,
+gestionar alertas [cp0191] ,T160150,ARQ013,Ejecutar transacción monetaria,Gestionar alertas,,
+recibir solicitud de creación de tarjetas ,T160159,ARQ005,Aplicar novedad,Recibir solicitud,,
+segmentar clientes potenciales ,T160220,ARQ005,Aplicar novedad,Segmentar cliente,,
+segmentar clientes potenciales ,T160220,ARQ005,Aplicar novedad,Segmentar cliente,,Realizar VinculaciÃ³n
+reportar inconsistencias ,T160220,ARQ123,Ejecutar cuadre contable del producto,Detectar y reportar inconsistencias operativas,,
+generar informe ,T160220,ARQ005,Aplicar novedad,Generar informes de monitoreo,,
+generar documento legal [act369] ,T160220,ARQ005,Aplicar novedad,Generar documento,,Abrir producto
+generar documento legal [act369] ,T160220,ARQ005,Aplicar novedad,Generar documento,,Aplicar novedad
+monitorear experiencia del cliente [act366] ,T160273,ARQ005,Aplicar novedad,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencia del cliente [act366] ,T160273,ARQ005,Aplicar novedad,Monitorear experiencia,,Atender solicitudes de usuario
+contingencia ,T160273,ARQ123,Ejecutar cuadre contable del producto,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T160273,ARQ123,Ejecutar cuadre contable del producto,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T160273,ARQ123,Ejecutar cuadre contable del producto,Atender contingencias operativas,,
+realizar seguimiento ,T160273,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160273,ARQ005,Aplicar novedad,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160273,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n.,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Definir la estrategia de atracciÃ³n para ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Ejecutar acciones de atracciÃ³n de clientes para ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Definir la estrategia de conversiÃ³n en ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Monitorear la experiencia de ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Reportar desempeÃ±o y aprendizajes de ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Administrar la operaciÃ³n de experiencias de ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Evolucionar experiencias de ventas digitales,,
+ventas ,T160273,ARQ123,Ejecutar cuadre contable del producto,Configurar material de ventas,,
+generar indicadores de venta responsable ,T160275,ARQ005,Aplicar novedad,Generar indicadores,,
+gestionar alertas ,T160275,ARQ123,Ejecutar cuadre contable del producto,Gestionar alertas,,
+solicitar ajuste ,T160275,ARQ005,Aplicar novedad,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+generar alerta ,T160275,ARQ123,Ejecutar cuadre contable del producto,Generar alerta documental,,Procesar documento
+generar alerta ,T160275,ARQ123,Ejecutar cuadre contable del producto,Generar alertas de eventos o inconsistencias,,
+recibir respuesta ,T160275,ARQ123,Ejecutar cuadre contable del producto,Recibir respuesta del limite,,
+realizar seguimiento ,T160275,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160275,ARQ005,Aplicar novedad,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160275,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n.,,
+monitorear experiencia del cliente [act366] ,T160275,ARQ123,Ejecutar cuadre contable del producto,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencia del cliente [act366] ,T160275,ARQ123,Ejecutar cuadre contable del producto,Monitorear experiencia,,Atender solicitudes de usuario
+identificar oportunidades de mejora ,T160275,ARQ005,Aplicar novedad,Identificar oportunidades de mejora del proceso de contenidos,,
+generar alertas ,T160275,ARQ123,Ejecutar cuadre contable del producto,Generar alertas de eventos o inconsistencias,,
+generar alerta ,T160275,ARQ005,Aplicar novedad,Generar alerta documental,,Procesar documento
+generar alerta ,T160275,ARQ005,Aplicar novedad,Generar alertas de eventos o inconsistencias,,
+recibir solicitud de licencias ,T160275,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+realizar seguimiento ,T160275,ARQ123,Ejecutar cuadre contable del producto,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160275,ARQ123,Ejecutar cuadre contable del producto,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160275,ARQ123,Ejecutar cuadre contable del producto,Realizar seguimiento a planes de acciÃ³n.,,
+ejecutar control ,T160288,ARQ123,Ejecutar cuadre contable del producto,Ejecutar controles,,
+ejecutar control ,T160288,ARQ123,Ejecutar cuadre contable del producto,Ejecutar control de calidad (QA) previo a publicaciÃ³n,,
+notificar al cliente ,T160355,ARQ005,Aplicar novedad,Notificar al clientes activaciÃ³n del producto,,
+reportar diferencias ,T160355,ARQ005,Aplicar novedad,Reportar diferencias contables vs operativas,,
+recibir solicitud ,T160355,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+recibir solicitud de actualización ,T160420,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud de aclaración de los valores facturados ,T160458,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+cerrar solicitudes ,T160493,ARQ005,Aplicar novedad,Cerrar solicitudes de cumplimiento,,
+ejecutar controles operativos ,T160493,ARQ005,Aplicar novedad,Ejecutar controles,,
+cerrar solicitudes ,T160493,ARQ002,Abrir producto,Cerrar solicitudes de cumplimiento,,
+ejecutar controles operativos ,T160493,ARQ002,Abrir producto,Ejecutar controles,,
+generar reporte ,T160609,ARQ005,Aplicar novedad,Generar reportes de auditorÃ­as realizadas,,
+cerrar casos ,T160609,ARQ002,Abrir producto,Cerrar caso.,,
+validar resultado ,T160609,ARQ005,Aplicar novedad,Validar resultados tÃ©cnicos,,
+validar resultado ,T160609,ARQ002,Abrir producto,Validar resultados tÃ©cnicos,,
+generar informe ,T160609,ARQ005,Aplicar novedad,Generar informes de monitoreo,,
+certificar cuentas contables [act364] ,T160615,ARQ005,Aplicar novedad,Certificar cuenta,,Ejecutar el cuadre contable del producto
+c005: certificar cuentas contables [act364] ,T160615,ARQ005,Aplicar novedad,Certificar cuenta,,Ejecutar el cuadre contable del producto
+recibir solicitud del cliente ,T160621,ARQ093,Estudiar y constituir garantía,Recibir solicitud,,
+atender solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Atender solicitudes de entes externos.,,
+atender solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Atender solicitudes de desembolso,,
+atender solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Atender solicitudes AQR's ,,
+atender solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Atender solicitudes del usuario,,
+notificar al cliente ,T160621,ARQ093,Estudiar y constituir garantía,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud de mantenimiento por parte del cliente ,T160621,ARQ093,Estudiar y constituir garantía,Recibir solicitud,,
+recibir solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Recibir solicitud,,
+cerrar solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160621,ARQ093,Estudiar y constituir garantía,Cerrar solicitud novedad,,
+recibir solicitud por parte del cliente ,T160621,ARQ093,Estudiar y constituir garantía,Recibir solicitud,,
+gestionar novedades ,T160642,ARQ093,Estudiar y constituir garantía,Gestionar novedades para campos protegidos,,
+gestionar novedades ,T160642,ARQ039,Ejecutar el desembolso,Gestionar novedades para campos protegidos,,
+recibir solicitud de ajuste al pago ,T160642,ARQ039,Ejecutar el desembolso,Recibir solicitud,,
+crear caso ,T160642,ARQ039,Ejecutar el desembolso,Crear Caso de investigaciÃ³n.,,
+1\. identificar tipo de novedad ,T160642,ARQ039,Ejecutar el desembolso,Identificar tipo de novedad,,Aplicar novedad
+1\. identificar tipo de novedad ,T160642,ARQ039,Ejecutar el desembolso,Identificar tipo de novedad,,Aplicar novedades
+notificar al cliente ,T160642,ARQ039,Ejecutar el desembolso,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud ,T160642,ARQ039,Ejecutar el desembolso,Recibir solicitud,,
+generar asiento contable ,T160642,ARQ039,Ejecutar el desembolso,Generar asiento contable,,Ejecutar el cuadre contable del producto
+contingencia ,T160642,ARQ039,Ejecutar el desembolso,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T160642,ARQ039,Ejecutar el desembolso,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T160642,ARQ039,Ejecutar el desembolso,Atender contingencias operativas,,
+recibir solicitud de ajuste al pago ,T160642,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+crear caso ,T160642,ARQ013,Ejecutar transacción monetaria,Crear Caso de investigaciÃ³n.,,
+1\. identificar tipo de novedad ,T160642,ARQ003,Cobrar condiciones financieras del producto,Identificar tipo de novedad,,Aplicar novedad
+1\. identificar tipo de novedad ,T160642,ARQ003,Cobrar condiciones financieras del producto,Identificar tipo de novedad,,Aplicar novedades
+notificar al cliente ,T160642,ARQ003,Cobrar condiciones financieras del producto,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud ,T160642,ARQ003,Cobrar condiciones financieras del producto,Recibir solicitud,,
+generar asiento contable ,T160642,ARQ003,Cobrar condiciones financieras del producto,Generar asiento contable,,Ejecutar el cuadre contable del producto
+contingencia ,T160642,ARQ003,Cobrar condiciones financieras del producto,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T160642,ARQ003,Cobrar condiciones financieras del producto,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T160642,ARQ003,Cobrar condiciones financieras del producto,Atender contingencias operativas,,
+gestionar alertas alcon ,T160647,ARQ002,Abrir producto,Gestionar alertas,,
+certificar cuentas contables [act364] ,T160647,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Certificar cuenta,,Ejecutar el cuadre contable del producto
+certificar cuentas a cargo en alcon ,T160647,ARQ002,Abrir producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+generar informe ,T160657,ARQ002,Abrir producto,Generar informes de monitoreo,,
+generar informes ,T160657,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Generar informes de monitoreo,,
+generar informe ,T160657,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Generar informes de monitoreo,,
+generar informes ,T160657,ARQ002,Abrir producto,Generar informes de monitoreo,,
+extraer datos ,T160667,ARQ002,Abrir producto,Extraer datos e informaciÃ³n,,
+gestionar novedades ,T160667,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Gestionar novedades para campos protegidos,,
+procesar datos ,T160667,ARQ002,Abrir producto,Procesar dato,,Generar informaciÃ³n
+extraer datos ,T160667,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Extraer datos e informaciÃ³n,,
+gestionar novedades ,T160667,ARQ002,Abrir producto,Gestionar novedades para campos protegidos,,
+procesar datos ,T160667,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Procesar dato,,Generar informaciÃ³n
+recibir solicitud de parámetro ,T160668,ARQ005,Aplicar novedad,Recibir solicitud,,
+guardar ,T160668,ARQ005,Aplicar novedad,Guardar el resultado de la simulaciÃ³n,,Abrir producto
+guardar ,T160668,ARQ005,Aplicar novedad,Guardar el resultado de la simulaciÃ³n,,Aplicar novedad
+recibir solicitud o novedad ,T160668,ARQ002,Abrir producto,Recibir solicitud,,
+gestionar novedad ,T160668,ARQ002,Abrir producto,Gestionar novedades para campos protegidos,,
+solicitar ajuste ,T160668,ARQ002,Abrir producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+cerrar caso ,T160668,ARQ002,Abrir producto,Cerrar caso.,,
+atender requerimientos ,T160668,ARQ002,Abrir producto,Atender requerimientos de auditorÃ­a,,
+atender novedad ,T160668,ARQ002,Abrir producto,Atender novedades por cambios de tarifas,,
+atender novedad ,T160668,ARQ002,Abrir producto,Atender novedades operativas,,
+solicitar ajustes ,T160668,ARQ002,Abrir producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+atender requerimiento ,T160668,ARQ002,Abrir producto,Atender requerimientos de auditorÃ­a,,
+notificar al cliente ,T160668,ARQ002,Abrir producto,Notificar al clientes activaciÃ³n del producto,,
+aplicar cambio ,T160668,ARQ002,Abrir producto,Aplicar cambios solicitados,,
+recibir solicitud servicio ,T160668,ARQ002,Abrir producto,Recibir solicitud,,
+elaborar informe o reporte [cmp86] ,T160668,ARQ002,Abrir producto,Elaborar informe o reporte,,Generar informaciÃ³n
+recibir solicitud de parámetro ,T160668,ARQ002,Abrir producto,Recibir solicitud,,
+guardar ,T160668,ARQ002,Abrir producto,Guardar el resultado de la simulaciÃ³n,,Abrir producto
+guardar ,T160668,ARQ002,Abrir producto,Guardar el resultado de la simulaciÃ³n,,Aplicar novedad
+atender requerimientos ,T160668,ARQ013,Ejecutar transacción monetaria,Atender requerimientos de auditorÃ­a,,
+atender novedad ,T160668,ARQ013,Ejecutar transacción monetaria,Atender novedades por cambios de tarifas,,
+atender novedad ,T160668,ARQ013,Ejecutar transacción monetaria,Atender novedades operativas,,
+solicitar ajustes ,T160668,ARQ013,Ejecutar transacción monetaria,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+atender requerimiento ,T160668,ARQ013,Ejecutar transacción monetaria,Atender requerimientos de auditorÃ­a,,
+notificar al cliente ,T160668,ARQ013,Ejecutar transacción monetaria,Notificar al clientes activaciÃ³n del producto,,
+aplicar cambio ,T160668,ARQ013,Ejecutar transacción monetaria,Aplicar cambios solicitados,,
+recibir solicitud servicio ,T160668,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+elaborar informe o reporte [cmp86] ,T160668,ARQ013,Ejecutar transacción monetaria,Elaborar informe o reporte,,Generar informaciÃ³n
+recibir solicitud o novedad ,T160668,ARQ005,Aplicar novedad,Recibir solicitud,,
+gestionar novedad ,T160668,ARQ005,Aplicar novedad,Gestionar novedades para campos protegidos,,
+solicitar ajuste ,T160668,ARQ005,Aplicar novedad,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+cerrar caso ,T160668,ARQ005,Aplicar novedad,Cerrar caso.,,
+atender requerimientos ,T160668,ARQ005,Aplicar novedad,Atender requerimientos de auditorÃ­a,,
+atender novedad ,T160668,ARQ005,Aplicar novedad,Atender novedades por cambios de tarifas,,
+atender novedad ,T160668,ARQ005,Aplicar novedad,Atender novedades operativas,,
+aplicar cambio ,T160668,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Aplicar cambios solicitados,,
+elaborar informe o reporte [cmp86] ,T160668,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Elaborar informe o reporte,,Generar informaciÃ³n
+custodiar documentos físicos ,T160669,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Custodiar documento,,Procesar documento
+custodiar documentos físicos ,T160669,ARQ002,Abrir producto,Custodiar documento,,Procesar documento
+entregar producto [act151] ,T160669,ARQ002,Abrir producto,Entregar producto,,Aplicar novedad
+realizar firma [cmt78] ,T160669,ARQ002,Abrir producto,Realizar firma,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ002,Abrir producto,Generar documento,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ002,Abrir producto,Generar documento,,Aplicar novedad
+custodiar documentos en la nube ,T160669,ARQ002,Abrir producto,Custodiar documento,,Procesar documento
+custodiar documentos ,T160669,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Custodiar documento,,Procesar documento
+realizar firma [cmt78] ,T160669,ARQ022,Generar información,Realizar firma,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ022,Generar información,Generar documento,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ022,Generar información,Generar documento,,Aplicar novedad
+custodiar documentos en la nube ,T160669,ARQ022,Generar información,Custodiar documento,,Procesar documento
+custodiar documentos ,T160669,ARQ022,Generar información,Custodiar documento,,Procesar documento
+custodiar documentos físicos ,T160669,ARQ022,Generar información,Custodiar documento,,Procesar documento
+entregar producto [act151] ,T160669,ARQ022,Generar información,Entregar producto,,Aplicar novedad
+generar documento [cmf04] ,T160669,ARQ123,Ejecutar cuadre contable del producto,Generar documento,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ123,Ejecutar cuadre contable del producto,Generar documento,,Aplicar novedad
+custodiar documentos en la nube ,T160669,ARQ123,Ejecutar cuadre contable del producto,Custodiar documento,,Procesar documento
+custodiar documentos ,T160669,ARQ123,Ejecutar cuadre contable del producto,Custodiar documento,,Procesar documento
+recibir solicitud de rebaja ,PAN040305,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir solicitud de rebaja ,PAN040305,ARQ002,Abrir producto,Recibir solicitud,,
+recibir solicitud ,PAN040314,ARQ002,Abrir producto,Recibir solicitud,,
+recibir solicitud ,PAN040314,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+c004:gestionar alertas de derechos de petición ,T050301,ARQ013,Ejecutar transacción monetaria,Gestionar alertas,,
+notificar al cliente ,T051924,ARQ123,Ejecutar cuadre contable del producto,Notificar al clientes activaciÃ³n del producto,,
+realizar seguimiento ,T051924,ARQ123,Ejecutar cuadre contable del producto,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T051924,ARQ123,Ejecutar cuadre contable del producto,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T051924,ARQ123,Ejecutar cuadre contable del producto,Realizar seguimiento a planes de acciÃ³n.,,
+habilitar pago ,T051924,ARQ123,Ejecutar cuadre contable del producto,Habilitar pago de obligaciones,,
+entregar producto [act151] ,T051924,ARQ123,Ejecutar cuadre contable del producto,Entregar producto,,Aplicar novedad
+generar reportes ,T070203,ARQ123,Ejecutar cuadre contable del producto,Generar reportes de auditorÃ­as realizadas,,
+monitorear experiencias ,T070203,ARQ123,Ejecutar cuadre contable del producto,"Monitorear experiencias, ofertas y alianzas",,
+monitorear experiencias ,T070203,ARQ123,Ejecutar cuadre contable del producto,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencias ,T070203,ARQ123,Ejecutar cuadre contable del producto,Monitorear experiencia,,Atender solicitudes de usuario
+aplicar novedad ,T070203,ARQ123,Ejecutar cuadre contable del producto,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ123,Ejecutar cuadre contable del producto,Aplicar novedad financiera,,Aplicar novedad
+gestionar novedades ,T070203,ARQ022,Generar información,Gestionar novedades para campos protegidos,,
+generar reportes ,T070203,ARQ022,Generar información,Generar reportes de auditorÃ­as realizadas,,
+monitorear experiencias ,T070203,ARQ022,Generar información,"Monitorear experiencias, ofertas y alianzas",,
+monitorear experiencias ,T070203,ARQ022,Generar información,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencias ,T070203,ARQ022,Generar información,Monitorear experiencia,,Atender solicitudes de usuario
+aplicar novedad ,T070203,ARQ022,Generar información,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ022,Generar información,Aplicar novedad financiera,,Aplicar novedad
+solicitar ajuste ,T081001,ARQ002,Abrir producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+gestionar alerta ,T081001,ARQ002,Abrir producto,Gestionar alertas,,
+generar documentos de pago ,T081001,ARQ002,Abrir producto,Generar documento,,Abrir producto
+generar documentos de pago ,T081001,ARQ002,Abrir producto,Generar documento,,Aplicar novedad
+informar resultado ,T081001,ARQ002,Abrir producto,Emitir e informar resultado,,
+notificar inconsistencia ,T081001,ARQ002,Abrir producto,Notificar inconsistencias,,
+generar alerta ,T081001,ARQ002,Abrir producto,Generar alerta documental,,Procesar documento
+generar alerta ,T081001,ARQ002,Abrir producto,Generar alertas de eventos o inconsistencias,,
+escalar novedad ,T081001,ARQ002,Abrir producto,Escalar novedades,,
+conciliar transacciones ,T081001,ARQ002,Abrir producto,Conciliar transacciones y registros operativos,,
+atender requerimientos ,T081001,ARQ002,Abrir producto,Atender requerimientos de auditorÃ­a,,
+escalar novedad ,T081001,ARQ005,Aplicar novedad,Escalar novedades,,
+generar alerta ,T081001,ARQ005,Aplicar novedad,Generar alerta documental,,Procesar documento
+generar alerta ,T081001,ARQ005,Aplicar novedad,Generar alertas de eventos o inconsistencias,,
+notificar inconsistencia ,T081001,ARQ027,Atender solicitudes de usuario,Notificar inconsistencias,,
+conciliar transacciones ,T081001,ARQ027,Atender solicitudes de usuario,Conciliar transacciones y registros operativos,,
+atender requerimientos ,T081001,ARQ027,Atender solicitudes de usuario,Atender requerimientos de auditorÃ­a,,
+solicitar ajuste ,T081001,ARQ005,Aplicar novedad,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+gestionar alerta ,T081001,ARQ005,Aplicar novedad,Gestionar alertas,,
+informar resultado ,T081001,ARQ005,Aplicar novedad,Emitir e informar resultado,,
+notificar inconsistencia ,T081001,ARQ005,Aplicar novedad,Notificar inconsistencias,,
+escalar novedad ,T081001,ARQ027,Atender solicitudes de usuario,Escalar novedades,,
+generar alerta ,T081001,ARQ027,Atender solicitudes de usuario,Generar alerta documental,,Procesar documento
+generar alerta ,T081001,ARQ027,Atender solicitudes de usuario,Generar alertas de eventos o inconsistencias,,
+informar resultado ,T081001,ARQ114,Realizar Vinculación,Emitir e informar resultado,,
+generar alerta ,T081001,ARQ114,Realizar Vinculación,Generar alerta documental,,Procesar documento
+generar alerta ,T081001,ARQ114,Realizar Vinculación,Generar alertas de eventos o inconsistencias,,
+escalar novedad ,T081001,ARQ114,Realizar Vinculación,Escalar novedades,,
+notificar inconsistencia ,T081001,ARQ140,Administrar servicio en canales,Notificar inconsistencias,,
+conciliar transacciones ,T081001,ARQ140,Administrar servicio en canales,Conciliar transacciones y registros operativos,,
+atender requerimientos ,T081001,ARQ140,Administrar servicio en canales,Atender requerimientos de auditorÃ­a,,
+solicitar ajuste ,T081001,ARQ114,Realizar Vinculación,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+gestionar alerta ,T081001,ARQ114,Realizar Vinculación,Gestionar alertas,,
+generar documentos de pago ,T081001,ARQ140,Administrar servicio en canales,Generar documento,,Abrir producto
+generar documentos de pago ,T081001,ARQ140,Administrar servicio en canales,Generar documento,,Aplicar novedad
+recibir solicitud ,T120302,ARQ056,Administrar el servicio de los canales,Recibir solicitud,,
+recibir solicitud de contabilización ,T140002,ARQ056,Administrar el servicio de los canales,Recibir solicitud,,
+solicitar ajustes ,T140002,ARQ056,Administrar el servicio de los canales,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+notificar al cliente ,T140002,ARQ056,Administrar el servicio de los canales,Notificar al clientes activaciÃ³n del producto,,
+registrar alerta ,T140003,ARQ056,Administrar el servicio de los canales,Registrar alertas de cumplimiento.,,
+procesar datos ,T140003,ARQ056,Administrar el servicio de los canales,Procesar dato,,Generar informaciÃ³n
+atender solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Atender solicitudes de entes externos.,,
+atender solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Atender solicitudes de desembolso,,
+atender solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Atender solicitudes AQR's ,,
+atender solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Atender solicitudes del usuario,,
+notificar inconsistencia ,T160021,ARQ123,Ejecutar cuadre contable del producto,Notificar inconsistencias,,
+aplicar novedad ,T160021,ARQ123,Ejecutar cuadre contable del producto,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T160021,ARQ123,Ejecutar cuadre contable del producto,Aplicar novedad financiera,,Aplicar novedad
+notificar inconsistencias del proceso ,T160021,ARQ123,Ejecutar cuadre contable del producto,Notificar inconsistencias,,
+recibir solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+generar alerta ,T160021,ARQ123,Ejecutar cuadre contable del producto,Generar alerta documental,,Procesar documento
+generar alerta ,T160021,ARQ123,Ejecutar cuadre contable del producto,Generar alertas de eventos o inconsistencias,,
+atender novedades ,T160021,ARQ123,Ejecutar cuadre contable del producto,Atender novedades por cambios de tarifas,,
+atender novedades ,T160021,ARQ123,Ejecutar cuadre contable del producto,Atender novedades operativas,,
+registrar la solicitud en bizagi ,T160021,ARQ123,Ejecutar cuadre contable del producto,Registrar la solicitud,,Atender solicitudes de usuarios
+registrar la solicitud en bizagi ,T160021,ARQ123,Ejecutar cuadre contable del producto,Registrar la solicitud,,Atender solicitudes de usuario
+cerrar solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160021,ARQ123,Ejecutar cuadre contable del producto,Cerrar solicitud novedad,,
+recibir solicitud de asignación de tasa especial de oe ,T160021,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+recibir solicitud ,T160087,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+notificar inconsistencia ,T160087,ARQ123,Ejecutar cuadre contable del producto,Notificar inconsistencias,,
+notificar al cliente ,T160087,ARQ123,Ejecutar cuadre contable del producto,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud del cliente y radicar solicitud ,T160087,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+recibir solicitud del cliente ,T160087,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+recibir solicitud generación de paz y salvo para obligación ,T160107,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+reportar inconsistencias ,T160220,ARQ027,Atender solicitudes de usuario,Detectar y reportar inconsistencias operativas,,
+segmentar clientes potenciales ,T160220,ARQ027,Atender solicitudes de usuario,Segmentar cliente,,
+segmentar clientes potenciales ,T160220,ARQ027,Atender solicitudes de usuario,Segmentar cliente,,Realizar VinculaciÃ³n
+reportar inconsistencias ,T160220,ARQ005,Aplicar novedad,Detectar y reportar inconsistencias operativas,,
+generar informe ,T160220,ARQ027,Atender solicitudes de usuario,Generar informes de monitoreo,,
+generar documento legal [act369] ,T160220,ARQ027,Atender solicitudes de usuario,Generar documento,,Abrir producto
+generar documento legal [act369] ,T160220,ARQ027,Atender solicitudes de usuario,Generar documento,,Aplicar novedad
+rechazar ,T160264,ARQ005,Aplicar novedad,Aprobar/rechazar accesos,,
+rechazar ,T160264,ARQ005,Aplicar novedad,Rechazar documento,,Procesar documento
+atender solicitud ,T160264,ARQ005,Aplicar novedad,Atender solicitudes de entes externos.,,
+atender solicitud ,T160264,ARQ005,Aplicar novedad,Atender solicitudes de desembolso,,
+atender solicitud ,T160264,ARQ005,Aplicar novedad,Atender solicitudes AQR's ,,
+atender solicitud ,T160264,ARQ005,Aplicar novedad,Atender solicitudes del usuario,,
+recibir solicitud con la novedad ,T160264,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+recibir solicitud ,T160264,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+recibir solicitud ,T160264,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud modelamiento o accesos ,T160264,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+registrar la solicitud ,T160269,ARQ005,Aplicar novedad,Registrar la solicitud,,Atender solicitudes de usuarios
+registrar la solicitud ,T160269,ARQ005,Aplicar novedad,Registrar la solicitud,,Atender solicitudes de usuario
+cerrar solicitud ,T160269,ARQ027,Atender solicitudes de usuario,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160269,ARQ027,Atender solicitudes de usuario,Cerrar solicitud novedad,,
+recibir solicitud de cambio de cupo ,T160269,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+recibir solicitud de aumento de cupo ,T160269,ARQ005,Aplicar novedad,Recibir solicitud,,
+cerrar solicitud ,T160269,ARQ005,Aplicar novedad,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160269,ARQ005,Aplicar novedad,Cerrar solicitud novedad,,
+compensar ,T160269,ARQ005,Aplicar novedad,Calcular valor a compensar,,Procesar compensaciÃ³n
+c005 autenticar al cliente ,T160269,ARQ027,Atender solicitudes de usuario,Autenticar al cliente,,Abrir producto
+recibir solicitud cambio cupo global ,T160269,ARQ005,Aplicar novedad,Recibir solicitud,,
+generar informes ,T160269,ARQ027,Atender solicitudes de usuario,Generar informes de monitoreo,,
+ejecutar control ,T160288,ARQ027,Atender solicitudes de usuario,Ejecutar controles,,
+ejecutar control ,T160288,ARQ027,Atender solicitudes de usuario,Ejecutar control de calidad (QA) previo a publicaciÃ³n,,
+aqr ,T160290,ARQ027,Atender solicitudes de usuario,Atender solicitudes AQR's ,,
+gestionar novedades ,T160290,ARQ027,Atender solicitudes de usuario,Gestionar novedades para campos protegidos,,
+identificar novedades ,T160290,ARQ027,Atender solicitudes de usuario,Identificar novedades de forma proactiva ,,
+cerrar caso de novedad ,T160290,ARQ005,Aplicar novedad,Cerrar caso.,,
+realizar ajuste ,T160290,ARQ005,Aplicar novedad,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+perfilar clientes preaprobados digitales ,T160461,ARQ027,Atender solicitudes de usuario,Perfilar clientes,,Ninguno
+perfilar clientes potenciales ,T160461,ARQ027,Atender solicitudes de usuario,Perfilar clientes,,Ninguno
+notificar al cliente ,T160465,ARQ027,Atender solicitudes de usuario,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitudes empresariales ,T160487,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+certificar cuenta contable [act364] ,T160487,ARQ005,Aplicar novedad,Certificar cuenta,,Ejecutar el cuadre contable del producto
+comunicar ,T160487,ARQ005,Aplicar novedad,Comunicar resultado de asesorÃ­a,,
+comunicar ,T160487,ARQ027,Atender solicitudes de usuario,Comunicar resultado de asesorÃ­a,,
+recibir solicitud ,T160487,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud ,T160487,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+aplicar novedad ,T160487,ARQ005,Aplicar novedad,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T160487,ARQ005,Aplicar novedad,Aplicar novedad financiera,,Aplicar novedad
+reportar inconsistencias ,T160487,ARQ027,Atender solicitudes de usuario,Detectar y reportar inconsistencias operativas,,
+recibir solicitud cliente ,T160494,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+generar viabilidad ,T160558,ARQ027,Atender solicitudes de usuario,Generar viabilidad legal,,Estructurar producto
+generar viabilidad ,T160558,ARQ027,Atender solicitudes de usuario,Generar viabilidad financiera,,Estructurar producto
+generar viabilidad ,T160558,ARQ027,Atender solicitudes de usuario,Generar viabilidad tÃ©cnica,,Estructurar producto
+recibir solicitud generación otro si ,T160612,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+gestionar cambio ,T160612,ARQ005,Aplicar novedad,Gestionar cambios de Ãºltima hora y reprogramaciones,,
+cerrar caso ,T160612,ARQ027,Atender solicitudes de usuario,Cerrar caso.,,
+generar documento otro si ,T160612,ARQ005,Aplicar novedad,Generar documento,,Abrir producto
+generar documento otro si ,T160612,ARQ005,Aplicar novedad,Generar documento,,Aplicar novedad
+ejecutar acciones ,T160612,ARQ005,Aplicar novedad,Ejecutar acciones para cierre de brechas de precios respecto a politica de precio,,
+ejecutar acciones ,T160612,ARQ005,Aplicar novedad,Ejecutar acciones de atracciÃ³n de clientes para ventas digitales,,
+recibir solicitud generación otro si ,T160612,ARQ005,Aplicar novedad,Recibir solicitud,,
+cerrar caso ,T160612,ARQ005,Aplicar novedad,Cerrar caso.,,
+recibir solicitud del cliente ,T160621,ARQ005,Aplicar novedad,Recibir solicitud,,
+atender solicitud ,T160621,ARQ005,Aplicar novedad,Atender solicitudes de entes externos.,,
+atender solicitud ,T160621,ARQ005,Aplicar novedad,Atender solicitudes de desembolso,,
+atender solicitud ,T160621,ARQ005,Aplicar novedad,Atender solicitudes AQR's ,,
+atender solicitud ,T160621,ARQ005,Aplicar novedad,Atender solicitudes del usuario,,
+notificar al cliente ,T160621,ARQ005,Aplicar novedad,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud de mantenimiento por parte del cliente ,T160621,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud ,T160621,ARQ005,Aplicar novedad,Recibir solicitud,,
+cerrar solicitud ,T160621,ARQ005,Aplicar novedad,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160621,ARQ005,Aplicar novedad,Cerrar solicitud novedad,,
+recibir solicitud por parte del cliente ,T160621,ARQ005,Aplicar novedad,Recibir solicitud,,
+notificar al cliente ,T160621,ARQ013,Ejecutar transacción monetaria,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud de mantenimiento por parte del cliente ,T160621,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir solicitud ,T160621,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+cerrar solicitud ,T160621,ARQ013,Ejecutar transacción monetaria,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160621,ARQ013,Ejecutar transacción monetaria,Cerrar solicitud novedad,,
+recibir solicitud por parte del cliente ,T160621,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+realizar seguimiento ,T160622,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160622,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160622,ARQ013,Ejecutar transacción monetaria,Realizar seguimiento a planes de acciÃ³n.,,
+gestionar novedades ,T160642,ARQ013,Ejecutar transacción monetaria,Gestionar novedades para campos protegidos,,
+1\. identificar tipo de novedad ,T160642,ARQ013,Ejecutar transacción monetaria,Identificar tipo de novedad,,Aplicar novedad
+1\. identificar tipo de novedad ,T160642,ARQ013,Ejecutar transacción monetaria,Identificar tipo de novedad,,Aplicar novedades
+recibir solicitud ,T160642,ARQ005,Aplicar novedad,Recibir solicitud,,
+generar asiento contable ,T160642,ARQ005,Aplicar novedad,Generar asiento contable,,Ejecutar el cuadre contable del producto
+contingencia ,T160642,ARQ005,Aplicar novedad,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T160642,ARQ005,Aplicar novedad,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T160642,ARQ005,Aplicar novedad,Atender contingencias operativas,,
+generar informe ,T160657,ARQ005,Aplicar novedad,Generar informes de monitoreo,,
+generar informes ,T160657,ARQ005,Aplicar novedad,Generar informes de monitoreo,,
+recibir solicitud ,T160659,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+autenticar al cliente ,T160659,ARQ005,Aplicar novedad,Autenticar al cliente,,Abrir producto
+recibir solicitud de otro banco ,T160659,ARQ005,Aplicar novedad,Recibir solicitud,,
+recibir solicitud de cancelación ,T160659,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+cerrar solicitud ,T160659,ARQ123,Ejecutar cuadre contable del producto,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160659,ARQ123,Ejecutar cuadre contable del producto,Cerrar solicitud novedad,,
+solicitar ajuste ,T160659,ARQ123,Ejecutar cuadre contable del producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+recibir respuesta ,T160659,ARQ005,Aplicar novedad,Recibir respuesta del limite,,
+extraer datos ,T160667,ARQ005,Aplicar novedad,Extraer datos e informaciÃ³n,,
+gestionar novedades ,T160667,ARQ005,Aplicar novedad,Gestionar novedades para campos protegidos,,
+procesar datos ,T160667,ARQ005,Aplicar novedad,Procesar dato,,Generar informaciÃ³n
+procesar datos ,T160667,ARQ022,Generar información,Procesar dato,,Generar informaciÃ³n
+extraer datos ,T160667,ARQ022,Generar información,Extraer datos e informaciÃ³n,,
+gestionar novedades ,T160667,ARQ022,Generar información,Gestionar novedades para campos protegidos,,
+recibir solicitud de parámetro ,T160668,ARQ022,Generar información,Recibir solicitud,,
+guardar ,T160668,ARQ093,Constituir colaterales,Guardar el resultado de la simulaciÃ³n,,Abrir producto
+guardar ,T160668,ARQ093,Constituir colaterales,Guardar el resultado de la simulaciÃ³n,,Aplicar novedad
+solicitar ajuste ,T160668,ARQ093,Constituir colaterales,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+atender novedad ,T160668,ARQ093,Constituir colaterales,Atender novedades por cambios de tarifas,,
+atender novedad ,T160668,ARQ093,Constituir colaterales,Atender novedades operativas,,
+solicitar ajustes ,T160668,ARQ093,Constituir colaterales,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+aplicar cambio ,T160668,ARQ093,Constituir colaterales,Aplicar cambios solicitados,,
+elaborar informe o reporte [cmp86] ,T160668,ARQ093,Constituir colaterales,Elaborar informe o reporte,,Generar informaciÃ³n
+recibir solicitud o novedad ,T160668,ARQ093,Constituir colaterales,Recibir solicitud,,
+gestionar novedad ,T160668,ARQ093,Constituir colaterales,Gestionar novedades para campos protegidos,,
+cerrar caso ,T160668,ARQ093,Constituir colaterales,Cerrar caso.,,
+atender requerimientos ,T160668,ARQ093,Constituir colaterales,Atender requerimientos de auditorÃ­a,,
+atender requerimiento ,T160668,ARQ093,Constituir colaterales,Atender requerimientos de auditorÃ­a,,
+notificar al cliente ,T160668,ARQ093,Constituir colaterales,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud servicio ,T160668,ARQ093,Constituir colaterales,Recibir solicitud,,
+realizar ajuste ,PAN040107,ARQ093,Constituir colaterales,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+realizar ajuste ,PAN040107,ARQ013,Ejecutar transacción monetaria,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+recibir solicitud de activación ,PAN040107,ARQ093,Constituir colaterales,Recibir solicitud,,
+recibir solicitud ,PAN040107,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir documentos ,PAN040107,ARQ093,Constituir colaterales,Recibir documentos comerciales,,
+gestionar y custodiar documentos ,PAN040107,ARQ013,Ejecutar transacción monetaria,Custodiar documento,,Procesar documento
+recibir documentos ,PAN040107,ARQ013,Ejecutar transacción monetaria,Recibir documentos comerciales,,
+m: gestión de servicios corporativos p: custodiar documentos pagaré panamá ,PAN040212,ARQ013,Ejecutar transacción monetaria,Custodiar documento,,Procesar documento
+recibir solicitudes en línea ,PAN050305,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+recibir solicitud ,PAN050305,ARQ093,Constituir colaterales,Recibir solicitud,,
+recibir respuesta ,PTO160301,ARQ093,Constituir colaterales,Recibir respuesta del limite,,
+recibir solicitud de autorización ,PTO160301,ARQ093,Constituir colaterales,Recibir solicitud,,
+recibir respuesta ,PTO160301,ARQ013,Ejecutar transacción monetaria,Recibir respuesta del limite,,
+custodiar documentos en repositorio oficial ,T051005,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Custodiar documento,,Procesar documento
+Capturar datos,T051005,ARQ002,Abrir producto,Capturar datos,,Administrar servicio en canales
+Capturar datos,T051005,ARQ002,Abrir producto,Capturar datos e interacciones del cliente,,Ninguno
+atender solicitudes ,T051005,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Atender solicitudes de entes externos.,,
+atender solicitudes ,T051005,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Atender solicitudes de desembolso,,
+atender solicitudes ,T051005,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Atender solicitudes AQR's ,,
+atender solicitudes ,T051005,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Atender solicitudes del usuario,,
+informar resultado ,T051005,ARQ002,Abrir producto,Emitir e informar resultado,,
+c006 evaluar debida diligencia alto riesgo y otros ,T051009,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+c008 evaluar debida diligencia fatca/crs ,T051009,ARQ002,Abrir producto,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+c007 evaluar debida diligencia fatca/crs ,T051009,ARQ002,Abrir producto,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+c007 evaluar debida diligencia alto riesgo y otros ,T051009,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+c006 evaluar debida diligencia pep ,T051009,ARQ002,Abrir producto,Evaluar debida diligencia,,Realizar VinculaciÃ³n
+aplicar medidas restrictivas ,T051009,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Aplicar medidas restrictivas,,
+cerrar solicitud ,T051009,ARQ002,Abrir producto,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T051009,ARQ002,Abrir producto,Cerrar solicitud novedad,,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,"Identificar oportunidades de optimizaciÃ³n de comunicaciones (Horarios, insights del cliente, frecuencia)",,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,Identificar oportunidades de mejora del proceso de contenidos,,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,Identificar oportunidades de optimizaciÃ³n del catÃ¡logo y de las condiciones,,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,Identificar oportunidades de optimizaciÃ³n de experiencia digital por mercado,,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,Identificar oportunidades de optimizaciÃ³n de inversiÃ³n y contenidos,,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,Identificar oportunidades y amenazas para la estrategia de mercadeo,,
+identificar oportunidad ,T051910,ARQ039,Ejecutar el desembolso,Identificar oportunidades de ajustes,,Crear y evolucionar modelos de pricing
+generar documento (cmf04) ,T051910,ARQ039,Ejecutar el desembolso,Generar documento,,Abrir producto
+generar documento (cmf04) ,T051910,ARQ039,Ejecutar el desembolso,Generar documento,,Aplicar novedad
+entregar producto [act151] ,T051924,ARQ005,Aplicar novedad,Entregar producto,,Aplicar novedad
+realizar firma [cmt78] ,T051924,ARQ002,Abrir producto,Realizar firma,,Abrir producto
+notificar al cliente ,T051924,ARQ002,Abrir producto,Notificar al clientes activaciÃ³n del producto,,
+realizar seguimiento ,T051924,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T051924,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T051924,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Realizar seguimiento a planes de acciÃ³n.,,
+habilitar pago ,T051924,ARQ002,Abrir producto,Habilitar pago de obligaciones,,
+entregar producto [act151] ,T051924,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Entregar producto,,Aplicar novedad
+aplicar novedad ,T070203,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Aplicar novedad financiera,,Aplicar novedad
+gestionar novedades ,T070203,ARQ013,Ejecutar transacción monetaria,Gestionar novedades para campos protegidos,,
+generar reportes ,T070203,ARQ013,Ejecutar transacción monetaria,Generar reportes de auditorÃ­as realizadas,,
+monitorear experiencias ,T070203,ARQ013,Ejecutar transacción monetaria,"Monitorear experiencias, ofertas y alianzas",,
+monitorear experiencias ,T070203,ARQ013,Ejecutar transacción monetaria,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencias ,T070203,ARQ013,Ejecutar transacción monetaria,Monitorear experiencia,,Atender solicitudes de usuario
+aplicar novedad ,T070203,ARQ013,Ejecutar transacción monetaria,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ013,Ejecutar transacción monetaria,Aplicar novedad financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ002,Abrir producto,Aplicar novedad no financiera,,Aplicar novedad
+aplicar novedad ,T070203,ARQ002,Abrir producto,Aplicar novedad financiera,,Aplicar novedad
+gestionar novedades ,T070203,ARQ002,Abrir producto,Gestionar novedades para campos protegidos,,
+generar reportes ,T070203,ARQ002,Abrir producto,Generar reportes de auditorÃ­as realizadas,,
+monitorear experiencias ,T070203,ARQ002,Abrir producto,"Monitorear experiencias, ofertas y alianzas",,
+monitorear experiencias ,T070203,ARQ002,Abrir producto,Monitorear experiencia,,Atender solicitudes de usuarios
+monitorear experiencias ,T070203,ARQ002,Abrir producto,Monitorear experiencia,,Atender solicitudes de usuario
+construir reportes bajo ifrs y full ,T080130,ARQ002,Abrir producto,Construir reportes,,
+atender requerimientos ,T080130,ARQ002,Abrir producto,Atender requerimientos de auditorÃ­a,,
+gestionar riesgo ,T080802,ARQ002,Abrir producto,Gestionar riesgos reputacionales con aliados,,
+gestionar riesgo ,T080802,ARQ002,Abrir producto,Gestionar riesgos reputacionales y de cumplimiento asociados a aliados,,
+c005:certificar cuenta ,T080902,ARQ002,Abrir producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+solicitar ajuste ,T080902,ARQ002,Abrir producto,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+realizar ajuste ,T080902,ARQ002,Abrir producto,Realizar ajuste a la estructuraciÃ³n del producto,,Estructurar producto
+certificar cuenta ,T080902,ARQ002,Abrir producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+c009 certificar cuenta ,T080902,ARQ002,Abrir producto,Certificar cuenta,,Ejecutar el cuadre contable del producto
+escalar novedad ,T081001,ARQ056,Administrar el servicio de los canales,Escalar novedades,,
+contingencia ,T090303,ARQ013,Ejecutar transacción monetaria,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T090303,ARQ013,Ejecutar transacción monetaria,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T090303,ARQ013,Ejecutar transacción monetaria,Atender contingencias operativas,,
+recibir solicitud de contabilización ,T140004,ARQ005,Aplicar novedad,Recibir solicitud,,
+notificar inconsistencias ,T140112,ARQ005,Aplicar novedad,Notificar inconsistencias,,
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar denuncias y reportes.,,
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar Alertas de cumplimiento.,,
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar solicitudes de cumplimiento.,,
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar el incidente,,
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar necesidad,,Atender solicitudes de usuarios
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar necesidad,,Atender solicitudes de usuario
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar documento,,Procesar documento
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar diferencia contable,,Ejecutar el cuadre contable del producto
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar mora,,
+clasificar ,T140705,ARQ005,Aplicar novedad,Clasificar novedades,,
+recibir solicitud ,T140705,ARQ005,Aplicar novedad,Recibir solicitud,,
+gestionar las diferencias ,T160050,ARQ001,Realizar Estudio de Crédito,Gestionar las diferencias contables,,
+recibir solicitud de novedad del establecimiento ,T160057,ARQ001,Realizar Estudio de Crédito,Recibir solicitud,,
+escalar novedad ,T160057,ARQ001,Realizar Estudio de Crédito,Escalar novedades,,
+custodiar documento ,T160057,ARQ001,Realizar Estudio de Crédito,Custodiar documento,,Procesar documento
+cerrar caso como exitoso en flujo de flujos ,T160057,ARQ001,Realizar Estudio de Crédito,Cerrar caso.,,
+recibir solicitud y cargar plantilla en ruta controles ,T160057,ARQ001,Realizar Estudio de Crédito,Recibir solicitud,,
+atender solicitud ,T160108,ARQ013,Ejecutar transacción monetaria,Atender solicitudes de entes externos.,,
+atender solicitud ,T160108,ARQ013,Ejecutar transacción monetaria,Atender solicitudes de desembolso,,
+atender solicitud ,T160108,ARQ013,Ejecutar transacción monetaria,Atender solicitudes AQR's ,,
+atender solicitud ,T160108,ARQ013,Ejecutar transacción monetaria,Atender solicitudes del usuario,,
+recibir solicitud de mantenimiento por parte del cliente ,T160108,ARQ013,Ejecutar transacción monetaria,Recibir solicitud,,
+entregar productos débito al subgerente ,T160141,ARQ002,Abrir producto,Entregar producto,,Aplicar novedad
+realizar trazabilidad ,T160141,ARQ002,Abrir producto,Realizar trazabilidad solicitudes y aprobaciones de excepcion,,
+realizar trazabilidad ,T160141,ARQ002,Abrir producto,Realizar trazabilidad de la venta digital,,
+gestionar novedades ,T160141,ARQ002,Abrir producto,Gestionar novedades para campos protegidos,,
+gestionar las diferencias ,T160141,ARQ002,Abrir producto,Gestionar las diferencias contables,,
+generar documentos de la operación ,T160146,ARQ002,Abrir producto,Generar documento,,Abrir producto
+generar documentos de la operación ,T160146,ARQ002,Abrir producto,Generar documento,,Aplicar novedad
+realizar registro contable ,T160159,ARQ005,Aplicar novedad,Realizar registro contable,,Solicitar el pago de proveedores y aliados
+cerrar caso ,T160218,ARQ005,Aplicar novedad,Cerrar caso.,,
+certificar cuenta contable ,T160265,ARQ005,Aplicar novedad,Certificar cuenta,,Ejecutar el cuadre contable del producto
+realizar seguimiento ,T160265,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160265,ARQ005,Aplicar novedad,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160265,ARQ005,Aplicar novedad,Realizar seguimiento a planes de acciÃ³n.,,
+gestionar alertas ,T160265,ARQ005,Aplicar novedad,Gestionar alertas,,
+realizar seguimiento ,T160265,ARQ022,Generar información,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160265,ARQ022,Generar información,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160265,ARQ022,Generar información,Realizar seguimiento a planes de acciÃ³n.,,
+atender incidente ,T160265,ARQ022,Generar información,Atender incidentes operativos,,
+certificar cuenta contable ,T160265,ARQ022,Generar información,Certificar cuenta,,Ejecutar el cuadre contable del producto
+gestionar alertas ,T160265,ARQ022,Generar información,Gestionar alertas,,
+contingencia ,T160273,ARQ002,Abrir producto,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T160273,ARQ002,Abrir producto,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T160273,ARQ002,Abrir producto,Atender contingencias operativas,,
+realizar seguimiento ,T160273,ARQ002,Abrir producto,Realizar seguimiento a planes de acciÃ³n,,
+realizar seguimiento ,T160273,ARQ002,Abrir producto,Realizar seguimiento al desempeÃ±o por etapa del ciclo de vida,,
+realizar seguimiento ,T160273,ARQ002,Abrir producto,Realizar seguimiento a planes de acciÃ³n.,,
+documentar hallazgos ,T160443,ARQ027,Atender solicitudes de usuario,Documentar hallazgos clave de investigaciÃ³n,,
+recibir solicitudes de crédito fopep ,T160443,ARQ027,Atender solicitudes de usuario,Recibir solicitud,,
+m: cumplimiento de los servicios p: personalizar y entregar producto tdc ,T160443,ARQ027,Atender solicitudes de usuario,Entregar producto,,Aplicar novedad
+generar reporte ,T160443,ARQ027,Atender solicitudes de usuario,Generar reportes de auditorÃ­as realizadas,,
+recibir solicitudes bancacolombia ,T160443,ARQ140,Administrar servicio en canales,Recibir solicitud,,
+m: cumplimiento de los servicios p: personalizar y entregar producto tdc ,T160443,ARQ140,Administrar servicio en canales,Entregar producto,,Aplicar novedad
+generar reporte ,T160443,ARQ140,Administrar servicio en canales,Generar reportes de auditorÃ­as realizadas,,
+recibir solicitud de crédito ,T160443,ARQ140,Administrar servicio en canales,Recibir solicitud,,
+documentar hallazgos ,T160443,ARQ114,Realizar Vinculación,Documentar hallazgos clave de investigaciÃ³n,,
+recibir solicitudes de crédito fopep ,T160443,ARQ114,Realizar Vinculación,Recibir solicitud,,
+m: cumplimiento de los servicios p: personalizar y entregar producto tdc ,T160443,ARQ114,Realizar Vinculación,Entregar producto,,Aplicar novedad
+generar reporte ,T160443,ARQ114,Realizar Vinculación,Generar reportes de auditorÃ­as realizadas,,
+generar viabilidad ,T160499,ARQ056,Administrar el servicio de los canales,Generar viabilidad legal,,Estructurar producto
+generar viabilidad ,T160499,ARQ056,Administrar el servicio de los canales,Generar viabilidad financiera,,Estructurar producto
+generar viabilidad ,T160499,ARQ056,Administrar el servicio de los canales,Generar viabilidad tÃ©cnica,,Estructurar producto
+generar documento otro si ,T160612,ARQ056,Administrar el servicio de los canales,Generar documento,,Abrir producto
+generar documento otro si ,T160612,ARQ056,Administrar el servicio de los canales,Generar documento,,Aplicar novedad
+ejecutar acciones ,T160612,ARQ056,Administrar el servicio de los canales,Ejecutar acciones para cierre de brechas de precios respecto a politica de precio,,
+ejecutar acciones ,T160612,ARQ056,Administrar el servicio de los canales,Ejecutar acciones de atracciÃ³n de clientes para ventas digitales,,
+recibir solicitud generación otro si ,T160612,ARQ056,Administrar el servicio de los canales,Recibir solicitud,,
+gestionar cambio ,T160612,ARQ056,Administrar el servicio de los canales,Gestionar cambios de Ãºltima hora y reprogramaciones,,
+cerrar caso ,T160612,ARQ056,Administrar el servicio de los canales,Cerrar caso.,,
+notificar al cliente ,T160642,ARQ123,Ejecutar cuadre contable del producto,Notificar al clientes activaciÃ³n del producto,,
+recibir solicitud ,T160642,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+generar asiento contable ,T160642,ARQ123,Ejecutar cuadre contable del producto,Generar asiento contable,,Ejecutar el cuadre contable del producto
+contingencia ,T160642,ARQ123,Ejecutar cuadre contable del producto,Gestionar contingencias de ejecuciÃ³n,,
+contingencia ,T160642,ARQ123,Ejecutar cuadre contable del producto,Gestionar contingencias en experiencias de venta digital,,
+contingencia ,T160642,ARQ123,Ejecutar cuadre contable del producto,Atender contingencias operativas,,
+recibir solicitud de ajuste al pago ,T160642,ARQ123,Ejecutar cuadre contable del producto,Recibir solicitud,,
+crear caso ,T160642,ARQ123,Ejecutar cuadre contable del producto,Crear Caso de investigaciÃ³n.,,
+1\. identificar tipo de novedad ,T160642,ARQ123,Ejecutar cuadre contable del producto,Identificar tipo de novedad,,Aplicar novedad
+1\. identificar tipo de novedad ,T160642,ARQ123,Ejecutar cuadre contable del producto,Identificar tipo de novedad,,Aplicar novedades
+gestionar novedades ,T160642,ARQ123,Ejecutar cuadre contable del producto,Gestionar novedades para campos protegidos,,
+recibir solicitud de ajuste al pago ,T160642,ARQ022,Generar información,Recibir solicitud,,
+crear caso ,T160642,ARQ022,Generar información,Crear Caso de investigaciÃ³n.,,
+gestionar novedades ,T160642,ARQ005,Aplicar novedad,Gestionar novedades para campos protegidos,,
+certificar cuentas a cargo en alcon ,T160647,ARQ005,Aplicar novedad,Certificar cuenta,,Ejecutar el cuadre contable del producto
+gestionar alertas alcon ,T160647,ARQ005,Aplicar novedad,Gestionar alertas,,
+certificar cuentas contables [act364] ,T160647,ARQ005,Aplicar novedad,Certificar cuenta,,Ejecutar el cuadre contable del producto
+atender solicitud ,T160654,ARQ005,Aplicar novedad,Atender solicitudes de entes externos.,,
+atender solicitud ,T160654,ARQ005,Aplicar novedad,Atender solicitudes de desembolso,,
+atender solicitud ,T160654,ARQ005,Aplicar novedad,Atender solicitudes AQR's ,,
+atender solicitud ,T160654,ARQ005,Aplicar novedad,Atender solicitudes del usuario,,
+reportar inconsistencia ,T160654,ARQ005,Aplicar novedad,Detectar y reportar inconsistencias operativas,,
+recalcular ,T160654,ARQ005,Aplicar novedad,Recalcular saldos ,,
+recibir solicitud de cancelación ,T160659,ARQ005,Aplicar novedad,Recibir solicitud,,
+cerrar solicitud ,T160659,ARQ005,Aplicar novedad,Cerrar solicitudes de cumplimiento,,
+cerrar solicitud ,T160659,ARQ005,Aplicar novedad,Cerrar solicitud novedad,,
+solicitar ajuste ,T160659,ARQ005,Aplicar novedad,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+recibir solicitud ,T160659,ARQ005,Aplicar novedad,Recibir solicitud,,
+atender requerimiento ,T160668,ARQ022,Generar información,Atender requerimientos de auditorÃ­a,,
+notificar al cliente ,T160668,ARQ022,Generar información,Notificar al clientes activaciÃ³n del producto,,
+solicitar ajustes ,T160668,ARQ022,Generar información,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+aplicar cambio ,T160668,ARQ022,Generar información,Aplicar cambios solicitados,,
+recibir solicitud servicio ,T160668,ARQ022,Generar información,Recibir solicitud,,
+elaborar informe o reporte [cmp86] ,T160668,ARQ022,Generar información,Elaborar informe o reporte,,Generar informaciÃ³n
+guardar ,T160668,ARQ022,Generar información,Guardar el resultado de la simulaciÃ³n,,Abrir producto
+guardar ,T160668,ARQ022,Generar información,Guardar el resultado de la simulaciÃ³n,,Aplicar novedad
+solicitar ajuste ,T160668,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+atender novedad ,T160668,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Atender novedades por cambios de tarifas,,
+atender novedad ,T160668,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Atender novedades operativas,,
+solicitar ajustes ,T160668,ARQ120,Asegurar disponibilidad de productos financieros fisicos,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+recibir solicitud o novedad ,T160668,ARQ039,Ejecutar el desembolso,Recibir solicitud,,
+gestionar novedad ,T160668,ARQ039,Ejecutar el desembolso,Gestionar novedades para campos protegidos,,
+solicitar ajuste ,T160668,ARQ039,Ejecutar el desembolso,Solicitar ajustes a cobros realizados,,Solicitar el pago de proveedores y aliados
+cerrar caso ,T160668,ARQ039,Ejecutar el desembolso,Cerrar caso.,,
+atender requerimientos ,T160668,ARQ039,Ejecutar el desembolso,Atender requerimientos de auditorÃ­a,,
+atender novedad ,T160668,ARQ039,Ejecutar el desembolso,Atender novedades por cambios de tarifas,,
+atender novedad ,T160668,ARQ039,Ejecutar el desembolso,Atender novedades operativas,,
+realizar firma [cmt78] ,T160669,ARQ039,Ejecutar el desembolso,Realizar firma,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ039,Ejecutar el desembolso,Generar documento,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ039,Ejecutar el desembolso,Generar documento,,Aplicar novedad
+custodiar documentos en la nube ,T160669,ARQ039,Ejecutar el desembolso,Custodiar documento,,Procesar documento
+custodiar documentos ,T160669,ARQ039,Ejecutar el desembolso,Custodiar documento,,Procesar documento
+custodiar documentos físicos ,T160669,ARQ123,Ejecutar cuadre contable del producto,Custodiar documento,,Procesar documento
+entregar producto [act151] ,T160669,ARQ123,Ejecutar cuadre contable del producto,Entregar producto,,Aplicar novedad
+realizar firma [cmt78] ,T160669,ARQ123,Ejecutar cuadre contable del producto,Realizar firma,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ005,Aplicar novedad,Generar documento,,Abrir producto
+generar documento [cmf04] ,T160669,ARQ005,Aplicar novedad,Generar documento,,Aplicar novedad
+custodiar documentos en la nube ,T160669,ARQ005,Aplicar novedad,Custodiar documento,,Procesar documento
+custodiar documentos físicos ,T160669,ARQ005,Aplicar novedad,Custodiar documento,,Procesar documento
+notificar inconsistencias ,VAL080512,ARQ002,Abrir producto,Notificar inconsistencias,,

@@ -1,13 +1,13 @@
-SELECT
+SELECT DISTINCT
     t1.id_epica,
     t1.periodo,
     t2.cod_proc AS codigo_proceso,
     t2.procedimiento,
     t2.actividad
 FROM (
-SELECT DISTINCT 
-        ig.id_epica, 
-        pb.codigo_proceso, 
+    SELECT DISTINCT
+        ig.id_epica,
+        pb.codigo_proceso,
         ig.periodo
     FROM resultados_vspc_dise.cdeproc_sabana_procesos_beneficios pb
     JOIN resultados_vspc_dise.cdeproc_sabana_informacion_general ig
@@ -15,7 +15,7 @@ SELECT DISTINCT
     WHERE ig.periodo = '2026Q1'
 ) t1
 JOIN (
-    SELECT 
+    SELECT
         cod_proc,
         procedimiento,
         actividad
@@ -23,7 +23,8 @@ JOIN (
     WHERE cod_proc IS NOT NULL
       AND tipo_actividad IN ('TAREA', 'CONTROL', 'CONTROL PARCIAL', 'PROCEDIMIENTO')
       AND cod_proc NOT LIKE '%CM%'
-    GROUP BY 
+      AND LOWER(actividad) NOT LIKE 'm:%'
+    GROUP BY
         cod_proc,
         procedimiento,
         actividad

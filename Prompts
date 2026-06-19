@@ -5,3 +5,49 @@ Adicionalmente, el archivo de resultado debe generarse siempre con el siguiente 
 resultado_matching_arquetipos.csv
 
 Es decir, si el archivo ya existe, debe ser sobrescrito. Actualmente se está generando una nueva versión en cada ejecución, lo cual no es el comportamiento esperado (ejemplo aqui se genera el archivo y al final le esta agregando la fecha, lo cual va acumular resultados: resultado_matching_arquetipos_20260618_140956.csv ).
+
+
+
+Con base en el contexto anterior, quiero fortalecer el proyecto que tengo actualmente en Visual Studio Code, el cual se soporta en los siguientes insumos:
+
+
+query_actividades_proc_q_actual.csv
+Contiene los procesos que deben ser intervenidos en el trimestre (Q) actual. Incluye el código, nombre y el detalle de procedimientos (agrupadores de actividades que representan escenarios específicos dentro de un mismo proceso).
+También incorpora la lista de actividades con su respectiva tipología. Para el análisis, se deben excluir las actividades cuyo nombre o descripción inicie con “M:” o “P:”.
+
+
+arquetipos.csv
+Contiene el listado de arquetipos de procesos, entendidos como modelos objetivo o referentes ideales.
+Incluye el código del arquetipo, su nombre y los procesos relacionados, los cuales potencialmente pueden adoptar una estructura similar, reutilizando las capacidades del arquetipo para la definición de sus actividades.
+
+
+mapa_capacidades.csv
+Contiene el listado de capacidades, el dominio al que pertenecen y su estructura de agrupación dentro de la capa de dominio (paquetes y subpaquetes n1 y n2).
+Adicionalmente, incluye una columna que indica en qué arquetipos residen estas capacidades.
+Actualmente, no todos los arquetipos han sido construidos, por lo que algunas capacidades pueden no tener un arquetipo asociado.
+
+
+actividades_de_referencia.csv
+Representa una alternativa transitoria a las capacidades. Dado que aún no se cuenta con la totalidad de capacidades definidas y los procesos requieren este nivel de detalle, se construyó una lista de actividades a partir de la data líquida de los procesos.
+Estas actividades fueron estandarizadas cuando tenían propósitos similares y funcionan como un modelo intermedio hasta la consolidación de las capacidades oficiales.
+Pueden ser utilizadas en los procesos, siempre que se incorporen con su código de referencia correspondiente en el nombre, utilizando formatos como: [ACT###], [ACT-###] o [act ###], donde los números corresponden al identificador único.
+
+
+Nota importante:
+Las actividades de los procesos deben alinearse con los nombres de las capacidades oficiales del mapa de capacidades. Asimismo, deben corresponder a las capacidades utilizadas por los arquetipos asociados al proceso.
+En caso de que un proceso utilice capacidades que existen en el mapa de capacidades pero no pertenecen a los arquetipos definidos como relacionados, se debe generar una alerta, con el fin de identificar oportunidades de mejora en el diseño del proceso.
+
+Actualmente el proyecto tiene una lógica que me gusta porque hace primero comparación entre la data liquida y los arquetipos, pero no me gusta que a las actividades de procesos les esta asignando arquetipos sin validar si sus capacidades si corresponden con la actividad y además si esa capacidad pertenece a alguno de los arquetipos asociados al proceso dueño de esa actividad
+ Te voy a compartir el código detallado del proyecto para que me ayudes a mejorar lo que hace. teniendo en cuenta que quiero que haga lo siguiente:
+
+1. Identifique de la data liquida query_actividades_proc_q_actual.csv, la lista de codigo_proceso (sacando un solo codigo por proceso, sin duplicados) y busque para cada uno de esos códigos qué arquetipos tiene asociado en la tabla arquetipos.csv y que con esto arme un df
+2. tome esos arquetipos y busque las capacidades en el insumo mapa_capacidades.csv
+3. de la data liquida: liquida query_actividades_proc_q_actual.csv agrupe los procesos por procedimientos, para analizar la lista de actividades (sacando valores unicos del campo t2.actividad)
+4. Compare la lista de actividades obtenida por procedimiento (en el paso anterior) contra la sumatoria de las listas de capacidades asociadas a los arquetipos relacionados con el proceso, asegurando que hace el análisis proceso por proceso y no mezcla codigos de procesos, ni tampoco compara contra capacidades presentes en el mapa de capacidades que no están asociadas con los arquetipos que si tienen que ver con el proceso
+5. Por cada procedimiento debe identificar el % de actividades presentes en el listado de capacidades de los arquetipos asociados con el proceso al cual pertenecer los procedimientos
+6. Debe mostrar por proceso el porcentaje final de alineación con sus arquetipos (explicando en codigo comentado como lo logró)
+
+
+
+
+Me gusta lo de incorporar actividades de referencia en el scoring, pero que el % lo separe mostrando % de actividades de cada procedimiento que cumplen (es decir que cruzan con las capacidades cumpliendo las indicaciones previas) y % de actividades que cruzan con act de ref como % de cumplimiento parcial.....y al final el proceso resuma también así: % del proceso que cumple con Modelo objetivo (capacidades alineadas con arquetipos alineados con el proceso), % capacidades que cumplen con el listado de capacidades total pero que no están atadas a un arquetipo alineado con el proceso (indique alerta para mejorar alineación del proceso o enriquecer la data del Mapa de capacidades), % de actividades que cruzan con act de referencia (Cumplimiento parcial) y arroje un DF para resultados agrupados por procesos y luego por procedimientos, actividades y otro DF que resuma solo resultados del proceso sin agrupaciones por procedimiento

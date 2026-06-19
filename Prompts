@@ -13,7 +13,7 @@ Con base en el contexto anterior, quiero fortalecer el proyecto que tengo actual
 
 query_actividades_proc_q_actual.csv
 Contiene los procesos que deben ser intervenidos en el trimestre (Q) actual. Incluye el código, nombre y el detalle de procedimientos (agrupadores de actividades que representan escenarios específicos dentro de un mismo proceso).
-También incorpora la lista de actividades con su respectiva tipología. Para el análisis, se deben excluir las actividades cuyo nombre o descripción inicie con “M:” o “P:”.
+También incorpora la lista de actividades con su respectiva tipología.
 
 
 arquetipos.csv
@@ -51,3 +51,38 @@ Actualmente el proyecto tiene una lógica que me gusta porque hace primero compa
 
 
 Me gusta lo de incorporar actividades de referencia en el scoring, pero que el % lo separe mostrando % de actividades de cada procedimiento que cumplen (es decir que cruzan con las capacidades cumpliendo las indicaciones previas) y % de actividades que cruzan con act de ref como % de cumplimiento parcial.....y al final el proceso resuma también así: % del proceso que cumple con Modelo objetivo (capacidades alineadas con arquetipos alineados con el proceso), % capacidades que cumplen con el listado de capacidades total pero que no están atadas a un arquetipo alineado con el proceso (indique alerta para mejorar alineación del proceso o enriquecer la data del Mapa de capacidades), % de actividades que cruzan con act de referencia (Cumplimiento parcial) y arroje un DF para resultados agrupados por procesos y luego por procedimientos, actividades y otro DF que resuma solo resultados del proceso sin agrupaciones por procedimiento
+
+
+
+SELECT DISTINCT
+    t1.id_epica,
+    t1.periodo,
+    t2.cod_proc AS codigo_proceso,
+    t2.procedimiento,
+    t2.actividad
+FROM (
+    SELECT DISTINCT
+        ig.id_epica,
+        pb.codigo_proceso,
+        ig.periodo
+    FROM resultados_vspc_dise.cdeproc_sabana_procesos_beneficios pb
+    JOIN resultados_vspc_dise.cdeproc_sabana_informacion_general ig
+        ON ig.id_epica = pb.id_epica
+    WHERE ig.periodo = '2026Q1'
+) t1
+JOIN (
+    SELECT
+        cod_proc,
+        procedimiento,
+        actividad
+    FROM resultados_serv_para_los_clientes.bpms_data_liquida
+    WHERE cod_proc IS NOT NULL
+      AND tipo_actividad IN ('TAREA', 'CONTROL', 'CONTROL PARCIAL', 'PROCEDIMIENTO')
+      AND cod_proc NOT LIKE '%CM%'
+      AND LOWER(actividad) NOT LIKE 'm:%'
+    GROUP BY
+        cod_proc,
+        procedimiento,
+        actividad
+) t2
+ON t1.codigo_proceso = t2.cod_proc

@@ -1,0 +1,809 @@
+codigo_proceso,t2.procedimiento,total actividades,# match encontradas,% match actividad/capacidades
+FID050210,Definir y ejecutar estrategia de Asset Management,61,1,1.6%
+FID080105,Controlar y Monitorear Políticas y Límites Riesgo de Mercado de Portafolios Fiduciaria,12,0,0.0%
+PAN040102,Abrir Producto de Crédito,4,0,0.0%
+PAN040102,Autorizar Operaciones por Callback,6,0,0.0%
+PAN040102,Crear Cuenta y Autorizar desembolsos,55,0,0.0%
+PAN040102,Procedimiento Contingente,22,0,0.0%
+PAN040102,Realizar cálculos Revolvente,29,0,0.0%
+PAN040103,Abrir Productos Pasivos,53,0,0.0%
+PAN040103,Administrar Listas de control,21,0,0.0%
+PAN040103,Autorizar Operaciones CallBack,4,0,0.0%
+PAN040103,Diagrama 1,4,0,0.0%
+PAN040103,Evaluar alertas Panamá y Sucural,9,0,0.0%
+PAN040103,Realizar Apertura de Productos Pasivos,21,0,0.0%
+PAN040107,Realizar Apertura Productos Medios de Pago,2,0,0.0%
+PAN040107,Realizar Apertura Tarjeta Débito,26,0,0.0%
+PAN040107,Realizar Apertura tarjeta Crédito,18,0,0.0%
+PAN040107,Realizar aperturas de tarjeta de crédito,31,0,0.0%
+PAN040107,Validar membresia,5,0,0.0%
+PAN040107,Validar membresías,5,0,0.0%
+PAN040212,Administrar Cartera Pasiva,4,0,0.0%
+PAN040212,Apertura Cartera Pasiva,8,0,0.0%
+PAN040212,Aperturar Cartera Pasiva,9,0,0.0%
+PAN040212,Procedimiento Contingente,11,0,0.0%
+PAN040212,Procesar novedades de cartera,8,0,0.0%
+PAN040212,Solicitar Financiación  Cartera Pasiva,3,0,0.0%
+PAN040212,Solicitar Financiación y Apertura Cartera Pasiva,14,0,0.0%
+PAN040305,Contingencia,11,0,0.0%
+PAN040305,"Contingencia, fecha actualización 2025-04-30",11,0,0.0%
+PAN040305,Ingresar Novedades sobre Depósitos,31,0,0.0%
+PAN040305,Ingresar Novedades sobre depósitos,28,0,0.0%
+PAN040305,Ingresar Novedades sobre depósitos Panamá,25,0,0.0%
+PAN040305,Procedimiento contingente,12,0,0.0%
+PAN040310,Atender novedades para canales digitales,18,0,0.0%
+PAN040314,"Contingencia, fecha actualización 2025-07-28",4,0,0.0%
+PAN040314,"Contingencia, fecha actualización 2025-09-30",4,0,0.0%
+PAN040314,Gestionar novedades de Medios de Pago,49,0,0.0%
+PAN040314,Gestionar novedades de tarjeta de crédito,50,0,0.0%
+PAN040314,Procedimiento Contingente,5,0,0.0%
+PAN040314,Procedimiento de Contingencia,4,0,0.0%
+PAN040705,Legalizar movimiento de Tarjeta de Crédito,15,0,0.0%
+PAN040705,Procesar Compensación de Medios de Pago,37,1,2.7%
+PAN050305,Gestionar experiencia y requerimientos de clientes,50,1,2.0%
+PAN050305,Gestionar requerimientos de clientes,25,1,4.0%
+PAN050305,Gestionar solicitudes y requerimientos de clientes,15,0,0.0%
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,30,1,3.3%
+PAN050802,Vinculación Centralizada,24,3,12.5%
+PAN050802,Vinculación gestionada por comercial,29,2,6.9%
+PAN050803,Autorizar Actidad Callback,4,0,0.0%
+PAN050803,Autorizar Actividad Callback,7,0,0.0%
+PAN050803,Contingencia,9,0,0.0%
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",9,0,0.0%
+PAN050803,Gestionar Novedades de Clientes Filiales,3,0,0.0%
+PAN050803,Gestionar Novedades de Clientes Filiales del Exterior y Sucursal,13,1,7.7%
+PAN050803,Gestionar Novedades de Clientes Filiales del exterior y Sucursal,3,0,0.0%
+PAN050803,Gestionar Novedades de clientes Filiales,12,0,0.0%
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,24,1,4.2%
+PAN080001,Administrar programas de lealtad,28,0,0.0%
+PTO160301,Autorizar transacciones de Medios de Pago,11,0,0.0%
+PTO160301,Autorizar transacciones en Medio de Pago,10,0,0.0%
+T050301,Activar Proceso Contingencia,10,0,0.0%
+T050301,Recibir requerimiento de Clientes,14,0,0.0%
+T050301,Recibir requerimiento de clientes,16,0,0.0%
+T050301,Recibir requerimiento de clientes   ,25,0,0.0%
+T050301,Recibir requerimientos Entes Legales,20,0,0.0%
+T050302,Gestionar Derechos de Petición,11,0,0.0%
+T050302,Gestionar Requerimiento de Clientes,32,0,0.0%
+T050302,Realizar Abono Temporal yo Definitivo,33,0,0.0%
+T050303,Responder Requerimiento de Clientes,4,0,0.0%
+T050303,Responder Requerimiento de clientes,27,0,0.0%
+T050402,Ejecutar medidas de desembargos,12,0,0.0%
+T050402,Gestionar requerimientos legal desembargo sobre clientes,19,1,5.3%
+T050402,Gestionar requerimientos legales de embargos y desembargos sobre clientes,53,1,1.9%
+T050402,Gestionar solicitudes,4,1,25.0%
+T050402,Realizar seguimiento a oficios,4,0,0.0%
+T050402,T050402 Gestionar requerimientos legal desembargo sobre clientes,20,1,5.0%
+T050402,T050402 Gestionar requerimientos legales de embargos y desembargos sobre clientes,26,0,0.0%
+T050807,Gestionar clientes,10,0,0.0%
+T050807,Habilitar comerciales mesa de dinero,7,0,0.0%
+T050807,Negociar Operaciones con Clientes MK,47,0,0.0%
+T051005,Crear o Vincular Potenciales Clientes,89,7,7.9%
+T051005,Procedimiento Contingente,12,0,0.0%
+T051008,ADMINISTRAR INFORMACIÓN DE CLIENTES,13,0,0.0%
+T051008,Conformar Grupos Cliente,15,0,0.0%
+T051008,Custodiar y disponer datos,11,0,0.0%
+T051008,T051008 - Administrar información de clientes,17,0,0.0%
+T051009,Activar Debida Diligencia,24,4,16.7%
+T051009,Actualizar Información de Clientes,71,1,1.4%
+T051009,Gestionar Debida Diligencia,9,3,33.3%
+T051303,Atender las reclamaciones recibidas,4,0,0.0%
+T051303,Certificar cuentas contables,8,0,0.0%
+T051303,Conciliar Pagos,4,0,0.0%
+T051303,Contabilizar Facturación,20,0,0.0%
+T051303,Gestionar Facturación Dirección Conciliación y Cobranza,15,0,0.0%
+T051303,Gestionar Facturación de BRP,16,0,0.0%
+T051303,Gestionar Legalizaciones y Anticipos,8,0,0.0%
+T051303,Gestionar Otros Gastos Presentación de Demanda,26,0,0.0%
+T051303,Gestionar cuentas por cobrar,35,0,0.0%
+T051303,"Gestionar facturación Bonificaciones, OGPD y Honorarios Avanzada",18,0,0.0%
+T051303,Gestionar facturación comisiones etapa administrativa y  castigada,18,0,0.0%
+T051303,Gestionar facturación de comisiones Aliados de Cobranza,12,0,0.0%
+T051303,Legalizar gastos,9,0,0.0%
+T051701,Administrar Novedades Planta Comercial,48,0,0.0%
+T051903,"Atender y solucionar quejas, requerimientos y reclamos de clientes, aliados y entes de control",19,0,0.0%
+T051903,Procedimiento de contingencia,11,0,0.0%
+T051904,Administrar información para los modelos de atención,38,2,5.3%
+T051910,Crear Comunidades Negocios e Independientes,28,0,0.0%
+T051910,Crear Encadenamientos productivos ,65,1,1.5%
+T051911,Procesar traslado de clientes entre Bancas de Pyme y Empresas,3,0,0.0%
+T051911,Solicitudes Masivas de Estrategia,8,0,0.0%
+T051911,Traslados entre bancas día a día,27,0,0.0%
+T051911,Traslados entre bancas masivos,47,1,2.1%
+T051918,Personalizar contenido,13,0,0.0%
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,40,1,2.5%
+T051923,Habilitar las estrategias de precio,29,1,3.4%
+T051923,Habilitar las estrategias de precios,95,5,5.3%
+T051923,Transitorio,8,0,0.0%
+T051924,Gestionar el uso del servicio de Ecosistemas,80,2,2.5%
+T070203,Administrar Ventas Digitales,31,2,6.5%
+T070203,Enviar Información Forma 416,11,0,0.0%
+T070203,Enviar información F416 Preaprobados digital consumo desembolsados,13,0,0.0%
+T070203,Gestionar Clientes BPO,7,0,0.0%
+T070203,Gestionar información de las experiencias digitales,14,1,7.1%
+T070203,Monitorear Experiencias,7,0,0.0%
+T070204,Atender interrupciones programadas en los canales y servicios,24,0,0.0%
+T070206,Atender novedades del Banco para canales virtuales empresas,15,0,0.0%
+T070208,Atender Novedades del Cliente para Canales Digitales,26,0,0.0%
+T070209,Atender novedades del cliente para canales virtuales empresas,32,0,0.0%
+T070209,H2H,9,0,0.0%
+T070209,PYME,3,0,0.0%
+T070209,SVE,15,0,0.0%
+T070209,SVN,10,1,10.0%
+T070209,WEB SERVICE,5,0,0.0%
+T070211,Gestionar ingresos y procesos contables del canal,41,0,0.0%
+T070212,Diagrama 1,5,0,0.0%
+T070212,Monitorear canales electrónicos y efectivo,11,0,0.0%
+T070212,Monitorear canales fisicos,16,0,0.0%
+T070212,Monitorear contact center,18,0,0.0%
+T070212,Monitorear operación digital,20,1,5.0%
+T070212,Monitorear servicios corresponsales bancarios,6,0,0.0%
+T070212,Monitorear servicios sucursales,31,0,0.0%
+T070212,Realizar monitoreo a canales,6,0,0.0%
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,13,0,0.0%
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,18,0,0.0%
+T070214,Grabar Aumento de cupo TDC de ventas digitales,11,1,9.1%
+T070214,Grabar TDC de ventas digitales,16,1,6.2%
+T080006,Administrar Cupos ML,7,0,0.0%
+T080006,Administrar liquidez de Grupo Cibest Subsidiarias y Subholdings,17,0,0.0%
+T080006,Administrar liquidez de Grupo Cibest y Subsidiarias,16,0,0.0%
+T080006,Evaluar Cobertura,8,1,12.5%
+T080130,Procesar Información Financiera MK y CI,47,0,0.0%
+T080130,Procesar información financiera MK Y CI,30,0,0.0%
+T080148,Gestionar los recursos y la contabilidad de la Fundación Bancolombia,9,0,0.0%
+T080148,Gestionar los recursos y la contabilidad de la Fundación Bancombia,35,0,0.0%
+T080149,Calcular costo amortizado,22,0,0.0%
+T080149,Consolidar información para provisiones bajo pérdida esperada,29,0,0.0%
+T080315,Ejecutar Fase 1,3,0,0.0%
+T080315,Ejecutar Fase 2,2,0,0.0%
+T080315,Ejecutar Fase 3,2,0,0.0%
+T080315,Ejecutar Fase 4,3,0,0.0%
+T080315,Ejecutar Normalizaciones,5,0,0.0%
+T080315,Generar Informes de Modelos de Rentabilidad,42,1,2.4%
+T080505,Realizar Conciliacion Contable MK y CI,25,0,0.0%
+T080506,Realizar Razonabilidad,22,0,0.0%
+T080507,Realizar Arqueo de Títulos,34,0,0.0%
+T080508,Realizar Conciliación Contable de Canales,18,0,0.0%
+T080508,Realizar Conciliación Contable de Canales Físicos,22,0,0.0%
+T080508,Realizar Monitoreo Contable de Canales,11,0,0.0%
+T080508,Realizar Monitoreo Contable de Canales Físicos y Efectivo,13,0,0.0%
+T080516,Conciliar Core Recargas,29,0,0.0%
+T080516,Conciliar Cuentas Contables de Recaudos,27,0,0.0%
+T080516,Conciliar Transacciones Autorizadas PSE y SSS,13,0,0.0%
+T080516,Conciliar Transacciones PSP ONLINE,10,0,0.0%
+T080516,Conciliar Transacciones Recaudadas PSE y SSS,5,0,0.0%
+T080516,Conciliar cuenta de IVA criptoactivos y recargas,8,0,0.0%
+T080516,Conciliar cuenta de IVA recargas,8,0,0.0%
+T080516,Conciliar cuenta de comisión  recargas,8,0,0.0%
+T080516,Conciliar cuenta de comisión criptoactivos,8,0,0.0%
+T080516,Conciliar cuentas PYG,7,0,0.0%
+T080516,Conciliar cuentas de Autorretención,14,0,0.0%
+T080516,Conciliar devoluciones por operador débito,4,0,0.0%
+T080516,Conciliar otras cuentas,5,0,0.0%
+T080516,Conciliar recargas de celular,8,0,0.0%
+T080516,Gestionar transacciones rechazadas de recaudos,14,0,0.0%
+T080516,Procedimiento de Contigencia,4,0,0.0%
+T080516,Procedimientos de Contingencia,17,0,0.0%
+T080602,Contingencia,9,0,0.0%
+T080602,Generar y Transmitir Informes Externos,21,0,0.0%
+T080602,Procedimiento de Contingencia,14,0,0.0%
+T080802,Cotización esquema de formación IBR,15,0,0.0%
+T080802,Establecer estrategias,6,0,0.0%
+T080802,Gestionar Riesgo de Crédito,14,0,0.0%
+T080802,Habilitar trader,8,0,0.0%
+T080802,Negociar y Administrar Operaciones de Tesorería Posición Propia,58,0,0.0%
+T080802,Procedimiento de Contingencia,5,0,0.0%
+T080902,Conciliar transacciones y contabilidad de ecosistemas,59,0,0.0%
+T081001,Dispersar fondos,26,0,0.0%
+T081001,Facturar egresos y pago a terceros,70,1,1.4%
+T081001,Generar Facturacion Electronica,34,0,0.0%
+T081001,Generar Facturación electrónica,38,0,0.0%
+T081001,Gestionar ingresos y gastos de Ecosistemas,37,0,0.0%
+T081001,Gestionar ingresos y gastos de ecosistemas,41,0,0.0%
+T081001,Liquidar comisiones,16,0,0.0%
+T081001,Liquidar comisiones orquestador analítico,29,0,0.0%
+T081001,Liquidar comisiones semiautomático,28,0,0.0%
+T081001,Procedimiento contingente,5,0,0.0%
+T081001,Recaudar pagos Aliados,33,0,0.0%
+T081001,Reversar comisión e IVA de comisión,15,1,6.7%
+T090101,Medir y analizar riesgo de mercado de tesorería,29,0,0.0%
+T090202,Realizar evaluacion de riesgo Operacional,8,0,0.0%
+T090202,Realizar evaluación de riesgo operacional,12,0,0.0%
+T090303,Generar y enviar Contingencia,3,0,0.0%
+T090303,Monitorear Limites y Cupos de Riesgo de Crédito de Tesorería,10,0,0.0%
+T090303,Monitorio Límites y Cupos de Riesgo de Crédito de Tesorería,25,0,0.0%
+T120003,Normalizar y responder al cliente ante eventos de seguridad,50,0,0.0%
+T120004,Recuperar y contabilizar eventos de seguridad,53,0,0.0%
+T120301,Procedimiento Contingente,6,0,0.0%
+T120301,Procedimiento de Contingencia,7,0,0.0%
+T120301,Recibir e Investigar eventos de seguridad,32,0,0.0%
+T120301,Recibir e investigar eventos de fraude,72,1,1.4%
+T120302,Atención QRS,6,1,16.7%
+T120302,Consultas y desbloqueos,15,1,6.7%
+T120302,Gestión Correo Segtrans,12,1,8.3%
+T120302,Gestión correo Segtrans,12,1,8.3%
+T120302,Monitorear adquirencia,9,0,0.0%
+T120302,Monitorear transacciones y reaccionar ante eventos de fraude,40,1,2.5%
+T120302,Montos Altos,10,0,0.0%
+T120302,Montos altos,9,0,0.0%
+T120302,Procedimiento contingente,5,0,0.0%
+T120302,Recibir e investigar eventos de fraude,44,0,0.0%
+T140002,Administrar Bienes Recibidos en Pago,71,0,0.0%
+T140002,Formalizar Activos,37,0,0.0%
+T140002,Gestionar Vehiculos,13,0,0.0%
+T140002,Gestionar Vehiculos Recibidos en Pago,13,0,0.0%
+T140002,Gestionar Vehiculos y Maquinaria Recibidos en Pago,31,0,0.0%
+T140002,"Gestionar Vehiculos, Maquinaria o Tecnología Recibidos en Pago",30,0,0.0%
+T140002,"Gestionar Vehiculos, Maquinaria y Tecnología Recibidos en Pago",21,0,0.0%
+T140002,Realizar Administración Recurrente de Activos,24,0,0.0%
+T140002,Realizar Administración recurrente de activos,10,0,0.0%
+T140002,Realizar Dación en pago - Restitución Voluntaria,14,0,0.0%
+T140003,T140003 Monitorear el servicio Ecosistemas,35,1,2.9%
+T140004,Contabilizar Bienes recibidos en Pago,43,0,0.0%
+T140005,Asignar Precios,16,0,0.0%
+T140005,Comercializar Bienes Recibidos en Pago,55,0,0.0%
+T140005,Gestionar Ventas en Sitio,14,0,0.0%
+T140005,Gestionar ofertas,13,0,0.0%
+T140005,Solicitar CxC ofertas Renting,11,0,0.0%
+T140005,Subastar BRP,10,0,0.0%
+T140112,"Vincular, actualizar y modificar proveedores",54,0,0.0%
+T140112,"Vincular, modificar y actualizar proveedor",49,0,0.0%
+T140705,Recibir y radicar requerimientos de Entidades Externas,38,1,2.6%
+T140705,T140705 Recibir y radicar requerimientos de Entidades Externas,29,0,0.0%
+T140707,Gestionar Requerimientos Legales sobre Clientes,39,0,0.0%
+T140707,Procedimiento contingente,4,0,0.0%
+T140707,T140707 Gestionar Requerimientos Legales sobre Clientes,16,0,0.0%
+T141203,Administrar PP,11,0,0.0%
+T141203,Gestionar Proyectos de Desarrollo Social,6,1,16.7%
+T141203,Gestionar los proyectos  de la fundación Bancolombia,14,0,0.0%
+T141203,Gestionar los proyectos de la fundación Bancolombia,12,0,0.0%
+T141203,Gestionar los proyectos y programas de la Fundación Bancolombia,14,1,7.1%
+T141203,T141203 Gestionar los proyectos  de la fundación Bancolombia,15,0,0.0%
+T160021,Actualizar beneficiarios de convenios de nómina y gestión reclamos masivos,22,1,4.5%
+T160021,Aplicar Novedades Beneficiarios Ahorro a la Mano,6,0,0.0%
+T160021,Aplicar novedades beneficiarios Ahorro a la Mano,6,0,0.0%
+T160021,Asignar Tablas de Cargos por Servicios y Tabla de Interes,19,0,0.0%
+T160021,Asignar tablas de cargos por servicios y tabla de interés,18,0,0.0%
+T160021,Atender Novedades de cuentas control,19,1,5.3%
+T160021,Atender novedades de Bolsillos,4,0,0.0%
+T160021,Atender novedades de apertura de cuenta por autogestión,5,0,0.0%
+T160021,Atender novedades de cuentas control,19,1,5.3%
+T160021,Atender servicios y modificaciones de cuenta,23,0,0.0%
+T160021,Atender solicitudes de AFC,12,0,0.0%
+T160021,Bloqueo masivo de cupo-plazo de sobregiro,6,0,0.0%
+T160021,Cambiar estado de cuentas,10,1,10.0%
+T160021,Modificar cupos de sobregiro masivos,8,0,0.0%
+T160021,Realizar Mantenimiento de Cuentas en cualquier oficina,6,0,0.0%
+T160021,Realizar Monitoreo a cuentas control,9,0,0.0%
+T160021,Realizar cambio código de vendedor,3,0,0.0%
+T160021,Realizar cambio masivo de planes,16,0,0.0%
+T160021,Realizar inscripciones de cuentas,56,0,0.0%
+T160021,Realizar mantenimiento de cuentas en cualquier oficina,3,0,0.0%
+T160021,Realizar marcación y desmarcación de la exención al GMF,59,0,0.0%
+T160021,Realizar monitoreo a cuentas control,9,0,0.0%
+T160021,Realizar monitoreo de cuentas,73,0,0.0%
+T160021,Realizar novedad de Inembargabilidad a cuentas ahorros y corrientes,5,0,0.0%
+T160021,Realizar novedad de inembargabilidad a cuentas de ahorro y corriente,5,0,0.0%
+T160021,Realizar parametrizaciones,30,0,0.0%
+T160021,Trasladar fondos cuenta maestras pagadoras,12,0,0.0%
+T160027,Generar Informes internos y externos depósitos,27,0,0.0%
+T160028,Administrar Extractos Especiales,16,0,0.0%
+T160028,Atender solicitudes mensajes MT940-CAMT053,6,0,0.0%
+T160028,Generar Extractos Especiales,10,0,0.0%
+T160028,Gestionar Desbloqueo de Impresion de Extractos,7,0,0.0%
+T160028,Gestionar Extractos Especiales,13,0,0.0%
+T160028,Gestionar usuarios Driver,4,0,0.0%
+T160028,Inscribir mensaje MT940-CAMT053,11,0,0.0%
+T160028,Modificar mensaje MT940-CAMT053,11,0,0.0%
+T160028,Monitorear Extractos MT940-CAMT053,6,0,0.0%
+T160028,Realizar Validacion de Extractos Especiales,13,1,7.7%
+T160028,Realizar soporte de extractos Especiales,10,0,0.0%
+T160028,Retirar mensaje MT940-CAMT053,12,0,0.0%
+T160050,Administrar el proceso contrable,32,0,0.0%
+T160050,"Administrar el proceso contrable (CVN y MCN, nal e inter, AMX pag y red)",51,0,0.0%
+T160050,Calcular diferencia en cambio,12,0,0.0%
+T160050,Conciliar Interfaz IFRS9,5,0,0.0%
+T160050,Generar Informe Partes Relacionadas,4,0,0.0%
+T160050,Generar contabilidad de Gastos de TII y comisión comercio para EAB,8,0,0.0%
+T160050,Realizar conciliación contable TDC,10,0,0.0%
+T160050,Realizar la Razonabilidad de PyG,11,0,0.0%
+T160057,Actualizar información Comercios Tradicional,17,0,0.0%
+T160057,Actualizar información MAID,18,0,0.0%
+T160057,Actualizar información MVV,8,0,0.0%
+T160057,Autorizar Maquina Imprinter,4,0,0.0%
+T160057,Cambiar cuentas a comercios RAM 65,23,0,0.0%
+T160057,Cambiar cuentas a comercios Tradicional,46,0,0.0%
+T160057,Habilitar o cambiar cuentas a comercios,26,0,0.0%
+T160057,Habilitar o cambiar cuentas a comercios EAB,34,0,0.0%
+T160057,Procesar cambios de comisión a comercios RAM 65,19,0,0.0%
+T160057,Procesar cambios de comisión a comercios Tradicionales,47,0,0.0%
+T160057,Procesar novedades Modelo Agregador,25,0,0.0%
+T160057,Procesar novedades a comercios,5,0,0.0%
+T160057,Procesar novedades a comercios Conexión Directa,23,0,0.0%
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,17,0,0.0%
+T160057,Procesar novedades a comercios VISA REDEBAN,17,0,0.0%
+T160057,Procesar novedades a comercios aceptación de Pagos,16,0,0.0%
+T160057,Procesar novedades a comercios institución 63,19,0,0.0%
+T160057,Procesar novedades de la red American Express,27,0,0.0%
+T160065,Afiliar Comercios Aceptación de pagos,4,0,0.0%
+T160065,Afiliar Comercios a Aceptación de pagos,4,0,0.0%
+T160065,Afiliar SubComercios Modelo Agregador,31,0,0.0%
+T160065,Afiliar comercios Conexión Directa,14,1,7.1%
+T160065,Afiliar comercios a Conexión Directa,10,1,10.0%
+T160065,Afiliar comercios a la red American Express,52,0,0.0%
+T160065,Afiliar comercios aceptación de pagos tradicional,71,1,1.4%
+T160065,Procesar vinculaciones a comercios aceptación de pagos tradicional,45,1,2.2%
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,57,0,0.0%
+T160076,Contingencia Autopista Davivienda,110,0,0.0%
+T160076,Contingencia PAB,11,0,0.0%
+T160076,Contingencia Realizar pago para Mercado de Capitales,27,0,0.0%
+T160076,Realizar Movimientos CIBEST,25,0,0.0%
+T160076,Realizar pago para Mercado de Capitales,58,0,0.0%
+T160076,Realizar pagos de derivados NDF e interbancarios,16,0,0.0%
+T160077,Complementar Operaciones de Tesoreria,16,0,0.0%
+T160077,Complementar Operaciones de Tesorería,17,0,0.0%
+T160077,Generar Papeletas (Valores),10,0,0.0%
+T160077,Modificar y Corregir Operaciones Bolsa (Valores),15,0,0.0%
+T160077,Procedimiento Contingente,5,0,0.0%
+T160080,Administrar Valoración de Portafolios y Tasas para Negociación,29,0,0.0%
+T160080,Cargar tasas para negociación,10,0,0.0%
+T160082,Validar Compensación de Operaciones de Tesorería,18,0,0.0%
+T160084,Administrar Derechos Patrimoniales,42,0,0.0%
+T160084,Procedimiento de Contingencia,9,0,0.0%
+T160085,"Contingencia, fecha actualización 2025-06-27",4,0,0.0%
+T160085,Procedimiento Contingente,5,0,0.0%
+T160085,Realizar Confirmación de Operaciones de Tesorería,20,0,0.0%
+T160085,Validar Operaciones de Tesorería,20,0,0.0%
+T160086,"Contingencia, fecha actualización 2025-07-28",41,0,0.0%
+T160086,Cumplir operaciones de tesorería por depósitos y por sistemas de pago y recaudo,21,0,0.0%
+T160086,Cumplir operaciones mercado de capitales,25,0,0.0%
+T160086,Ejecutar Contingencia,44,0,0.0%
+T160087,Atencion créditos de empleados,11,0,0.0%
+T160087,Atender Solicitudes Posventa Cartera Hipotecaria y Constructor,39,0,0.0%
+T160087,Atender solicitudes de Alivios Covid 19 - Circular 22,23,0,0.0%
+T160087,"Cambiar plan, plazo y modalidad de productos hipotecarios",11,0,0.0%
+T160087,Ejecutar mantenimientos de cartera hipotecaria,88,0,0.0%
+T160087,Generar certificados tributarios de retención en la fuente por la intranet,4,0,0.0%
+T160087,Generar novedades al débito automático de crédito hipotecario,8,0,0.0%
+T160090,Procedimiento contingencia,13,0,0.0%
+T160090,Recibir abonos de cartera hipotecaria,66,0,0.0%
+T160090,Recibir abonos de cartera hipotecaria por sucursal,19,0,0.0%
+T160092,Generar y transmitir informes Solución Inmobiliaria,47,0,0.0%
+T160092,Generar y transmitir informes de cartera hipotecaria,33,0,0.0%
+T160099,Administrar Convenios Empresariales de Cartera,51,1,2.0%
+T160099,Administrar convenios empresariales de cartera,2,0,0.0%
+T160099,Enviar información y novedades a convenios,16,0,0.0%
+T160099,Extraer información últimas cuotas,3,0,0.0%
+T160099,Gestionar convenios,10,0,0.0%
+T160100,Administrar cartera activa y pasiva,12,0,0.0%
+T160100,Administrar servicios y asesorias Outsourcing,88,0,0.0%
+T160100,Gestionar Comisiones 4G Findeter,9,0,0.0%
+T160100,Gestionar Crédito PADA,11,1,9.1%
+T160100,Gestionar Informes y Solicitud de Firmas a las entidades,10,0,0.0%
+T160100,Gestionar cancelación y prepago parcial,11,0,0.0%
+T160100,Gestionar crédito Línea Bancoldex Aprogresar,27,0,0.0%
+T160100,Gestionar crédito capitalizable,12,0,0.0%
+T160100,Gestionar solicitud de modificación  de condiciones de crédito,20,0,0.0%
+T160100,Gestionar subsidios  Incentivos,20,0,0.0%
+T160100,Gestionar vencimientos y novedades,23,0,0.0%
+T160107,Analizar cheques devueltos cartera,9,0,0.0%
+T160107,Aplicar Pagos a la Cartera,29,0,0.0%
+T160107,Castigar Cartera ML,14,0,0.0%
+T160107,"Causar Capital, Intereses y Seguros",13,0,0.0%
+T160107,Generar informe de cartera,6,0,0.0%
+T160107,Generar paz y salvos de cartera consumo y empresarial,16,0,0.0%
+T160107,Gestionar CXC,24,0,0.0%
+T160107,Gestionar Rechazos y Generar Información,10,0,0.0%
+T160107,Liquidar y Pagar Cartera ,9,0,0.0%
+T160107,Recibir Abonos de Cartera a través de sucursal física,10,0,0.0%
+T160107,Recibir Abonos de Credipago,33,0,0.0%
+T160107,Recibir Pago por Canal  Telefónico y Físico,21,0,0.0%
+T160107,Recibir Pagos de Cartera por Proceso Automático,26,0,0.0%
+T160107,Recibir abonos de cartera,36,0,0.0%
+T160107,Recibir abonos de cartera por canal virtual,15,0,0.0%
+T160107,Recibir abonos de cartera por procesos automáticos,24,0,0.0%
+T160107,Recibir y Pagar Otras Comisiones,16,0,0.0%
+T160108,Atender eventos atípicos,12,1,8.3%
+T160108,Cambiar de Cuenta Débito Automático de Cartera,11,0,0.0%
+T160108,Controlar manteniminentos de Cartera,12,0,0.0%
+T160108,Ejecutar Mantenimientos de Cartera,32,0,0.0%
+T160108,Ejecutar mantenimientos de ciclos de facturación,7,0,0.0%
+T160108,Extraer información últimas cuotas,3,0,0.0%
+T160108,Gestionar Novedades de Cartera de Financiación,26,0,0.0%
+T160108,Monitorear la Cartera Creada,4,0,0.0%
+T160108,Realizar Reliquidaciones de Préstamos,8,0,0.0%
+T160108,Realizar monitoreo a la cartera,4,0,0.0%
+T160109,Administrar MAP,8,0,0.0%
+T160109,Administrar Parámetros del Aplicativo en Cartera,26,0,0.0%
+T160112,Constituir Garantía FNG y FAG,99,4,4.0%
+T160112,Constituir Garantía Hipotecaria Comercial,41,0,0.0%
+T160112,Constituir Garantías Covenant,24,1,4.2%
+T160112,Constituir Garantías FNG y FAG,53,2,3.8%
+T160112,Constituir Garantías Prendas Especiales,34,1,2.9%
+T160112,Constituir Garantías Stand By,9,0,0.0%
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,57,1,1.8%
+T160112,Constituir garantía no hipotecaria,29,0,0.0%
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,28,0,0.0%
+T160129,Generar provisiones,123,0,0.0%
+T160129,Generar provisiones para la cartera comercial y consumo,14,0,0.0%
+T160129,Generar provisiones vivienda y microcrédito,7,0,0.0%
+T160141,Administrar inventario -solicitudes de Colectivos,25,0,0.0%
+T160141,Custodiar productos debito preexpedidos,9,1,11.1%
+T160141,Entregar tarjetas y claves débito,30,1,3.3%
+T160141,Realzar Tarjetas débito,15,0,0.0%
+T160141,Reexpedición automática de tarjeta débito por fraude,7,0,0.0%
+T160146,Procedimiento Contingente,11,1,9.1%
+T160146,Procedimiento contingente,21,1,4.8%
+T160146,Solicitar desembolso,58,0,0.0%
+T160147,"Contingencia, fecha actualización 2025-07-08",19,0,0.0%
+T160147,Procedimiento Contingente,19,0,0.0%
+T160147,Realizar Desembolso Canal Digital,12,0,0.0%
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,71,0,0.0%
+T160148,Desembolsar Cartera a través de Líneas Virtuales,40,0,0.0%
+T160150,Realizar solicitud Bancoldex,31,0,0.0%
+T160150,Realizar solicitud Finagro,20,0,0.0%
+T160150,Realizar solicitud Findeter,35,0,0.0%
+T160150,Solicitar desembolso crédito de redescuento,63,0,0.0%
+T160155,Gestionar contraprestaciones de aliados Sufi,25,0,0.0%
+T160155,Gestionar link de pago aliados,7,0,0.0%
+T160155,Procesar comisiones a vendedores Sufi,14,0,0.0%
+T160155,Procesar contraprestación de comercios y vendedores,25,0,0.0%
+T160157,Realizar Rastreo Manual,6,0,0.0%
+T160157,Realizar cobros de cuota de manejo de tarjetas débito,22,0,0.0%
+T160157,Realizar cobros de cuota de manejo de tarjetas débito y planes de suscripción,16,0,0.0%
+T160157,Realizar controles para cuota de manejo,11,0,0.0%
+T160157,Reintentar Débito,5,0,0.0%
+T160158,Generar Informe Mastercard,2,0,0.0%
+T160158,Grabación Novedades tarjeta débito,13,0,0.0%
+T160158,Procesar novedad cancelación masiva,9,0,0.0%
+T160158,Procesar novedades por autogestión,33,0,0.0%
+T160158,Realizar Novedades Tarjeta Debito,23,0,0.0%
+T160158,Realizar novedades administrativas tarjeta debito,24,0,0.0%
+T160159,Administrar productos prepago,35,0,0.0%
+T160159,Gestionar entrega del producto,37,2,5.4%
+T160159,Gestionar novedades prepago,22,0,0.0%
+T160159,Personalizar y entregar Tarjetas por segunda vez,6,0,0.0%
+T160161,Emisión masiva MD,13,0,0.0%
+T160161,Solicitar Tarjeta Débito Preexpedida,23,0,0.0%
+T160161,Solicitar Tarjeta Débito Preferencial,11,0,0.0%
+T160161,Solicitar Tarjeta débito Virtual,29,0,0.0%
+T160161,Solicitar tarjeta débito,34,0,0.0%
+T160212,Administrar la plataforma Swift,18,0,0.0%
+T160212,Ejecutar contingencia - Giros y Remesas en Sucursales,11,0,0.0%
+T160212,Gestionar usuarios Driver,4,0,0.0%
+T160212,Monitorear Driver - GPI,8,0,0.0%
+T160212,Pagar Giros y Remesas en Sucursales ante falla de CIB,11,0,0.0%
+T160212,Plan de choque devolución de giros y remesas internacionales,7,0,0.0%
+T160212,"Recibir Insumos Electrónicos (mensajes SWIFT, TAC, información, etc.) del Exterior",30,0,0.0%
+T160212,Recibir insumos electrónicos mensajes SWIFT e información del exterior,32,0,0.0%
+T160212,Recibir remesas familiares,16,0,0.0%
+T160218,Iniciar Plazo de la Operacion,12,0,0.0%
+T160218,Pagar Obligaciones Leasing,32,0,0.0%
+T160218,Realizar Contingencia Apertura y Desembolso,3,0,0.0%
+T160218,Realizar desembolso de crédito hipotecario,58,0,0.0%
+T160220,Abrir productos bancaseguros,12,0,0.0%
+T160220,Abrir productos en Sucursal Física,82,1,1.2%
+T160220,Abrir productos en Telemercadeo  (TMK),40,1,2.5%
+T160220,Abrir productos por los Canales Alternos,25,0,0.0%
+T160220,Abrir productos por modelo Remota Cardif,51,0,0.0%
+T160220,Abrir productos por modelo Remota Sura,39,0,0.0%
+T160220,Tomar seguros en Canales Digitales,36,1,2.8%
+T160228,Procedimiento Contingente,8,0,0.0%
+T160228,Transportar y consolidar efectivo,28,0,0.0%
+T160246,Cancelar Asistencias,1,0,0.0%
+T160246,Cancelar Productos Bancaseguros,6,0,0.0%
+T160246,Cancelar Seguros Cardif,3,0,0.0%
+T160246,Cancelar Seguros Sura,5,0,0.0%
+T160264,Administrar novedades administrativas de sucursales,21,0,0.0%
+T160264,Aplicar novedades Horarios,12,0,0.0%
+T160264,Aplicar novedades Modelamiento,13,0,0.0%
+T160264,Aplicar novedades cámara de comercio,32,0,0.0%
+T160264,Aplicar novedades de Horarios,12,0,0.0%
+T160264,Aprobar conexión a Redes Externas,13,0,0.0%
+T160264,Realizar Renovación Registro Único de Proponentes-RUP,13,0,0.0%
+T160265,Actualizar indicadores y formatos legales,19,0,0.0%
+T160265,Administrar Modelo Equipo Comercial Remoto,10,0,0.0%
+T160265,Administrar Q - Flow,7,0,0.0%
+T160265,Administrar el Servicio en Sucursales,13,0,0.0%
+T160265,Administrar la atencion a personas con Discapacidad auditiva,3,0,0.0%
+T160265,Administrar la autenticación de clientes,16,0,0.0%
+T160265,Contingencia apertura y cierre de sucursal en Golf SB,9,0,0.0%
+T160265,Coordinar estrategia de fin de año,14,0,0.0%
+T160265,Definir y probar Procesos de contingencia en sucursal,37,0,0.0%
+T160265,Ejecutar Modelo productividad Caja,4,0,0.0%
+T160265,Gestionar Cobros por uso de la Red,6,0,0.0%
+T160265,Gestionar escalamiento incidentes,9,0,0.0%
+T160265,Gestionar relacionamiento con áreas de apoyo,9,0,0.0%
+T160265,Monitorear la operación de Golf SifBranch en Sucursales,31,1,3.2%
+T160265,Registrar y gestionar novedades de ausencia,6,0,0.0%
+T160265,Soportar procesos experiencias digitales  consumo y pagos,10,0,0.0%
+T160265,T160265 Administrar el Servicio en Sucursales,14,0,0.0%
+T160268,Abrir canal Corresponsales Bancarios.,29,0,0.0%
+T160269,Administrar Base funcionamiento,6,0,0.0%
+T160269,Administrar Corresponsales Bancarios,8,1,12.5%
+T160269,Administrar Cupos,22,0,0.0%
+T160269,Administrar Novedades,7,0,0.0%
+T160269,Compensar,23,1,4.3%
+T160269,Generar Informes,3,0,0.0%
+T160269,Monitorear el Servicio,10,0,0.0%
+T160269,Novedades Monetarias,12,0,0.0%
+T160269,Requerimientos Legales,7,1,14.3%
+T160273,Atender con modelo Servicio,11,1,9.1%
+T160273,Atender con modelo Ventas,46,0,0.0%
+T160273,Atender con modelo Ventas y servicio,20,1,5.0%
+T160273,Autenticar clientes,8,0,0.0%
+T160273,Contingencia,15,0,0.0%
+T160273,Ejecutar la transacción,15,0,0.0%
+T160273,Procesar Operaciones del Cliente en el Contact Center y BPO,7,0,0.0%
+T160273,Procesar operaciones del cliente en el Contact Center,8,0,0.0%
+T160273,Realizar paso asesor,21,1,4.8%
+T160275,Consolidar Gestión de BPO,9,0,0.0%
+T160275,Gestionar Cognos,19,0,0.0%
+T160275,Gestionar Incidentes,21,0,0.0%
+T160275,Gestionar Mesas de Alquiler,28,0,0.0%
+T160275,Gestionar el Servicio del Contact Center,10,0,0.0%
+T160275,Gestionar la información de servicios de interacciones a distancia,11,0,0.0%
+T160275,Gestión de quejas y solicitud de grabaciones,12,0,0.0%
+T160275,Gestión y control de licenciamiento,6,0,0.0%
+T160275,Realizar Monitoreos,45,1,2.2%
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,20,0,0.0%
+T160275,Realizar seguimiento de indicadores,35,0,0.0%
+T160288,Contingencia procesar pagos,21,0,0.0%
+T160288,Procesar pagos de Negocios Fiduciarios,50,0,0.0%
+T160290,AQR,8,0,0.0%
+T160290,Gestionar Novedades,21,0,0.0%
+T160290,Procedimiento contingente,21,0,0.0%
+T160290,Realizar la causación de los fideicomisos,25,0,0.0%
+T160290,Recibir Facturas,6,0,0.0%
+T160295,Administrar negocios de cartera,15,0,0.0%
+T160295,Admistrar negocio Uniandes,18,0,0.0%
+T160295,Procesar Negocios de Cartera,40,0,0.0%
+T1603106,Gestionar Transacciones de Fondos,29,0,0.0%
+T1603106,Procedimiento de Contingencia,27,0,0.0%
+T160331,Gestionar FICS,29,0,0.0%
+T160338,Gestionar Liquidez para Fondos de Inversión,25,0,0.0%
+T160338,Procedimiento de Contingencia,11,0,0.0%
+T160355,Modificar Operacion Renta Inmuebles,9,0,0.0%
+T160355,Modificar Operacion Renta inmuebles,9,0,0.0%
+T160355,Modificar Operaciones,44,0,0.0%
+T160355,Modificar Operaciones por Normalización,11,0,0.0%
+T160362,Gestionar Seguros,21,0,0.0%
+T160362,Pagar facturas electrónicas de Seguros,35,0,0.0%
+T160364,Gestionar Cuentas por Cobrar,39,0,0.0%
+T160370,Contingencia Actividades Criticas,36,0,0.0%
+T160370,Realizar recaudo para mercado de capitales,36,0,0.0%
+T160420,Administrar parámetros de Pagos y Transferencias,12,0,0.0%
+T160420,Cobrar Servicio Quinto Ciclo ACH Colombia,12,0,0.0%
+T160420,Depurar Masivamente Cuentas Beneficiarias de Clientes Pagadores,4,0,0.0%
+T160420,Inscribir Cuenta Mascara o Cuenta de Garantía,11,0,0.0%
+T160420,Modificar Parámetros del Cliente Pagador,9,0,0.0%
+T160420,Modificar Tarifas de Clientes Pagadores,7,0,0.0%
+T160420,Procesar Novedades y Mantenimientos Servicio de Pagos y Transferencias,7,0,0.0%
+T160420,Procesar Novedades y Mantenimientos Swift,5,0,0.0%
+T160420,T160420 Procesar Novedades y Mantenimientos Servicio de Pagos y Transferencias,7,0,0.0%
+T160440,Analizar Resultados,7,0,0.0%
+T160440,Realizar Estudio de Crédito Hipotecario,27,0,0.0%
+T160440,Realizar Proceso de Calidad F416,8,0,0.0%
+T160440,Solicitar Reestudio,17,0,0.0%
+T160440,Solicitar reestudio,21,0,0.0%
+T160440,Validar Inmueble,22,0,0.0%
+T160443,Ejecutar procedimientos MASIVOS,40,1,2.5%
+T160443,Estudiar  solicitudes de  PROTECCIÓN,17,0,0.0%
+T160443,Estudiar  solicitudes de PREFERENCIAL,60,1,1.7%
+T160443,Estudiar solicitudes Mesa de Fraudes,19,1,5.3%
+T160443,Estudiar solicitudes de BPO,25,1,4.0%
+T160443,Estudiar solicitudes de CONSUMO,25,1,4.0%
+T160443,Estudiar solicitudes de Consumo,21,1,4.8%
+T160443,Estudiar solicitudes de Consumo-BPO,19,1,5.3%
+T160443,Estudiar solicitudes de FOPEP,16,0,0.0%
+T160443,Estudiar solicitudes de Fopep Protección,16,0,0.0%
+T160443,Estudiar y solicitar desembolso COLPENSIONES,43,0,0.0%
+T160443,Realizar Procedimiento de Calidad GOP,10,0,0.0%
+T160443,Realizar Proceso de Calidad Reportería Legal,12,1,8.3%
+T160443,Realizar estudio de crédito persona natural,26,1,3.8%
+T160444,Grabar LME,45,1,2.2%
+T160444,Realizar Grabación Empresas y Corporativo,36,2,5.6%
+T160444,Realizar grabación Canal Digital Masivo,12,1,8.3%
+T160444,Realizar grabación Independientes,38,4,10.5%
+T160444,Realizar grabación Leasing y Renting,42,4,9.5%
+T160444,Realizar grabación Persona Natural,23,2,8.7%
+T160444,Realizar grabación Procesos masivos todos los segmentos,11,1,9.1%
+T160444,Realizar grabación Pyme - Operaciones urgentes,35,3,8.6%
+T160444,"Realizar grabación Re, Mo y Consolidación de pasivos",16,1,6.2%
+T160444,Realizar grabación Reestructuraciones,7,0,0.0%
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",21,0,0.0%
+T160452,CONT Realizar el cierre contable de los Fideicomisos de Inversión FIC Y FCP,17,0,0.0%
+T160452,CONT Realizar el cierre contable de los Fideicomisos de Inversión y FIC,17,0,0.0%
+T160452,Elaborar XBRL y Revelaciones,8,0,0.0%
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",40,0,0.0%
+T160452,Realizar el cierre contable de los Fideicomisos de Inversión FIC Y FCP,29,0,0.0%
+T160452,Realizar el cierre contable de los Fideicomisos de Inversión y FIC,23,0,0.0%
+T160456,Activar 3er Nodo Tecnológico ACH Cenit,6,0,0.0%
+T160456,Aprobar solicitud Transfiya,18,1,5.6%
+T160456,Atender Falla Cenit WEB,7,0,0.0%
+T160456,Atender Falla URL ACH Cenit,9,0,0.0%
+T160456,Atender Falla en Archivo NACHA-M,16,0,0.0%
+T160456,Atender Falla en CornerStone,11,0,0.0%
+T160456,Atender Falla “Cifrado de archivo Nacha-M ACH Colombia”,15,0,0.0%
+T160456,Atender Falla “Gestion de Instrucciones SEBRA”,8,0,0.0%
+T160456,Enviar Dinero Transfiya,15,0,0.0%
+T160456,Gestionar Traslado de Fondos a ACH,13,0,0.0%
+T160456,Manejar las devoluciones por operador de ACH Colombia,11,0,0.0%
+T160456,Procesar Falla URL ACH CENIT,9,0,0.0%
+T160456,Procesar Falla en Archivo NACHA-M,11,0,0.0%
+T160456,Procesar Falla en CornerStone,11,0,0.0%
+T160456,Procesar Falla en CriptoVault,12,0,0.0%
+T160456,Procesar transacciones servicio de pagos y transferencias ACH,24,0,0.0%
+T160456,Recibir archivos ACH,25,0,0.0%
+T160456,Recibir dinero Transfiya,18,0,0.0%
+T160456,Transmitir archivos ACH,11,0,0.0%
+T160458,Compensar facturas ACH,13,0,0.0%
+T160461,Generar Ofertas de Originación y Contención,18,0,0.0%
+T160461,Preaprobar Clientes Personas y Pyme,26,0,0.0%
+T160465,Administrar productos de protección Sufi,8,0,0.0%
+T160465,Administrar seguros generados en los Créditos Sufi,8,0,0.0%
+T160465,Cancelar por endoso,11,0,0.0%
+T160465,Conciliar seguros,20,0,0.0%
+T160465,Endosar por primera vez,4,0,0.0%
+T160465,Realizar cancelación del seguro,9,0,0.0%
+T160465,Recuperar endoso de vehículo,15,0,0.0%
+T160465,Renovar póliza,10,0,0.0%
+T160486,Administrar parámetros,8,0,0.0%
+T160487,Ampliar plazos TDC,9,0,0.0%
+T160487,Aplicar Novedades No Monetarias,8,0,0.0%
+T160487,Aplicar Novedades TDC,46,1,2.2%
+T160487,Cancelar Pagaré de Tarjeta de Crédito,9,0,0.0%
+T160487,Centro de Soluciones Empresariales,14,0,0.0%
+T160487,Comprar Cartera,18,0,0.0%
+T160487,Comprar Cartera Aliado,21,0,0.0%
+T160487,Comprar Cartera Digital,29,1,3.4%
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,16,0,0.0%
+T160487,Gestionar Fallecimiento Incapacidad Total y Permanente,12,0,0.0%
+T160487,Mantenimiento de Cupos UADR,11,0,0.0%
+T160487,Procesar Interfaz No Monetaria,12,0,0.0%
+T160487,Solicitar Centro de Conservación,15,0,0.0%
+T160491,Generar Informes Internos y Externos de TDC,8,0,0.0%
+T160491,Generar Informes Internos y Externos de medios y aceptación de pagos,14,0,0.0%
+T160491,Proceso Contingente,15,0,0.0%
+T160493,Emitir TDC por segunda vez,11,0,0.0%
+T160493,Personalizar y entregar producto TDC,45,1,2.2%
+T160494,Procesar Abonos a TDC,58,0,0.0%
+T160499,Contingencia,15,0,0.0%
+T160499,Procedimiento de Contingencia,16,0,0.0%
+T160499,Realizar Desembolso manual,9,0,0.0%
+T160499,Realizar Estudio manual,5,0,0.0%
+T160499,Realizar estudio y desembolso créditos de consumo,30,0,0.0%
+T160542,Administrar Compromisos de Crédito,15,0,0.0%
+T160542,Aperturar Compromisos de Crédito,5,0,0.0%
+T160542,Grabar Novedades Compromisos de Crédito,6,0,0.0%
+T160542,Recibir Pago de la Comisión,17,0,0.0%
+T160558,Desembolsar solicitudes,19,0,0.0%
+T160558,Estudiar solicitudes,21,1,4.8%
+T160558,Gestionar modelo de originación de sufi,6,0,0.0%
+T160558,Procedimiento Contingente,17,1,5.9%
+T160558,Radicar Solicitudes,10,0,0.0%
+T160558,Realizar la Venta y Estudio de Crédito de Vehículo,39,0,0.0%
+T160558,Tramitar Oferta,16,0,0.0%
+T160561,Administrar modelo de Fidelización,61,0,0.0%
+T160561,Compensar o resarcir clientes o usuarios,35,0,0.0%
+T160561,Ejecutar conciliación contable,11,0,0.0%
+T160561,Gestionar ajustes de interfaz,5,0,0.0%
+T160561,Gestionar factura,10,0,0.0%
+T160561,Gestionar información y monitoreo,7,0,0.0%
+T160561,Gestionar rechazos,5,0,0.0%
+T160561,Gestionar requerimientos,11,0,0.0%
+T160561,Gestionar solicitudes ATPC,10,0,0.0%
+T160572,Administrar parámetros de clientes,10,0,0.0%
+T160572,T160572 Administrar parámetros de clientes,14,0,0.0%
+T160598,Procesar controversias como adquirente FD,66,0,0.0%
+T160609,Certificados tributarios de Aceptación de Pagos,7,0,0.0%
+T160609,Ejecutar contingencia reporte conciliar,9,0,0.0%
+T160609,Ejecutar contingencia reporte conciliar de Aceptación de Pagos,8,0,0.0%
+T160609,Generar Informe Agredadores tradicional de Aceptación de Pagos,8,0,0.0%
+T160609,Generar Informe Deserciones tradicional Aceptación de Pagos,5,0,0.0%
+T160609,Generar Informe PCI Visa y Mastercard,11,0,0.0%
+T160609,Generar Informe agredadores adq tradiciona,8,0,0.0%
+T160609,Generar Informe de costos totales,7,0,0.0%
+T160609,Generar Informe de costos totales Aceptación de Pagos,7,0,0.0%
+T160609,Generar certificados tributarios,7,0,0.0%
+T160609,Generar información y reportes de Aceptación de Pagos,24,0,0.0%
+T160609,Generar información y reportes de adquirencia,8,0,0.0%
+T160609,Generar informe AMMF,5,0,0.0%
+T160609,Generar informe CUN,5,0,0.0%
+T160609,Generar informe Visa Online,7,0,0.0%
+T160609,Generar informe de bloqueos por SARLAFT,4,0,0.0%
+T160609,Generar informe de comercios activos,5,0,0.0%
+T160609,Generar reporte conciliar,26,0,0.0%
+T160609,Generar reporte conciliar a comercios,8,0,0.0%
+T160609,Generar reporte conciliar a comercios Aceptación de pagos,29,0,0.0%
+T160609,Generar reporte de agregadores Conexion Directa,10,0,0.0%
+T160609,Generar reporte de agregadores Inst. 63,8,0,0.0%
+T160609,Informe Comercios Afiliados con Bancolombia Aceptación de Pagos,4,0,0.0%
+T160609,Informe comercios nuevos y cambios de banco CUN Aceptación de Pagos,5,0,0.0%
+T160609,Mandate VISA AMMF Comercios Modelo Agregador,4,0,0.0%
+T160609,Mandate Visa Online,7,0,0.0%
+T160609,Procesar Bloqueos de Comercios SARLAFT,3,0,0.0%
+T160612,Causar Operaciones Leasing Habitacional,9,0,0.0%
+T160612,Crear o Actualizar Datos del Proveedor LH,19,0,0.0%
+T160612,Crear operaciones Leasing Habitacional,17,0,0.0%
+T160612,Gestionar Anticipos,30,0,0.0%
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,71,0,0.0%
+T160612,Plan de pagos y Documentos Legales,4,0,0.0%
+T160612,Radicar solicitud,18,0,0.0%
+T160612,Realizar Mantenimiento Operación,14,1,7.1%
+T160612,Semillero de Propietarios,2,0,0.0%
+T160612,Semillero de Propietarios Ahorro,22,0,0.0%
+T160612,Semillero de Propietarios Arriendo,16,0,0.0%
+T160615,Administrar proceso contable y monetario de aceptación digital,24,0,0.0%
+T160615,Conciliar Transacciones Aceptación Digital,15,1,6.7%
+T160615,Conciliar Transacciones Botón Bancolombia,6,1,16.7%
+T160615,Conciliar transacciones QR Bancolombia,6,0,0.0%
+T160621,Activar y Mantener Operaciones  Leasing,23,0,0.0%
+T160621,Activar y Mantener Operaciones Leasing,48,0,0.0%
+T160621,Generar Certificados y Poderes,13,0,0.0%
+T160621,Gestionar Abonos y Prepagos,18,1,5.6%
+T160621,Modificar Operaciones,15,0,0.0%
+T160621,Siniestrar la Operación o el Activo,10,0,0.0%
+T160622,Gestionar la Finalización Leasing Habitacional,31,0,0.0%
+T160622,Gestionar la Finalización Leasing habitacional,11,0,0.0%
+T160632,Gerenciar negocios fiduciarios,31,0,0.0%
+T160635,Administrar Negocios Fiduciarios Públicos y Concesiones,33,0,0.0%
+T160637,Liquidar el servicio en Corresponsales Bancarios,36,0,0.0%
+T160638,Conciliar Participación de Utilidades Seguros Voluntarios Sura,7,0,0.0%
+T160638,Generar cuenta de Cobro Sura,5,0,0.0%
+T160638,Generar cuenta de cobro Asistencias y Panamerican Life,7,0,0.0%
+T160638,Generar cuenta de cobro Cardif,9,0,0.0%
+T160638,Generar cuenta de cobro Deudores,12,0,0.0%
+T160638,Generar cuenta de cobro Deudores y Nequi,12,0,0.0%
+T160638,"Generar cuentas de cobro Seguros Voluntarios, Deudores y Nequi",7,0,0.0%
+T160638,Generar cuentas de cobro seguros voluntarios y deudores,7,0,0.0%
+T160638,Verificar provisión por participación de utilidades en seguros voluntarios,7,0,0.0%
+T160639,T160639 Administrar Terceros Negocios Fiduciarios,29,0,0.0%
+T160642,Causar y pagar operaciones negocios fiduciarios,66,0,0.0%
+T160642,Causar y pagar operaciones negocios fiduciarios - PRO - T160642,46,0,0.0%
+T160642,Contingencia,5,0,0.0%
+T160642,Contingencia causar y pagar,13,0,0.0%
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,30,0,0.0%
+T160642,Gestionar correcciones monetarias,5,0,0.0%
+T160642,Gestionar inconsistencias,8,0,0.0%
+T160642,Gestionar listas de control,18,0,0.0%
+T160642,Gestionar novedades,33,1,3.0%
+T160642,Realizar ajustes al pago,14,0,0.0%
+T160642,Realizar causación,15,0,0.0%
+T160642,Realizar pago,9,0,0.0%
+T160647,Generar Información Contable Factoring,48,0,0.0%
+T160651,Administrar  parámetros del Sistema Factoring SAF,26,0,0.0%
+T160654,Realizar Desembolso Factoring SAF,42,0,0.0%
+T160655,Realizar Novedades y Mantenimientos de Cartera Factoring SAF,13,0,0.0%
+T160657,Generar Informes y Reportes Factoring,14,1,7.1%
+T160659,Atender AQR Tranf Llaves,19,0,0.0%
+T160659,Atender AQR´s BRE-B,13,0,0.0%
+T160659,Atender Solicitudes Transf llaves SPBVI,21,0,0.0%
+T160659,Gestionar AQR QR,10,2,20.0%
+T160659,Gestionar Novedades QR,11,0,0.0%
+T160659,Gestionar Novedades y Solicitud,25,1,4.0%
+T160659,Gestionar novedades y mantenimientos de servicios interbancarios y aliados,9,0,0.0%
+T160659,Gestionar soporte o reclamos Aliado Digital,7,2,28.6%
+T160659,Gestionar soporte y reclamos SPBVI,5,0,0.0%
+T160659,Modelo de atención - Gobierno PNF,7,0,0.0%
+T160659,Novedades SPBVI,27,1,3.7%
+T160666,Administrar Catálogo de Tarifas,44,0,0.0%
+T160666,Atender las novedades internas de Pricing,49,0,0.0%
+T160667,Administrar Información de Ecosistemas,38,3,7.9%
+T160667,Administrar información Ecosistemas,12,0,0.0%
+T160668,Administrar el servicio Ecosistemas,25,1,4.0%
+T160668,Atender Novedad,21,0,0.0%
+T160668,Atender requerimientos Clientes Tu360Movilidad,14,1,7.1%
+T160668,Atender requerimientos Clientes y Aliados,33,1,3.0%
+T160668,Atender requerimientos aliados Tu360Movilidad,9,0,0.0%
+T160668,Gestionar Parametros,17,1,5.9%
+T160668,Gestionar Parámetros,32,0,0.0%
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,99,4,4.0%
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas,28,1,3.6%
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas ,42,1,2.4%
+T160673,Autorizar Tokenizaciones de TD y TDC,22,0,0.0%
+T160675,Personalizar y entregar Código QR,19,0,0.0%
+VAL080512,"Asesorar, negociar o promover operaciones con Clientes MK Valores y Fiduciaria",70,0,0.0%
+VAL080512,Habilitar comerciales mesa de dinero,7,0,0.0%
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,30,4,13.3%
+VAL080512,Procedimiento monitorear recomendaciones profesionales,14,1,7.1%

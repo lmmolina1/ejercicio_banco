@@ -1,0 +1,168 @@
+codigo_proceso,t2.procedimiento,match de actividad encontrada
+FID050210,Definir y ejecutar estrategia de Asset Management,solicitar autorización 
+T050402,T050402 Gestionar requerimientos legal desembargo sobre clientes,aplicar reglas de negocio 
+T050402,Gestionar requerimientos legales de embargos y desembargos sobre clientes,cmp 546 generar documento 
+T050402,Gestionar requerimientos legal desembargo sobre clientes,aplicar reglas de negocio 
+T050402,Gestionar solicitudes,cmp 546 generar documento 
+T051924,Gestionar el uso del servicio de Ecosistemas,realizar firma [cmt78] 
+T051924,Gestionar el uso del servicio de Ecosistemas,entregar producto [act151] 
+T070203,Gestionar información de las experiencias digitales,almacenar información en la zona lz definida 
+T070203,Administrar Ventas Digitales,monitorear experiencias 
+T070203,Administrar Ventas Digitales,aplicar novedad 
+T070214,Grabar Aumento de cupo TDC de ventas digitales,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T070214,Grabar TDC de ventas digitales,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T080006,Evaluar Cobertura,evaluar riesgo 
+T080315,Generar Informes de Modelos de Rentabilidad,c004: validar calidad de la información 
+T081001,Reversar comisión e IVA de comisión,consultar información 
+T081001,Facturar egresos y pago a terceros,generar documentos de pago 
+T120301,Recibir e investigar eventos de fraude,capturar información del guion 
+T120302,Atención QRS,consultar información del radicado en sap 
+T120302,Monitorear transacciones y reaccionar ante eventos de fraude,autenticar al cliente o usuario 
+T120302,Gestión correo Segtrans,consultar información transaccional del cliente 
+T120302,Gestión Correo Segtrans,consultar información transaccional del cliente 
+T120302,Consultas y desbloqueos,consultar información transaccional del cliente 
+T140003,T140003 Monitorear el servicio Ecosistemas,procesar datos 
+T160065,Procesar vinculaciones a comercios aceptación de pagos tradicional,generar documentos 
+T160065,Afiliar comercios aceptación de pagos tradicional,generar documentos 
+T160065,Afiliar comercios a Conexión Directa,validar información 
+T160065,Afiliar comercios Conexión Directa,validar información 
+T160100,Gestionar Crédito PADA,calcular valor a cobrar por intereses 
+T160108,Atender eventos atípicos,contactabilidad 
+T160141,Entregar tarjetas y claves débito,c014: solicitar destrucción de tarjetas 
+T160141,Custodiar productos debito preexpedidos,entregar productos débito al subgerente 
+T160146,Procedimiento Contingente,generar documentos de la operación 
+T160146,Procedimiento contingente,generar documentos de la operación 
+T160275,Realizar Monitoreos,monitorear experiencia del cliente [act366] 
+T160444,"Realizar grabación Re, Mo y Consolidación de pasivos",asociar producto al cliente [cp0358] 
+T160444,Realizar grabación Pyme - Operaciones urgentes,asociar producto al cliente [cp0358-03] 
+T160444,Realizar grabación Pyme - Operaciones urgentes,asociar producto al cliente [cp0358-02] 
+T160444,Realizar grabación Pyme - Operaciones urgentes,asociar producto al cliente [cp0358-01] 
+T160444,Realizar grabación Persona Natural,asociar producto al cliente [cp0358-02] 
+T160444,Realizar grabación Persona Natural,asociar producto al cliente [cp0358-01] 
+T160444,Realizar grabación Leasing y Renting,solicitar aceptación de condiciones [cp1353] 
+T160444,Realizar grabación Leasing y Renting,consultar información de clientes [cmc02] 
+T160444,Realizar grabación Independientes,asociar producto al cliente [cp0358-02] 
+T160444,Realizar grabación Canal Digital Masivo,asociar producto al cliente [cp0358] 
+T160444,Realizar Grabación Empresas y Corporativo,asociar producto al cliente [cp0358-21] 
+T160444,Realizar Grabación Empresas y Corporativo,asociar producto al cliente [cp0358-01] 
+T160444,Realizar grabación Procesos masivos todos los segmentos,asociar producto al cliente [cp0358] 
+T160444,Realizar grabación Leasing y Renting,asociar producto al cliente [cp0358-02] 
+T160444,Realizar grabación Leasing y Renting,asociar producto al cliente [cp0358-01] 
+T160444,Realizar grabación Independientes,asociar producto al cliente [cp0358-04] 
+T160444,Realizar grabación Independientes,asociar producto al cliente [cp0358-03] 
+T160444,Realizar grabación Independientes,asociar producto al cliente [cp0358-01] 
+T160444,Grabar LME,elaborar informe o reporte [cp1078] 
+T160456,Aprobar solicitud Transfiya,consultar solicitudes pendientes 
+T160621,Gestionar Abonos y Prepagos,validar información 
+T160642,Gestionar novedades,1\. identificar tipo de novedad 
+T160667,Administrar Información de Ecosistemas,transmitir información 
+T160667,Administrar Información de Ecosistemas,almacenar información 
+T160667,Administrar Información de Ecosistemas,procesar datos 
+T160668,Gestionar Parametros,guardar 
+T160668,Atender requerimientos Clientes y Aliados,realizar investigación 
+T160668,Atender requerimientos Clientes Tu360Movilidad,realizar investigación 
+T160668,Administrar el servicio Ecosistemas,elaborar informe o reporte [cmp86] 
+PAN040705,Procesar Compensación de Medios de Pago,aplicar transacción de ajuste 
+PAN050802,Vinculación gestionada por comercial,segmentar cliente 
+PAN050802,Vinculación gestionada por comercial,c007: evaluar debida diligencia alto riesgo 
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,capturar datos 
+PAN050802,Vinculación Centralizada,segmentar cliente 
+PAN050802,Vinculación Centralizada,realizar investigación 
+PAN050802,Vinculación Centralizada,c007: evaluar debida diligencia alto riesgo 
+T051005,Crear o Vincular Potenciales Clientes,Evaluar debida diligencia
+T051005,Crear o Vincular Potenciales Clientes,Registrar información en fuentes oficiales
+T051005,Crear o Vincular Potenciales Clientes,Establecer cláusulas  y condiciones de relacionamiento
+T051005,Crear o Vincular Potenciales Clientes,Identificar riesgos de cumplimiento
+T051005,Crear o Vincular Potenciales Clientes,Obtener información y documentación
+T051005,Crear o Vincular Potenciales Clientes,Perfilar estado del cliente
+T051911,Traslados entre bancas masivos,generar trazabilidad 
+T051923,Habilitar las estrategias de precios,generar documento legal [act369] 
+T051923,Habilitar las estrategias de precios,exponer valor a cobrar cp391 
+T051923,Habilitar las estrategias de precios,generar documento de aceptación de condiciones 
+T051923,Habilitar las estrategias de precios,consultar información act003 
+T051923,Habilitar las estrategias de precios,aplicar reglas de negocio en compras y facturas 
+T051923,Habilitar las estrategias de precio,generar documento de aceptación de condiciones 
+T070209,SVN,aplicar novedad 
+T070212,Monitorear operación digital,c006 monitorear experiencias digitales 
+T160028,Realizar Validacion de Extractos Especiales,consultar información de cuentas propias en sve 
+T160099,Administrar Convenios Empresariales de Cartera,ajustar parámetros de convenios 
+T160112,Constituir Garantías FNG y FAG,monitorear 
+T160112,Constituir Garantías FNG y FAG,capturar información 
+T160112,Constituir Garantía FNG y FAG,validar condiciones 
+T160112,Constituir Garantía FNG y FAG,monitorear 
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,generar documento legal 
+T160112,Constituir Garantías Prendas Especiales,generar documento legal 
+T160112,Constituir Garantías Covenant,elaborar informe 
+T160112,Constituir Garantía FNG y FAG,validar información 
+T160112,Constituir Garantía FNG y FAG,capturar información 
+T160159,Gestionar entrega del producto,solicitar destrucción del producto 
+T160159,Gestionar entrega del producto,generar trazabilidad 
+T160220,Tomar seguros en Canales Digitales,segmentar clientes potenciales 
+T160220,Abrir productos en Telemercadeo  (TMK),consultar información [act003] 
+T160220,Abrir productos en Sucursal Física,generar documento legal [act369] 
+T160273,Realizar paso asesor,monitorear experiencia del cliente [act366] 
+T160273,Atender con modelo Ventas y servicio,dar información 
+T160273,Atender con modelo Servicio,dar información 
+T160493,Personalizar y entregar producto TDC,c014: solicitar destrucción de tarjetas 
+T160615,Conciliar Transacciones Botón Bancolombia,consultar información 
+T160615,Conciliar Transacciones Aceptación Digital,consultar información 
+T160657,Generar Informes y Reportes Factoring,almacenar información 
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,entregar producto [act151] 
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas ,c002: validar calidad de la información 
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas,c002: validar calidad de la información 
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,realizar firma [cmt78] 
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,generar documento [cmf04] 
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,c002: validar calidad de la información 
+T051904,Administrar información para los modelos de atención,monitorear información del modelo de atención 
+T051904,Administrar información para los modelos de atención,capturar información 
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,c002: validar calidad de la información 
+T141203,Gestionar los proyectos y programas de la Fundación Bancolombia,generar documento legal 
+T141203,Gestionar Proyectos de Desarrollo Social,validar políticas 
+T160021,Atender novedades de cuentas control,aplicar novedad 
+T160021,Atender Novedades de cuentas control,aplicar novedad 
+T160021,Cambiar estado de cuentas,consultar información [act003] 
+T160021,Actualizar beneficiarios de convenios de nómina y gestión reclamos masivos,registrar la solicitud en bizagi 
+T160269,Requerimientos Legales,registrar la solicitud 
+T160269,Administrar Corresponsales Bancarios,compensar 
+T160269,Compensar,c005 autenticar al cliente 
+T160487,Comprar Cartera Digital,consultar información del cliente 
+T160487,Aplicar Novedades TDC,aplicar novedad 
+T160558,Procedimiento Contingente,capturar información en el sistema 
+T160558,Estudiar solicitudes,c009: consultar información externa [cmf06] 
+T160612,Realizar Mantenimiento Operación,generar documento otro si 
+T160659,Novedades SPBVI,autenticar al cliente 
+T160659,Gestionar AQR QR,realizar investigación de aclaración 
+T160659,Gestionar soporte o reclamos Aliado Digital,realizar investigación de no abono en wenia 
+T160659,Gestionar soporte o reclamos Aliado Digital,realizar investigación de doble debito 
+T160659,Gestionar Novedades y Solicitud,consultar información [act003] 
+T160659,Gestionar AQR QR,realizar investigación de ajuste 
+PAN050305,Gestionar requerimientos de clientes,recopilar información 
+PAN050305,Gestionar experiencia y requerimientos de clientes,recopilar información 
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,capturar información en el sistema 
+PAN050803,Gestionar Novedades de Clientes Filiales del Exterior y Sucursal,capturar información en el sistema 
+T051005,Crear o Vincular Potenciales Clientes,Capturar datos
+T051009,Activar Debida Diligencia,c006 evaluar debida diligencia alto riesgo y otros 
+T051009,Gestionar Debida Diligencia,c008 evaluar debida diligencia fatca/crs 
+T051009,Activar Debida Diligencia,c007 evaluar debida diligencia fatca/crs 
+T051009,Activar Debida Diligencia,c007 evaluar debida diligencia alto riesgo y otros 
+T051009,Gestionar Debida Diligencia,c007 evaluar debida diligencia alto riesgo y otros 
+T051009,Gestionar Debida Diligencia,c006 evaluar debida diligencia pep 
+T051009,Actualizar Información de Clientes,capturar información básica del cliente 
+T051009,Activar Debida Diligencia,c008 evaluar debida diligencia fatca/crs 
+T051910,Crear Encadenamientos productivos ,generar documento (cmf04) 
+T140705,Recibir y radicar requerimientos de Entidades Externas,clasificar 
+T160265,Monitorear la operación de Golf SifBranch en Sucursales,consultar información y entregar informes 
+T160443,Realizar estudio de crédito persona natural,validar información 
+T160443,Realizar Proceso de Calidad Reportería Legal,transmitir información 
+T160443,Estudiar solicitudes de Consumo-BPO,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T160443,Estudiar solicitudes de BPO,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T160443,Estudiar solicitudes de Consumo,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T160443,Estudiar solicitudes de CONSUMO,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T160443,Estudiar solicitudes Mesa de Fraudes,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T160443,Estudiar  solicitudes de PREFERENCIAL,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+T160443,Ejecutar procedimientos MASIVOS,m: cumplimiento de los servicios p: personalizar y entregar producto tdc 
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,solicitar autorización 
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,consultar información [act003-03] 
+VAL080512,Procedimiento monitorear recomendaciones profesionales,obtener información 
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,consultar información [act003-02] 
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,consultar información [act003-01] 

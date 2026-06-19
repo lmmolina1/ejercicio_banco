@@ -1,0 +1,188 @@
+codigo_proceso,Código Arquetipo,Nombre Arquetipo
+FID050210,N/A,N/A
+FID080105,N/A,N/A
+PAN040102,ARQ002,Abrir producto
+PAN040103,ARQ002,Abrir producto
+PAN040107,ARQ002,Abrir producto
+PAN040212,N/A,N/A
+PAN040305,ARQ005,Aplicar novedad
+PAN040305,ARQ027,Atender solicitudes de usuario
+PAN040310,N/A,N/A
+PAN040314,ARQ005,Aplicar novedad
+PAN040705,N/A,N/A
+PAN050305,ARQ027,Atender solicitudes de usuario
+PAN050802,ARQ114,Realizar Vinculación
+PAN050803,N/A,N/A
+PAN080001,N/A,N/A
+PTO160301,ARQ013,Ejecutar transacción monetaria
+T050301,ARQ027,Atender solicitudes de usuario
+T050302,ARQ027,Atender solicitudes de usuario
+T050303,ARQ027,Atender solicitudes de usuario
+T050402,N/A,N/A
+T050807,N/A,N/A
+T051005,ARQ114,Realizar Vinculación
+T051005,ARQ140,Administrar servicio en canales
+T051008,N/A,N/A
+T051009,N/A,N/A
+T051303,N/A,N/A
+T051701,N/A,N/A
+T051903,ARQ027,Atender solicitudes de usuario
+T051904,N/A,N/A
+T051910,N/A,N/A
+T051911,N/A,N/A
+T051918,N/A,N/A
+T051923,N/A,N/A
+T051924,N/A,N/A
+T070203,ARQ056,Administrar el servicio de los canales
+T070204,N/A,N/A
+T070206,N/A,N/A
+T070208,N/A,N/A
+T070209,N/A,N/A
+T070211,N/A,N/A
+T070212,N/A,N/A
+T070214,N/A,N/A
+T080006,N/A,N/A
+T080130,N/A,N/A
+T080148,N/A,N/A
+T080149,N/A,N/A
+T080315,N/A,N/A
+T080505,ARQ123,Ejecutar cuadre contable del producto
+T080506,N/A,N/A
+T080507,N/A,N/A
+T080508,N/A,N/A
+T080516,ARQ123,Ejecutar cuadre contable del producto
+T080602,N/A,N/A
+T080802,N/A,N/A
+T080902,ARQ123,Ejecutar cuadre contable del producto
+T081001,ARQ123,Ejecutar cuadre contable del producto
+T090101,N/A,N/A
+T090202,N/A,N/A
+T090303,N/A,N/A
+T120003,N/A,N/A
+T120004,N/A,N/A
+T120301,N/A,N/A
+T120302,N/A,N/A
+T140002,N/A,N/A
+T140003,N/A,N/A
+T140004,N/A,N/A
+T140005,N/A,N/A
+T140112,ARQ114,Realizar Vinculación
+T140705,N/A,N/A
+T140707,N/A,N/A
+T141203,N/A,N/A
+T160021,ARQ005,Aplicar novedad
+T160021,ARQ027,Atender solicitudes de usuario
+T160027,ARQ022,Generar información
+T160028,ARQ022,Generar información
+T160050,ARQ123,Ejecutar cuadre contable del producto
+T160057,ARQ005,Aplicar novedad
+T160065,ARQ002,Abrir producto
+T160076,ARQ013,Ejecutar transacción monetaria
+T160077,N/A,N/A
+T160080,N/A,N/A
+T160082,N/A,N/A
+T160084,N/A,N/A
+T160085,N/A,N/A
+T160086,ARQ013,Ejecutar transacción monetaria
+T160087,ARQ005,Aplicar novedad
+T160087,ARQ123,Ejecutar cuadre contable del producto
+T160090,ARQ013,Ejecutar transacción monetaria
+T160092,ARQ022,Generar información
+T160099,ARQ002,Abrir producto
+T160099,ARQ005,Aplicar novedad
+T160100,ARQ005,Aplicar novedad
+T160100,ARQ013,Ejecutar transacción monetaria
+T160100,ARQ022,Generar información
+T160107,ARQ013,Ejecutar transacción monetaria
+T160107,ARQ093,Constituir colaterales
+T160108,ARQ005,Aplicar novedad
+T160109,ARQ005,Aplicar novedad
+T160112,ARQ093,Constituir colaterales
+T160112,ARQ093,Estudiar y constituir garantía
+T160117,N/A,N/A
+T160129,N/A,N/A
+T160141,ARQ002,Abrir producto
+T160141,ARQ120,Asegurar disponibilidad de productos financieros fisicos
+T160146,ARQ039,Ejecutar el desembolso
+T160147,ARQ039,Ejecutar el desembolso
+T160148,ARQ039,Ejecutar el desembolso
+T160150,ARQ039,Ejecutar el desembolso
+T160155,ARQ013,Ejecutar transacción monetaria
+T160157,ARQ003,Cobrar condiciones financieras del producto
+T160157,ARQ013,Ejecutar transacción monetaria
+T160158,ARQ005,Aplicar novedad
+T160159,ARQ002,Abrir producto
+T160159,ARQ005,Aplicar novedad
+T160159,ARQ120,Asegurar disponibilidad de productos financieros fisicos
+T160159,ARQ123,Ejecutar cuadre contable del producto
+T160161,ARQ002,Abrir producto
+T160161,ARQ120,Asegurar disponibilidad de productos financieros fisicos
+T160212,ARQ013,Ejecutar transacción monetaria
+T160218,ARQ039,Ejecutar el desembolso
+T160220,ARQ002,Abrir producto
+T160228,N/A,N/A
+T160246,N/A,N/A
+T160264,N/A,N/A
+T160265,ARQ056,Administrar el servicio de los canales
+T160268,N/A,N/A
+T160269,ARQ056,Administrar el servicio de los canales
+T160273,N/A,N/A
+T160275,N/A,N/A
+T160288,ARQ013,Ejecutar transacción monetaria
+T160290,N/A,N/A
+T160295,N/A,N/A
+T1603106,N/A,N/A
+T160331,N/A,N/A
+T160338,N/A,N/A
+T160355,N/A,N/A
+T160362,N/A,N/A
+T160364,N/A,N/A
+T160370,N/A,N/A
+T160420,ARQ005,Aplicar novedad
+T160440,ARQ001,Realizar Estudio de Crédito
+T160443,ARQ001,Realizar Estudio de Crédito
+T160444,N/A,N/A
+T160452,N/A,N/A
+T160456,ARQ013,Ejecutar transacción monetaria
+T160458,ARQ008,Procesar compensación
+T160458,ARQ123,Ejecutar cuadre contable del producto
+T160461,N/A,N/A
+T160465,N/A,N/A
+T160486,ARQ005,Aplicar novedad
+T160487,ARQ005,Aplicar novedad
+T160491,ARQ022,Generar información
+T160493,ARQ002,Abrir producto
+T160493,ARQ120,Asegurar disponibilidad de productos financieros fisicos
+T160494,ARQ013,Ejecutar transacción monetaria
+T160499,ARQ001,Realizar Estudio de Crédito
+T160542,N/A,N/A
+T160558,ARQ001,Realizar Estudio de Crédito
+T160561,N/A,N/A
+T160572,N/A,N/A
+T160598,ARQ005,Aplicar novedad
+T160609,ARQ022,Generar información
+T160612,ARQ001,Realizar Estudio de Crédito
+T160615,ARQ123,Ejecutar cuadre contable del producto
+T160621,ARQ002,Abrir producto
+T160621,ARQ013,Ejecutar transacción monetaria
+T160622,ARQ005,Aplicar novedad
+T160632,N/A,N/A
+T160635,N/A,N/A
+T160637,N/A,N/A
+T160638,N/A,N/A
+T160639,N/A,N/A
+T160642,N/A,N/A
+T160647,ARQ123,Ejecutar cuadre contable del producto
+T160651,N/A,N/A
+T160654,ARQ013,Ejecutar transacción monetaria
+T160654,ARQ039,Ejecutar el desembolso
+T160655,ARQ005,Aplicar novedad
+T160657,ARQ022,Generar información
+T160659,ARQ005,Aplicar novedad
+T160666,ARQ005,Aplicar novedad
+T160667,ARQ022,Generar información
+T160668,N/A,N/A
+T160669,ARQ002,Abrir producto
+T160673,ARQ009,Autorizar tokenización
+T160675,ARQ002,Abrir producto
+VAL080512,N/A,N/A

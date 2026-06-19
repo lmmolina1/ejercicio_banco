@@ -1,0 +1,261 @@
+Nombre Arquetipo,capacidades,Dominio,Subdominio Nivel 1,Subdominio Nivel 2
+Abrir producto,Ajustar parámetro,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Asignar sucursal de radicación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Asociar cuenta al producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Asociar producto al cliente,Clientes,Relacionamiento con clientes,Por definir
+Abrir producto,Asociar producto al cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Por definir
+Abrir producto,Autenticar al cliente,Habilitación Empresarial,Gestión de la seguridad,Ciberseguridad
+Abrir producto,Autenticar al cliente,Habilitación Empresarial,Gestión de la seguridad,Por definir
+Abrir producto,Calcular variables de simulación,Estrategia de los negocios,Modelo de Precio (pricing),Calcular variables de simulación
+Abrir producto,Calcular variables de simulación,Estrategia de los negocios,Modelo de Precio (pricing),
+Abrir producto,Calcular variables de simulación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Calcular variables de simulación
+Abrir producto,Consultar tasa de cambio,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Contactar usuario,Clientes,Relacionamiento con clientes,Gestión de la Contactabilidad
+Abrir producto,Coordinar entrega con el proveedor,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Crear datos de seguridad,Negocios,Medios de pago,"Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Definir el precio del producto,Estrategia de los negocios,Modelo de Precio (pricing),Definir el precio del producto
+Abrir producto,Definir el precio del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Definir el precio del producto
+Abrir producto,Desembolsar producto,Negocios,Financiación,Por definir
+Abrir producto,Determinar viabilidad jurídica del bien o garantía,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Por definir
+Abrir producto,Disponer cobertura,Negocios,"Medios de pago, soluciones para empresas",
+Abrir producto,Elaborar oferta de producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Elegir condiciones del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Entregar producto en sucursal,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Evaluar excepciones restrictivas,Habilitación Empresarial,Cumplimiento,
+Abrir producto,Evaluar excepciones restrictivas,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Evaluar perfil y estado del cliente,Clientes,Estrategia de Clientes,
+Abrir producto,Evaluar perfil y estado del cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Evaluar reglas de negocio del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Evaluar restricciones del cliente,Habilitación Empresarial,Cumplimiento,
+Abrir producto,Evaluar restricciones del cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Evaluar riesgo país y contraparte,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Formalizar garantías,Negocios,Comercio internacional,
+Abrir producto,Generar documento,Por definir,Por definir,Por definir
+Abrir producto,Generar documento,Por definir,Por definir,Generar documento
+Abrir producto,Generar documento,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Generar documento
+Abrir producto,Generar la instrucción de contactabilidad,Clientes,Relacionamiento con clientes,Analítica descriptiva
+Abrir producto,Generar la instrucción de contactabilidad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Generar producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Generar proyección,Estrategia de los negocios,Modelo de Precio (pricing),Generar proyección
+Abrir producto,Generar proyección,Estrategia de los negocios,Modelo de Precio (pricing),
+Abrir producto,Generar proyección,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Generar proyección
+Abrir producto,Guardar el resultado de la simulación,Estrategia de los negocios,Modelo de Precio (pricing),Guardar el resultado de la simulación
+Abrir producto,Guardar el resultado de la simulación,Estrategia de los negocios,Modelo de Precio (pricing),
+Abrir producto,Guardar el resultado de la simulación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Guardar el resultado de la simulación
+Abrir producto,Habilitar producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Identificar restricciones del portafolio,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Monitorear Apertura,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Perfilar el cliente,Clientes,Estrategia de Clientes,
+Abrir producto,Perfilar el cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Abrir producto,Realizar firma,Por definir,Por definir,Realizar firma
+Abrir producto,Realizar firma,Por definir,Por definir,Por definir
+Abrir producto,Realizar firma,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Por definir
+Abrir producto,Resolver inconvenientes en la entrega,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Solicitar destrucción,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Transmitir información a terceros y aliados,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Abrir producto,Unificar credenciales de autenticación del producto,Habilitación Empresarial,Gestión de la seguridad,Por definir
+Abrir producto,Unificar credenciales de autenticación del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Por definir
+Abrir producto,Validar entrega del producto,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Validar identidad del usuario,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Ciberseguridad
+Abrir producto,Validar información del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Abrir producto,Validar políticas de apertura del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Administrar servicio en canales,Capturar datos,Clientes,Relacionamiento con el cliente,Conocimiento
+Aplicar novedad,Ajustar parámetro,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Aplicar novedad financiera,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Aplicar novedad no financiera,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Aplicar reexpedición,Negocios,"Medios de pago, soluciones para empresas, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Autorizar novedad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Calcular variables de simulación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Calcular variables de simulación
+Aplicar novedad,Consultar Información de productos del cliente,Clientes,Relacionamiento con clientes,N.A
+Aplicar novedad,Consultar Información de productos del cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",N.A
+Aplicar novedad,Consultar Información de productos del cliente,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar Límite de Endeudamiento,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar Límite de Endeudamiento,Negocios,"Medios de pago, financiación",Por definir
+Aplicar novedad,Consultar información de canales,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar información de canales,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Aplicar novedad,Consultar información de seguridad del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Consultar información de seguridad del producto,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar información de usuarios internos,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar información de usuarios internos,Habilitación empresarial,Gestión humana,
+Aplicar novedad,Consultar información de usuarios internos,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Aplicar novedad,Consultar información financiera,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar información financiera,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Consultar información no financiera,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Consultar información no financiera,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar reincidencias del cliente,Clientes,Relacionamiento con clientes,N.A
+Aplicar novedad,Consultar reincidencias del cliente,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Consultar reincidencias del cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",N.A
+Aplicar novedad,Coordinar entrega con el proveedor,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Aplicar novedad,Corregir novedad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Custodiar acuerdos económicos,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Entregar producto,Negocios,"Medios de pago, soluciones para empresas",
+Aplicar novedad,Evaluar reglas aplicables a la novedad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Evaluar reglas aplicables a la novedad,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Evaluar riesgo país/contraparte,Negocios,Comercio internacional,
+Aplicar novedad,Formalizar garantías,Negocios,"Comercio internacional, finanaciación",
+Aplicar novedad,Generar acuerdos económicos de pricing,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Generar documento,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Generar instrucción de la transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Generar proyección,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Generar proyección
+Aplicar novedad,Guardar el resultado de la simulación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Guardar el resultado de la simulación
+Aplicar novedad,Identificar tipo de novedad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Identificar tipo de novedad,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Intercambiar soportes documentales Trade,Negocios,Comercio internacional,
+Aplicar novedad,Monitorear novedades,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Monitorear novedades,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Monitorear vigencia del parámetro,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Monitorear vigencia del parámetro,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Aplicar novedad,Resolver inconvenientes en la entrega,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Aplicar novedad,Solicitar aceptación de condiciones,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Aplicar novedad,Solicitar destrucción,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Aplicar novedad,Validar entrega del producto,Negocios,"Medios de pago, soluciones para empresas","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Aplicar novedad,Validar identidad del usuario,Habilitación Empresarial,Gestión de la seguridad,Ciberseguridad
+Aplicar novedad,Validar información del producto,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Tarjeta crédito, tarjeta débito, cheques, recaudos"
+Atender solicitudes de usuario,Actualizar datos del usuario,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Actualizar datos del usuario,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Actualizar datos del usuario,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Anexar información al radicado,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Anexar información al radicado,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Anexar información al radicado,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Capturar contexto de la necesidad,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Capturar contexto de la necesidad,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Capturar contexto de la necesidad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Clasificar necesidad,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Clasificar necesidad,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Clasificar necesidad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Consultar información de la solicitud,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Consultar información de la solicitud,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Consultar información de la solicitud,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Consultar información del usuario,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Consultar información del usuario,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Consultar información del usuario,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Consultar solicitudes,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Consultar solicitudes,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Consultar solicitudes,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Contactar usuario,Clientes,Relacionamiento con clientes,Gestión de la Contactabilidad
+Atender solicitudes de usuario,Contactar usuario,Clientes,Relacionamiento con clientes,Analítica descriptiva
+Atender solicitudes de usuario,Enrutar atención del caso,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Enrutar atención del caso,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Enrutar atención del caso,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Entender la necesidad,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Entender la necesidad,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Entender la necesidad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Entregar información del radicado,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Entregar información del radicado,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Entregar información del radicado,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Evaluar satisfacción del usuario,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Evaluar satisfacción del usuario,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Evaluar satisfacción del usuario,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Generar la instrucción de contactabilidad,Clientes,Relacionamiento con clientes,Gestión de la Contactabilidad
+Atender solicitudes de usuario,Generar la instrucción de contactabilidad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Atender solicitudes de usuario,Monitorear experiencia,Clientes,Estrategia de Clientes,Estrategia de Asesoría
+Atender solicitudes de usuario,Monitorear experiencia,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Monitorear experiencia,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Estrategia de Asesoría
+Atender solicitudes de usuario,Realizar investigación,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Realizar investigación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Realizar investigación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Realizar reúso documental,Por definir,Por definir,Por definir
+Atender solicitudes de usuario,Realizar reúso documental,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Realizar reúso documental,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Por definir
+Atender solicitudes de usuario,Registrar la solicitud,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Registrar la solicitud,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Registrar la solicitud,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Retroalimentar experiencia,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Retroalimentar experiencia,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Retroalimentar experiencia,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Atender solicitudes de usuario,Validar identidad del usuario,Habilitación Empresarial,Gestión de la seguridad,Ciberseguridad
+Atender solicitudes de usuario,Validar identidad del usuario,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Validar identidad del usuario,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Ciberseguridad
+Atender solicitudes de usuario,Validar reglas acorde a la clasificación,Clientes,Estrategia de Clientes,Servicio
+Atender solicitudes de usuario,Validar reglas acorde a la clasificación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Atender solicitudes de usuario,Validar reglas acorde a la clasificación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Servicio
+Ejecutar transacción monetaria,Aplicar movimiento monetario,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, Depósitos a plazo"
+Ejecutar transacción monetaria,Aplicar reglas de dispersión,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista
+Depósitos a plazo"
+Ejecutar transacción monetaria,Aplicar transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Calcular valor a cobrar,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",N.A
+Ejecutar transacción monetaria,Conciliar transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Consultar tasa de cambio,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Consultar tasa de cambio
+Ejecutar transacción monetaria,Enrutar transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Evaluar restricciones del cliente,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",
+Ejecutar transacción monetaria,Exponer valor a cobrar,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Generar instrucción de la transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Generar la instrucción de contactabilidad,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Gestión de la contactabilidad
+Ejecutar transacción monetaria,Identificar posibilidad de fraude,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Gestión del fraude
+Ejecutar transacción monetaria,Identificar producto y titular,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Monitorear transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Realizar reintento de transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Registrar asiento contable,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Reservar saldo,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Solicitar autorización al producto de destino,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Solucionar diferencia en transacciones,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Solucionar rechazo de transacciones,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Validar condiciones del producto origen,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Validar topes,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Gestión del fraude
+Ejecutar transacción monetaria,Validar transacción presentada,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Ejecutar transacción monetaria,Verificar autenticidad de la transacción,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Ciberseguridad
+Generar información,Ajustar contenido,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Ajustar contenido,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Ajustar contenido,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Almacenar información,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Almacenar información,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Almacenar información,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Aplicar regla de corrección de procesamiento,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Aplicar regla de corrección de procesamiento,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Aplicar regla de corrección de procesamiento,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Aplicar reglas de corrección de la información,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Aplicar reglas de corrección de la información,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Aplicar reglas de corrección de la información,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Aplicar reglas de negocio,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Aplicar reglas de negocio,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Aplicar reglas de negocio,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Contactar usuario,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Elaborar informe o reporte,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Elaborar informe o reporte,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Elaborar informe o reporte,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Generar contenido de publicación,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Generar contenido de publicación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Generar contenido de publicación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Monitorear información,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Monitorear información,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Monitorear información,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Normalizar dato,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Normalizar dato,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Procesar dato,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Recopilar información,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Recopilar información,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Recopilar información,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Transformar dato,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Transformar dato,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Validar calidad de la información,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Validar calidad de la información,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Validar calidad de la información,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Validar contenido de publicación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Generar información,Validar contenido de publicación,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Validar contenido de publicación,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Validar procesamiento de la información,Gestión de la información,Analítica Avanzada,Analítica descriptiva
+Generar información,Validar procesamiento de la información,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Analítica descriptiva
+Generar información,Validar procesamiento de la información,Estrategia de los negocios,Modelo de Precio (pricing),No aplica
+Procesar compensación,Aplicar regla de compensación,Negocios,"Medios de pago, soluciones para empresas, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Procesar compensación,Calcular valor a compensar,Negocios,"Medios de pago, soluciones para empresas, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Procesar compensación,Crear instrucción de pago,Negocios,"Medios de pago, soluciones para empresas, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Procesar compensación,Generar la instrucción de contactabilidad,Negocios,"Medios de pago, soluciones para empresas, transferencias, comercio internacional","Depósitos a la vista, depósitos a plazo, tarjeta crédito, tarjeta débito, pagos digitales, cheques, recaudos, adquirencia, aceptación digital, pagos empresariales"
+Procesar compensación,Recibir cobro de compensación,Negocios,"Medios de pago, soluciones para empresas, transferencias, comercio internacional",
+Realizar Vinculación,Capturar información,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Consultar información,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Establecer cláusulas  y condiciones de relacionamiento,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Evaluar debida diligencia,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Evaluar restricciones y Bloqueos,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Formalizar vinculación,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Generar trazabilidad de la vinculación,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Identificar Representante legal,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Identificar grupos y relacionados,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Identificar riesgos de cumplimiento,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Obtener información y documentación,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Perfilar estado del cliente,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Profundizar vinculación existente,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Registrar información en fuentes oficiales,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Segmentar cliente,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Validar procesos de vinculación en curso,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Verificar integridad y validez de información y documentos,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2
+Realizar Vinculación,Verificar resultado de vinculaciones,Prueba dominio dueño,Prueba sudominio N1,Prueba subdominio N2

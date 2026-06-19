@@ -1,0 +1,1743 @@
+codigo_proceso,t2.procedimiento,t2.actividad,Código,Nombre de la Actividad
+PAN040102,Crear Cuenta y Autorizar desembolsos,m: gestión de servicios corporativos p: custodiar documentos pagaré panamá ,CP1109,Custodiar documento
+PAN040102,Crear Cuenta y Autorizar desembolsos,ajustar valor [act016] ,ACT016,Ajustar Valor
+PAN040102,Crear Cuenta y Autorizar desembolsos,desembolsar crédito [act123] ,ACT123,Desembolsar CrÃ©dito
+PAN040102,Crear Cuenta y Autorizar desembolsos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN040102,Crear Cuenta y Autorizar desembolsos,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+PAN040102,Crear Cuenta y Autorizar desembolsos,implementar solución [act204] ,ACT204,Implementar SoluciÃ³n
+PAN040102,Crear Cuenta y Autorizar desembolsos,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+PAN040102,Crear Cuenta y Autorizar desembolsos,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+PAN040102,Procedimiento Contingente,notificar la ofex para gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+PAN040102,Procedimiento Contingente,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN040102,Procedimiento Contingente,activar contigencia [act363] ,ACT363,Activar Contingencia
+PAN040102,Realizar cálculos Revolvente,ajustar valor [act016] ,ACT016,Ajustar Valor
+PAN040102,Realizar cálculos Revolvente,calcular intereses [act056] ,ACT056,Calcular InterÃ©s
+PAN040102,Realizar cálculos Revolvente,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+PAN040102,Realizar cálculos Revolvente,consolidar información [act098] ,ACT098,Consolidar InformaciÃ³n
+PAN040102,Realizar cálculos Revolvente,descargar reporte [act122] ,ACT122,Descargar Reporte
+PAN040102,Realizar cálculos Revolvente,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN040102,Realizar cálculos Revolvente,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+PAN040103,Abrir Productos Pasivos,enviar comunicación/ notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+PAN040103,Abrir Productos Pasivos,radicar solicitud ,CMT79,Radicar Solicitud
+PAN040103,Abrir Productos Pasivos,m: gestión de servicios administrativos p: custodiar documentos pagaré panamá ,CP1109,Custodiar documento
+PAN040103,Abrir Productos Pasivos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN040103,Abrir Productos Pasivos,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+PAN040103,Abrir Productos Pasivos,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+PAN040103,Administrar Listas de control,c001: validar resultado ,ACT347,Validar Resultado
+PAN040107,Realizar Apertura Tarjeta Débito,c012: validar firmas conjuntas ,ACT335,Validar Firma
+PAN040107,Realizar Apertura tarjeta Crédito,c008 validar solicitud digital de tarjeta ,ACT348,Validar Solicitud
+PAN040107,Realizar aperturas de tarjeta de crédito,gestionar y custodiar documentos ,CP1109,Custodiar documento
+PAN040107,Realizar aperturas de tarjeta de crédito,c008 validar solicitud digital de tarjeta ,ACT348,Validar Solicitud
+PAN040212,Solicitar Financiación y Apertura Cartera Pasiva,m: gestión de servicios corporativos p: custodiar documentos pagaré panamá ,CP1109,Custodiar documento
+PAN040305,Contingencia,c008: consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+PAN040305,Contingencia,modificar condición de funcionamiento del producto [cp0055] ,CP0055,Consolidar InformaciÃ³n del caso.
+PAN040305,Contingencia,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN040305,Contingencia,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN040305,Contingencia,activar contingencia [act363] ,ACT363,Activar Contingencia
+PAN040305,Contingencia,restablecer operación normal [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+PAN040305,"Contingencia, fecha actualización 2025-04-30",activar contingencia ,ACT363,Activar Contingencia
+PAN040305,Ingresar Novedades sobre Depósitos,enviar comunicación notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+PAN040305,Ingresar Novedades sobre Depósitos,c008: consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+PAN040305,Ingresar Novedades sobre Depósitos,modificar condición de funcionamiento del producto [cp0055] ,CP0055,Consolidar InformaciÃ³n del caso.
+PAN040305,Ingresar Novedades sobre Depósitos,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN040305,Ingresar Novedades sobre Depósitos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN040305,Ingresar Novedades sobre Depósitos,gestionar inconsistencias [act191 ] ,ACT191,Gestionar Inconsistencias
+PAN040305,Ingresar Novedades sobre Depósitos,procesar pago [act237] ,ACT237,Procesar Pago
+PAN040305,Ingresar Novedades sobre Depósitos,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+PAN040305,Ingresar Novedades sobre Depósitos,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+PAN040305,Procedimiento contingente,activar contingencia ,ACT363,Activar Contingencia
+PAN040310,Atender novedades para canales digitales,c003:validar firma ,ACT335,Validar Firma
+PAN040310,Atender novedades para canales digitales,c002:validar solicitud ,ACT348,Validar Solicitud
+PAN040314,Gestionar novedades de Medios de Pago,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+PAN040314,Gestionar novedades de Medios de Pago,m: cumplimiento de los servicios p: procesar pagos y ajustes de tarjeta de crédito ,ACT237,Procesar Pago
+PAN040314,Gestionar novedades de tarjeta de crédito,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+PAN040314,Gestionar novedades de tarjeta de crédito,m: cumplimiento de los servicios p: procesar pagos y ajustes de tarjeta de crédito ,ACT237,Procesar Pago
+PAN040705,Legalizar movimiento de Tarjeta de Crédito,gestionar inconsistencias en cuentas ,ACT191,Gestionar Inconsistencias
+PAN040705,Procesar Compensación de Medios de Pago,gestionar inconsistencias en cuentas ,ACT191,Gestionar Inconsistencias
+PAN040705,Procesar Compensación de Medios de Pago,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+PAN050305,Gestionar experiencia y requerimientos de clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN050305,Gestionar experiencia y requerimientos de clientes,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+PAN050305,Gestionar experiencia y requerimientos de clientes,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+PAN050305,Gestionar experiencia y requerimientos de clientes,recibir y validar solicitud ,ACT348,Validar Solicitud
+PAN050305,Gestionar experiencia y requerimientos de clientes,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050305,Gestionar requerimientos de clientes,escalar caso [cmp75] ,CMP75,Asignar Solicitud
+PAN050305,Gestionar requerimientos de clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN050305,Gestionar requerimientos de clientes,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+PAN050305,Gestionar requerimientos de clientes,validar documentación [act331] ,ACT331,Validar Documento
+PAN050305,Gestionar requerimientos de clientes,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050305,Gestionar requerimientos de clientes,recibir y validar solicitud ,ACT348,Validar Solicitud
+PAN050305,Gestionar solicitudes y requerimientos de clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN050305,Gestionar solicitudes y requerimientos de clientes,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+PAN050305,Gestionar solicitudes y requerimientos de clientes,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,informar resultado [act209] ,ACT209,Informar Resultado
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,cargar información [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050802,Crear o vincular personas Filiales del Exterior y Sucursal,c007:validar solicitud de vinculación ,ACT348,Validar Solicitud
+PAN050802,Vinculación Centralizada,radicar solicitud de vinculación ,CMT79,Radicar Solicitud
+PAN050802,Vinculación Centralizada,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+PAN050802,Vinculación Centralizada,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+PAN050802,Vinculación Centralizada,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN050802,Vinculación Centralizada,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN050802,Vinculación Centralizada,recibir información[act266] ,ACT266,Recibir InformaciÃ³n
+PAN050802,Vinculación Centralizada,c002: validar documentos soporte ,ACT331,Validar Documento
+PAN050802,Vinculación Centralizada,cerrar solicitud ,ACT378,Cerrar Solicitud
+PAN050802,Vinculación gestionada por comercial,radicar solicitud validación documental ,CMT79,Radicar Solicitud
+PAN050802,Vinculación gestionada por comercial,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+PAN050802,Vinculación gestionada por comercial,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN050802,Vinculación gestionada por comercial,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+PAN050802,Vinculación gestionada por comercial,recibir información[act266] ,ACT266,Recibir InformaciÃ³n
+PAN050802,Vinculación gestionada por comercial,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050802,Vinculación gestionada por comercial,c002: validar documentos soporte ,ACT331,Validar Documento
+PAN050802,Vinculación gestionada por comercial,cerrar solicitud ,ACT378,Cerrar Solicitud
+PAN050803,Autorizar Actividad Callback,informar motivo [act209] ,ACT209,Informar Resultado
+PAN050803,Autorizar Actividad Callback,validar resultado [act347] ,ACT347,Validar Resultado
+PAN050803,Autorizar Actividad Callback,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050803,Contingencia,enviar comunicación/ notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+PAN050803,Contingencia,identificar inconsistencia [act204] ,ACT204,Implementar SoluciÃ³n
+PAN050803,Contingencia,informar motivo [act209] ,ACT209,Informar Resultado
+PAN050803,Contingencia,actualizar registro [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050803,Contingencia,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050803,Contingencia,[act363] activar contingencia ,ACT363,Activar Contingencia
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",enviar comunicación/ notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",identificar inconsistencia [act204] ,ACT204,Implementar SoluciÃ³n
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",informar motivo [act209] ,ACT209,Informar Resultado
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",actualizar registro [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN050803,"Contingencia, Fecha de actualización 2026-01-22",[act363] activar contingencia ,ACT363,Activar Contingencia
+PAN050803,Gestionar Novedades de clientes Filiales,enviar información[act156] ,ACT156,Enviar InformaciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales,gestionar inconsistencias[act191] ,ACT191,Gestionar Inconsistencias
+PAN050803,Gestionar Novedades de clientes Filiales,informar resultado[act209] ,ACT209,Informar Resultado
+PAN050803,Gestionar Novedades de clientes Filiales,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,asignar responsable [act039] ,ACT039,Asignar Responsable
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,enviar información[act156] ,ACT156,Enviar InformaciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,gestionar inconsistencias[act191] ,ACT191,Gestionar Inconsistencias
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,identificar inconsistencia [act204] ,ACT204,Implementar SoluciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,informar resultado[act209] ,ACT209,Informar Resultado
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,informar motivo [act209] ,ACT209,Informar Resultado
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,actualizar registro [act266] ,ACT266,Recibir InformaciÃ³n
+PAN050803,Gestionar Novedades de clientes Filiales del Exterior y Sucursal,validar solicitud [act348] ,ACT348,Validar Solicitud
+PAN080001,Administrar programas de lealtad,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T050301,Recibir requerimiento de Clientes,radicar solicitud (act246) ,CMT79,Radicar Solicitud
+T050301,Recibir requerimiento de Clientes,c004:gestionar alertas de derechos de petición ,CP0191,Gestionar alertas
+T050301,Recibir requerimiento de Clientes,actualizar registro [act011] ,ACT011,Actualizar Registro
+T050301,Recibir requerimiento de Clientes,asignar responsable [act039] ,ACT039,Asignar Responsable
+T050301,Recibir requerimiento de Clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T050301,Recibir requerimiento de Clientes,solicitar información (act318) ,ACT318,Solicitar InformaciÃ³n
+T050301,Recibir requerimiento de clientes,radicar solicitud (act246) ,CMT79,Radicar Solicitud
+T050301,Recibir requerimiento de clientes,c004:gestionar alertas de derechos de petición ,CP0191,Gestionar alertas
+T050301,Recibir requerimiento de clientes,actualizar registro [act011] ,ACT011,Actualizar Registro
+T050301,Recibir requerimiento de clientes,asignar responsable [act039] ,ACT039,Asignar Responsable
+T050301,Recibir requerimiento de clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T050301,Recibir requerimiento de clientes,recibir información (act266) ,ACT266,Recibir InformaciÃ³n
+T050301,Recibir requerimientos Entes Legales,c004:gestionar alertas de derechos de petición ,CP0191,Gestionar alertas
+T050302,Gestionar Derechos de Petición,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T050302,Gestionar Derechos de Petición,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T050302,Gestionar Requerimiento de Clientes,radicar solicitud (act246-01) ,CMT79,Radicar Solicitud
+T050302,Gestionar Requerimiento de Clientes,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T050302,Gestionar Requerimiento de Clientes,informar resultado (act209) ,ACT209,Informar Resultado
+T050302,Gestionar Requerimiento de Clientes,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T050302,Gestionar Requerimiento de Clientes,registrar ajuste (act273) ,ACT273,Registrar Ajuste
+T050302,Gestionar Requerimiento de Clientes,reversar transacción (act290) ,ACT290,Reversar TransacciÃ³n
+T050302,Gestionar Requerimiento de Clientes,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T050302,Gestionar Requerimiento de Clientes,c017: validar respuesta del tercer nivel ,ACT345,Validar Respuesta
+T050302,Gestionar Requerimiento de Clientes,c001: validar respuesta del área de apoyo especializada ,ACT345,Validar Respuesta
+T050302,Gestionar Requerimiento de Clientes,ejecutar ajuste contable (act372) ,ACT372,Ejecutar Ajuste Contable
+T050302,Realizar Abono Temporal yo Definitivo,escalar caso [cmp75] ,CMP75,Asignar Solicitud
+T050302,Realizar Abono Temporal yo Definitivo,c007: aprobar solicitud de ajuste económico ,CMP77,Aprobar Solicitud
+T050302,Realizar Abono Temporal yo Definitivo,c010 : aprobar solicitud de ajuste económico aprobacion de abono definitivo ,CMP77,Aprobar Solicitud
+T050302,Realizar Abono Temporal yo Definitivo,ajustar valor [act016] ,ACT016,Ajustar Valor
+T050302,Realizar Abono Temporal yo Definitivo,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T050302,Realizar Abono Temporal yo Definitivo,informar resultado [act209] ,ACT209,Informar Resultado
+T050302,Realizar Abono Temporal yo Definitivo,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T050302,Realizar Abono Temporal yo Definitivo,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T050302,Realizar Abono Temporal yo Definitivo,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T050303,Responder Requerimiento de Clientes,enviar información (act156) ,ACT156,Enviar InformaciÃ³n
+T050303,Responder Requerimiento de Clientes,gestionar alerta (act181) ,ACT181,Atender Alerta
+T050303,Responder Requerimiento de clientes,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T050303,Responder Requerimiento de clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T050303,Responder Requerimiento de clientes,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T050303,Responder Requerimiento de clientes,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T050303,Responder Requerimiento de clientes,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T050402,Gestionar requerimientos legal desembargo sobre clientes,c011: validar respuesta ,ACT345,Validar Respuesta
+T050402,Gestionar requerimientos legales de embargos y desembargos sobre clientes,cmp 546 generar documento ,CP1160,Generar documento
+T050402,Gestionar requerimientos legales de embargos y desembargos sobre clientes,c011: validar respuesta ,ACT345,Validar Respuesta
+T050402,Gestionar solicitudes,cmp 546 generar documento ,CP1160,Generar documento
+T050807,Gestionar clientes,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T050807,Habilitar comerciales mesa de dinero,asignar responsable [act039] ,ACT039,Asignar Responsable
+T050807,Habilitar comerciales mesa de dinero,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T050807,Negociar Operaciones con Clientes MK,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T051005,Crear o Vincular Potenciales Clientes,radicar solicitud de vinculación ,CMT79,Radicar Solicitud
+T051005,Crear o Vincular Potenciales Clientes,radicar solicitud ,CMT79,Radicar Solicitud
+T051005,Crear o Vincular Potenciales Clientes,radicar solicitud centralizada ,CMT79,Radicar Solicitud
+T051005,Crear o Vincular Potenciales Clientes,custodiar documentos en repositorio oficial ,CP1109,Custodiar documento
+T051005,Crear o Vincular Potenciales Clientes,cmp59: autenticar cliente-usuario en sucursal ,ACT045,Autenticar Cliente
+T051005,Crear o Vincular Potenciales Clientes,autenticar cliente [act045] ,ACT045,Autenticar Cliente
+T051005,Crear o Vincular Potenciales Clientes,autenticar cliente ,ACT045,Autenticar Cliente
+T051005,Crear o Vincular Potenciales Clientes,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T051005,Crear o Vincular Potenciales Clientes,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T051005,Crear o Vincular Potenciales Clientes,diligenciar formulario ,ACT132,Diligenciar Formulario
+T051005,Crear o Vincular Potenciales Clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T051005,Crear o Vincular Potenciales Clientes,informar resultado ,ACT209,Informar Resultado
+T051005,Crear o Vincular Potenciales Clientes,informar resultado [act209] ,ACT209,Informar Resultado
+T051005,Crear o Vincular Potenciales Clientes,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T051005,Crear o Vincular Potenciales Clientes,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T051005,Crear o Vincular Potenciales Clientes,rechazar solicitud ,ACT264,Rechazar Solicitud
+T051005,Procedimiento Contingente,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T051005,Procedimiento Contingente,registrar evento [act274] ,ACT274,Registrar Evento
+T051005,Procedimiento Contingente,registrar evento ,ACT274,Registrar Evento
+T051008,Conformar Grupos Cliente,actualizar registro [act011] ,ACT011,Actualizar Registro
+T051008,Conformar Grupos Cliente,enviar infromación [act156] ,ACT156,Enviar InformaciÃ³n
+T051009,Actualizar Información de Clientes,radicar solicitud de aplicación de carga ,CMT79,Radicar Solicitud
+T051009,Actualizar Información de Clientes,radicar solicitud ,CMT79,Radicar Solicitud
+T051009,Actualizar Información de Clientes,cmp59: autenticar cliente-usuario en sucursal ,ACT045,Autenticar Cliente
+T051009,Actualizar Información de Clientes,autenticar cliente [act045] ,ACT045,Autenticar Cliente
+T051009,Actualizar Información de Clientes,"m:gestión de la relación con cliente, p: autenticar cliente usuario en sucursal ",ACT045,Autenticar Cliente
+T051009,Actualizar Información de Clientes,autenticar cliente en canal digital ,ACT045,Autenticar Cliente
+T051009,Actualizar Información de Clientes,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T051009,Actualizar Información de Clientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T051009,Actualizar Información de Clientes,cerrar solicitud ,ACT378,Cerrar Solicitud
+T051303,Certificar cuentas contables,c023: validar resultado ,ACT347,Validar Resultado
+T051303,Conciliar Pagos,m: gestión de servicios corporativos p:procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T051303,Contabilizar Facturación,m: gestión de servicios corporativos p:procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T051303,Contabilizar Facturación,m: gestión de servicios corporativos p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T051303,Gestionar Facturación Dirección Conciliación y Cobranza,certificar cuentas contables ,CP0469,Certificar cuenta
+T051303,Gestionar Legalizaciones y Anticipos,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T051303,Gestionar Otros Gastos Presentación de Demanda,m: gestión de servicios corporativos p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T051303,Gestionar cuentas por cobrar,recibir y asignar solicitud ,CMP75,Asignar Solicitud
+T051303,Gestionar cuentas por cobrar,rechazar solicitud ,ACT264,Rechazar Solicitud
+T051303,Gestionar cuentas por cobrar,c025 validar solicitud de ampliaciones ,ACT348,Validar Solicitud
+T051303,Gestionar facturación comisiones etapa administrativa y  castigada,m: gestión de servicios corporativos p:procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T051701,Administrar Novedades Planta Comercial,atender reclamos de planta ,ACT193,Atender Reclamo
+T051701,Administrar Novedades Planta Comercial,rechazar solicitud ,ACT264,Rechazar Solicitud
+T051904,Administrar información para los modelos de atención,aprobar solicitud ,CMP77,Aprobar Solicitud
+T051904,Administrar información para los modelos de atención,radicar solicitud masiva de la estrategia ,CMT79,Radicar Solicitud
+T051904,Administrar información para los modelos de atención,radicar solicitud de carga ,CMT79,Radicar Solicitud
+T051904,Administrar información para los modelos de atención,radicar solicitud masiva equipo sucursales ,CMT79,Radicar Solicitud
+T051904,Administrar información para los modelos de atención,radicar solicitud del equipo comercial ,CMT79,Radicar Solicitud
+T051904,Administrar información para los modelos de atención,monitorear operaciones [act220] ,ACT220,Monitorear Operaciones
+T051904,Administrar información para los modelos de atención,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T051904,Administrar información para los modelos de atención,rechazar solicitud ,ACT264,Rechazar Solicitud
+T051904,Administrar información para los modelos de atención,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T051904,Administrar información para los modelos de atención,validar solicitudes masivas ,ACT348,Validar Solicitud
+T051904,Administrar información para los modelos de atención,validar solicitudes manuales ,ACT348,Validar Solicitud
+T051910,Crear Comunidades Negocios e Independientes,radicar solicitud de viabilidad ,CMT79,Radicar Solicitud
+T051910,Crear Comunidades Negocios e Independientes,radicar solicitud de estudio de crédito masivo de clientes ,CMT79,Radicar Solicitud
+T051910,Crear Comunidades Negocios e Independientes,radicar solicitud de aprobación ,CMT79,Radicar Solicitud
+T051910,Crear Comunidades Negocios e Independientes,c003: validar solicitud ,ACT348,Validar Solicitud
+T051910,Crear Encadenamientos productivos ,realizar indexación y custodia de información cmf02 ,CMF02,Custodiar Documento Digital
+T051910,Crear Encadenamientos productivos ,generar documento (cmf04) ,CMF04,Generar Documento Digital
+T051910,Crear Encadenamientos productivos ,aprobar solicitud [cmp77] ,CMP77,Aprobar Solicitud
+T051910,Crear Encadenamientos productivos ,radicar solicitud de viabilidad ,CMT79,Radicar Solicitud
+T051910,Crear Encadenamientos productivos ,radicar solicitud de estudio de crédito masivo de clientes ,CMT79,Radicar Solicitud
+T051910,Crear Encadenamientos productivos ,radicar solicitud de aprobación ,CMT79,Radicar Solicitud
+T051910,Crear Encadenamientos productivos ,generar documento (cmf04) ,CP1160,Generar documento
+T051910,Crear Encadenamientos productivos ,actualizar registro (act011) ,ACT011,Actualizar Registro
+T051910,Crear Encadenamientos productivos ,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T051910,Crear Encadenamientos productivos ,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T051910,Crear Encadenamientos productivos ,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T051910,Crear Encadenamientos productivos ,evaluar impacto [act167] ,ACT167,Evaluar Impacto
+T051910,Crear Encadenamientos productivos ,c001: evaluar impacto [act167] ,ACT167,Evaluar Impacto
+T051910,Crear Encadenamientos productivos ,identificar cliente potencial [act200] ,ACT200,Identificar Cliente Potencial
+T051910,Crear Encadenamientos productivos ,informar resultado [act209] ,ACT209,Informar Resultado
+T051910,Crear Encadenamientos productivos ,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T051910,Crear Encadenamientos productivos ,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T051910,Crear Encadenamientos productivos ,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T051910,Crear Encadenamientos productivos ,c003: validar información [act341] ,ACT341,Validar InformaciÃ³n
+T051910,Crear Encadenamientos productivos ,c002: validar información [act341] ,ACT341,Validar InformaciÃ³n
+T051910,Crear Encadenamientos productivos ,validar resultado [act347] ,ACT347,Validar Resultado
+T051910,Crear Encadenamientos productivos ,c003: validar solicitud ,ACT348,Validar Solicitud
+T051910,Crear Encadenamientos productivos ,devolver solicitud (act 377) ,ACT377,Devolver Solicitud
+T051911,Solicitudes Masivas de Estrategia,radicar solicitud ,CMT79,Radicar Solicitud
+T051911,Traslados entre bancas día a día,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T051911,Traslados entre bancas día a día,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T051911,Traslados entre bancas día a día,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T051911,Traslados entre bancas día a día,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T051911,Traslados entre bancas masivos,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T051911,Traslados entre bancas masivos,realizar simulación [act262] ,ACT262,Realizar SimulaciÃ³n
+T051911,Traslados entre bancas masivos,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T051911,Traslados entre bancas masivos,revisar trazabilidad [act301] ,ACT301,Realizar Trazabilidad
+T051911,Traslados entre bancas masivos,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T051911,Traslados entre bancas masivos,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T051911,Traslados entre bancas masivos,validar solicitud [act348] ,ACT348,Validar Solicitud
+T051918,Personalizar contenido,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T051918,Personalizar contenido,evaluar impacto [act167] ,ACT167,Evaluar Impacto
+T051918,Personalizar contenido,monitorear alertas críticas [act218] ,ACT218,Monitorear Alertas
+T051918,Personalizar contenido,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,consolidar información [act098] ,ACT098,Consolidar InformaciÃ³n
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,definir condición [act114] ,ACT114,Definir CondiciÃ³n
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,monitorear alertas críticas [act218] ,ACT218,Monitorear Alertas
+T051918,Personalizar la propuesta de valor para clientes personas e independientes,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T051923,Habilitar las estrategias de precio,generar documento de aceptación de condiciones ,CP1160,Generar documento
+T051923,Habilitar las estrategias de precios,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T051923,Habilitar las estrategias de precios,elaborar informes e indicadores cp030 ,CMP86,Elaborar Informe
+T051923,Habilitar las estrategias de precios,elaborar informe cmp86 ,CMP86,Elaborar Informe
+T051923,Habilitar las estrategias de precios,elaborar informes e indicadores cp030 ,CP0030,Elaborar informes e indicadores.
+T051923,Habilitar las estrategias de precios,exponer valor a cobrar cp391 ,CP0391,Exponer valor a cobrar
+T051923,Habilitar las estrategias de precios,aplicar reglas de negocio en compras y facturas ,CP0506,Aplicar reglas de negocio
+T051923,Habilitar las estrategias de precios,generar documento de aceptación de condiciones ,CP1160,Generar documento
+T051923,Habilitar las estrategias de precios,consultar información act003 ,ACT003,Consultar InformaciÃ³n
+T051923,Habilitar las estrategias de precios,actualizar registro [act011] ,ACT011,Actualizar Registro
+T051923,Habilitar las estrategias de precios,archivar documento [act032] ,ACT032,Archivar Documento
+T051923,Habilitar las estrategias de precios,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T051923,Habilitar las estrategias de precios,consolidar información act098 ,ACT098,Consolidar InformaciÃ³n
+T051923,Habilitar las estrategias de precios,consultar transacción [act104] ,ACT104,Consultar TransacciÃ³n
+T051923,Habilitar las estrategias de precios,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T051923,Habilitar las estrategias de precios,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T051923,Habilitar las estrategias de precios,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T051923,Habilitar las estrategias de precios,gestionar inconsistencias encontradas ,ACT191,Gestionar Inconsistencias
+T051923,Habilitar las estrategias de precios,gestionar inconsistencias act191 ,ACT191,Gestionar Inconsistencias
+T051923,Habilitar las estrategias de precios,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T051923,Habilitar las estrategias de precios,informar resultados ,ACT209,Informar Resultado
+T051923,Habilitar las estrategias de precios,informar resultado act209 ,ACT209,Informar Resultado
+T051923,Habilitar las estrategias de precios,informar resultado [act209] ,ACT209,Informar Resultado
+T051923,Habilitar las estrategias de precios,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T051923,Habilitar las estrategias de precios,realizar simulación [act262] ,ACT262,Realizar SimulaciÃ³n
+T051923,Habilitar las estrategias de precios,reportar error [act285] ,ACT285,Registrar Incidente
+T051923,Habilitar las estrategias de precios,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T051923,Habilitar las estrategias de precios,solicitar firma [act317] ,ACT317,Solicitar Firma
+T051924,Gestionar el uso del servicio de Ecosistemas,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T051924,Gestionar el uso del servicio de Ecosistemas,realizar firma [cmt78] ,CMT78,Firmar Documento Digital
+T051924,Gestionar el uso del servicio de Ecosistemas,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T051924,Gestionar el uso del servicio de Ecosistemas,consultar transacción [act104] ,ACT104,Consultar TransacciÃ³n
+T051924,Gestionar el uso del servicio de Ecosistemas,desembolsar crédito [act123] ,ACT123,Desembolsar CrÃ©dito
+T051924,Gestionar el uso del servicio de Ecosistemas,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T051924,Gestionar el uso del servicio de Ecosistemas,identificar cliente potencial [act200] ,ACT200,Identificar Cliente Potencial
+T051924,Gestionar el uso del servicio de Ecosistemas,informar resultado [act209] ,ACT209,Informar Resultado
+T051924,Gestionar el uso del servicio de Ecosistemas,monitorear operaciones [act220] ,ACT220,Monitorear Operaciones
+T051924,Gestionar el uso del servicio de Ecosistemas,procesar pago [act237] ,ACT237,Procesar Pago
+T051924,Gestionar el uso del servicio de Ecosistemas,realizar contacto comercial [act253] ,ACT253,Realizar Contacto Comercial
+T051924,Gestionar el uso del servicio de Ecosistemas,validar solicitud [act348] ,ACT348,Validar Solicitud
+T070203,Administrar Ventas Digitales,monitorear experiencias ,CP1023,Monitorear experiencia
+T070203,Administrar Ventas Digitales,gestionar alerta [act181] ,ACT181,Atender Alerta
+T070203,Administrar Ventas Digitales,implementar solución [act204] ,ACT204,Implementar SoluciÃ³n
+T070203,Administrar Ventas Digitales,registrar alerta [act210] ,ACT210,Registrar Alerta
+T070203,Administrar Ventas Digitales,restablecer operación normal [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T070203,Enviar información F416 Preaprobados digital consumo desembolsados,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T070203,Enviar información F416 Preaprobados digital consumo desembolsados,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T070203,Gestionar información de las experiencias digitales,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T070203,Gestionar información de las experiencias digitales,consolidar información [act098] ,ACT098,Consolidar InformaciÃ³n
+T070203,Gestionar información de las experiencias digitales,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T070203,Gestionar información de las experiencias digitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T070203,Monitorear Experiencias,activar contingencia ,ACT363,Activar Contingencia
+T070204,Atender interrupciones programadas en los canales y servicios,asignar responsable [act039] ,ACT039,Asignar Responsable
+T070204,Atender interrupciones programadas en los canales y servicios,evaluar impacto [act167] ,ACT167,Evaluar Impacto
+T070204,Atender interrupciones programadas en los canales y servicios,informar resultado [act209] ,ACT209,Informar Resultado
+T070204,Atender interrupciones programadas en los canales y servicios,registrar evento [act274] ,ACT274,Registrar Evento
+T070204,Atender interrupciones programadas en los canales y servicios,validar solicitud [act348] ,ACT348,Validar Solicitud
+T070204,Atender interrupciones programadas en los canales y servicios,activar contingencia [act363] ,ACT363,Activar Contingencia
+T070206,Atender novedades del Banco para canales virtuales empresas,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T070206,Atender novedades del Banco para canales virtuales empresas,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T070206,Atender novedades del Banco para canales virtuales empresas,reportar error [act285] ,ACT285,Registrar Incidente
+T070206,Atender novedades del Banco para canales virtuales empresas,solicitar soporte [act320] ,ACT320,Solicitar Soporte
+T070208,Atender Novedades del Cliente para Canales Digitales,archivar documento [act032] ,ACT032,Archivar Documento
+T070208,Atender Novedades del Cliente para Canales Digitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T070208,Atender Novedades del Cliente para Canales Digitales,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T070208,Atender Novedades del Cliente para Canales Digitales,informar resultado [act209] ,ACT209,Informar Resultado
+T070208,Atender Novedades del Cliente para Canales Digitales,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T070211,Gestionar ingresos y procesos contables del canal,certificar cuentas de canales ,CP0469,Certificar cuenta
+T070211,Gestionar ingresos y procesos contables del canal,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T070211,Gestionar ingresos y procesos contables del canal,ejecutar bloqueo [act134] ,ACT134,Ejecutar Bloqueo
+T070211,Gestionar ingresos y procesos contables del canal,identificar inconsistencias [act202] ,ACT202,Identificar Inconsistencia
+T070211,Gestionar ingresos y procesos contables del canal,liquidar obligación [act213] ,ACT213,Liquidar ObligaciÃ³n
+T070211,Gestionar ingresos y procesos contables del canal,certificar cuentas contables [act364] ,ACT364,Certificar Cuenta Contable
+T070212,Diagrama 1,monitorear servicios corresponsales bancarios ,ACT222,Monitorear Servicio
+T070212,Monitorear operación digital,c006 monitorear experiencias digitales ,CP1023,Monitorear experiencia
+T070212,Monitorear servicios sucursales,gestionar alertas fuerade linea ,CP0191,Gestionar alertas
+T070212,Realizar monitoreo a canales,monitorear servicios corresponsales bancarios ,ACT222,Monitorear Servicio
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,actualizar registro [act011] ,ACT011,Actualizar Registro
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,gestionar reclamo [act193] ,ACT193,Atender Reclamo
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,procesar solicitud analítica ,ACT238,Procesar Solicitud
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T070214,Gestionar Novedades para las experiencias de Ventas digitales,c007 - validar solicitud analítica ,ACT348,Validar Solicitud
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,realizar contacto comercial [act253] ,ACT253,Realizar Contacto Comercial
+T070214,Gestionar venta y rescate de clientes con equipos comerciales,reportar error [act285] ,ACT285,Registrar Incidente
+T070214,Grabar Aumento de cupo TDC de ventas digitales,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T070214,Grabar Aumento de cupo TDC de ventas digitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T070214,Grabar Aumento de cupo TDC de ventas digitales,validar respuesta [act345] ,ACT345,Validar Respuesta
+T070214,Grabar TDC de ventas digitales,enviar comunicación/ notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T070214,Grabar TDC de ventas digitales,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T070214,Grabar TDC de ventas digitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T070214,Grabar TDC de ventas digitales,validar respuesta [act345] ,ACT345,Validar Respuesta
+T080006,Administrar Cupos ML,solicitar autorización act311 ,ACT311,Solicitar AutorizaciÃ³n
+T080006,Administrar Cupos ML,validar documentación act331 ,ACT331,Validar Documento
+T080006,Administrar liquidez de Grupo Cibest Subsidiarias y Subholdings,recibir información act266 ,ACT266,Recibir InformaciÃ³n
+T080130,Procesar Información Financiera MK y CI,ajustar valor [act016] ,ACT016,Ajustar Valor
+T080130,Procesar Información Financiera MK y CI,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T080130,Procesar Información Financiera MK y CI,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T080130,Procesar Información Financiera MK y CI,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T080130,Procesar Información Financiera MK y CI,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T080130,Procesar Información Financiera MK y CI,registrar evento [act274] ,ACT274,Registrar Evento
+T080130,Procesar Información Financiera MK y CI,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T080130,Procesar información financiera MK Y CI,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T080148,Gestionar los recursos y la contabilidad de la Fundación Bancombia,validar y programar pagos ,ACT242,Programar Pago
+T080149,Calcular costo amortizado,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T080149,Calcular costo amortizado,gestionar errores y solicitar soporte ,ACT320,Solicitar Soporte
+T080149,Calcular costo amortizado,solicitar soporte y reprocesar ,ACT320,Solicitar Soporte
+T080149,Consolidar información para provisiones bajo pérdida esperada,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T080315,Generar Informes de Modelos de Rentabilidad,atender reclamos e inquietudes ,ACT193,Atender Reclamo
+T080315,Generar Informes de Modelos de Rentabilidad,validar respuesta de reclamo ,ACT345,Validar Respuesta
+T080505,Realizar Conciliacion Contable MK y CI,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T080505,Realizar Conciliacion Contable MK y CI,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T080505,Realizar Conciliacion Contable MK y CI,identificar y gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T080505,Realizar Conciliacion Contable MK y CI,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T080505,Realizar Conciliacion Contable MK y CI,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T080505,Realizar Conciliacion Contable MK y CI,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T080505,Realizar Conciliacion Contable MK y CI,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T080506,Realizar Razonabilidad,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T080506,Realizar Razonabilidad,registrar evento [act274] ,ACT274,Registrar Evento
+T080506,Realizar Razonabilidad,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T080506,Realizar Razonabilidad,reportar error [act285] ,ACT285,Registrar Incidente
+T080506,Realizar Razonabilidad,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T080507,Realizar Arqueo de Títulos,archivar documento [act032] ,ACT032,Archivar Documento
+T080507,Realizar Arqueo de Títulos,descargar reporte [act122] ,ACT122,Descargar Reporte
+T080507,Realizar Arqueo de Títulos,informar resultado [act209] ,ACT209,Informar Resultado
+T080507,Realizar Arqueo de Títulos,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T080507,Realizar Arqueo de Títulos,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T080507,Realizar Arqueo de Títulos,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T080507,Realizar Arqueo de Títulos,validar respuesta [act345] ,ACT345,Validar Respuesta
+T080508,Realizar Conciliación Contable de Canales,conciliar información [cmt76] ,CMT76,Conciliar InformaciÃ³n
+T080508,Realizar Conciliación Contable de Canales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T080508,Realizar Conciliación Contable de Canales,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T080508,Realizar Conciliación Contable de Canales Físicos,conciliar información [cmt76] ,CMT76,Conciliar InformaciÃ³n
+T080508,Realizar Conciliación Contable de Canales Físicos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T080508,Realizar Conciliación Contable de Canales Físicos,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T080516,Conciliar Cuentas Contables de Recaudos,certificar cuentas contables de recaudos ,CP0469,Certificar cuenta
+T080516,Conciliar cuentas de Autorretención,consultar saldo en sap ,ACT103,Consultar Saldo
+T080516,Gestionar transacciones rechazadas de recaudos,validar respuesta de recuperaciones ,ACT345,Validar Respuesta
+T080516,Procedimientos de Contingencia,activar contingencia conciliar transacciones autorizadas pse y sss ,ACT363,Activar Contingencia
+T080516,Procedimientos de Contingencia,activar contingencia conciliar cuenta pyg ,ACT363,Activar Contingencia
+T080802,Cotización esquema de formación IBR,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T080802,Cotización esquema de formación IBR,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T080802,Cotización esquema de formación IBR,activar contingencia [act363] ,ACT363,Activar Contingencia
+T080802,Establecer estrategias,informar resultado [act209] ,ACT209,Informar Resultado
+T080802,Gestionar Riesgo de Crédito,informar resultado [act209] ,ACT209,Informar Resultado
+T080802,Gestionar Riesgo de Crédito,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T080802,Gestionar Riesgo de Crédito,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T080802,Habilitar trader,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T080802,Negociar y Administrar Operaciones de Tesorería Posición Propia,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T080802,Negociar y Administrar Operaciones de Tesorería Posición Propia,informar resultado [act209] ,ACT209,Informar Resultado
+T080802,Negociar y Administrar Operaciones de Tesorería Posición Propia,informar resultado de verificación ,ACT209,Informar Resultado
+T080802,Negociar y Administrar Operaciones de Tesorería Posición Propia,c006: monitorear operaciones por fuera de los 15 minutos ,ACT220,Monitorear Operaciones
+T080802,Negociar y Administrar Operaciones de Tesorería Posición Propia,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T080802,Procedimiento de Contingencia,activar contingencia [act363] ,ACT363,Activar Contingencia
+T080802,Procedimiento de Contingencia,activar contingencia ,ACT363,Activar Contingencia
+T080802,Procedimiento de Contingencia,restablecer operación normal [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T080902,Conciliar transacciones y contabilidad de ecosistemas,escalar caso[cmp75] ,CMP75,Asignar Solicitud
+T080902,Conciliar transacciones y contabilidad de ecosistemas,conciliar información[cmt76] ,CMT76,Conciliar InformaciÃ³n
+T080902,Conciliar transacciones y contabilidad de ecosistemas,conciliar información[cmt76 ,CMT76,Conciliar InformaciÃ³n
+T080902,Conciliar transacciones y contabilidad de ecosistemas,c009 certificar cuenta ,CP0469,Certificar cuenta
+T080902,Conciliar transacciones y contabilidad de ecosistemas,c005:certificar cuenta ,CP0469,Certificar cuenta
+T080902,Conciliar transacciones y contabilidad de ecosistemas,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T080902,Conciliar transacciones y contabilidad de ecosistemas,diligenciar formulario[act132] ,ACT132,Diligenciar Formulario
+T080902,Conciliar transacciones y contabilidad de ecosistemas,identificar inconsistencias ,ACT202,Identificar Inconsistencia
+T080902,Conciliar transacciones y contabilidad de ecosistemas,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T081001,Dispersar fondos,radicar solicitud de ajuste ,CMT79,Radicar Solicitud
+T081001,Dispersar fondos,rechazar solicitud ,ACT264,Rechazar Solicitud
+T081001,Facturar egresos y pago a terceros,generar documentos de pago ,CP1160,Generar documento
+T081001,Facturar egresos y pago a terceros,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T081001,Generar Facturacion Electronica,rechazar solicitud ,ACT264,Rechazar Solicitud
+T081001,Generar Facturación electrónica,rechazar solicitud ,ACT264,Rechazar Solicitud
+T081001,Gestionar ingresos y gastos de Ecosistemas,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T081001,Gestionar ingresos y gastos de ecosistemas,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T081001,Liquidar comisiones orquestador analítico,aprobar solicitud ,CMP77,Aprobar Solicitud
+T081001,Liquidar comisiones semiautomático,aprobar solicitud ,CMP77,Aprobar Solicitud
+T081001,Reversar comisión e IVA de comisión,actualizar registro ,ACT011,Actualizar Registro
+T081001,Reversar comisión e IVA de comisión,informar resultado ,ACT209,Informar Resultado
+T090101,Medir y analizar riesgo de mercado de tesorería,descargar reporte [act122] ,ACT122,Descargar Reporte
+T090101,Medir y analizar riesgo de mercado de tesorería,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T120003,Normalizar y responder al cliente ante eventos de seguridad,solicitar soportes (receptor fraude) ,ACT320,Solicitar Soporte
+T120003,Normalizar y responder al cliente ante eventos de seguridad,solicitar soportes (estafa) ,ACT320,Solicitar Soporte
+T120003,Normalizar y responder al cliente ante eventos de seguridad,solicitar soportes ,ACT320,Solicitar Soporte
+T120003,Normalizar y responder al cliente ante eventos de seguridad,documentar y cerrar solicitud ,ACT378,Cerrar Solicitud
+T120301,Procedimiento Contingente,activar contingencia operativa ,ACT363,Activar Contingencia
+T120301,Procedimiento de Contingencia,activar contingencia operativa ,ACT363,Activar Contingencia
+T120302,Consultas y desbloqueos,asignar solicitud a atender ,CMP75,Asignar Solicitud
+T120302,Consultas y desbloqueos,rechazar solicitud ,ACT264,Rechazar Solicitud
+T120302,Gestión Correo Segtrans,clasificar solicitud y priorizar ,CMP78,Clasificar Solicitud
+T120302,Gestión correo Segtrans,clasificar solicitud y priorizar ,CMP78,Clasificar Solicitud
+T120302,Montos Altos,m: cumplimiento de los servicios p: autenticar cliente usuario en sucursal ,ACT045,Autenticar Cliente
+T120302,Montos Altos,autenticar cliente-usuario en sucursal cmp59 ,ACT045,Autenticar Cliente
+T120302,Montos altos,autenticar cliente-usuario en sucursal cmp59 ,ACT045,Autenticar Cliente
+T120302,Procedimiento contingente,activar contingencia ,ACT363,Activar Contingencia
+T140002,Administrar Bienes Recibidos en Pago,c002 validar resultado estudio de títulos ,ACT347,Validar Resultado
+T140002,Administrar Bienes Recibidos en Pago,c003 validar resultado estudio de títulos ,ACT347,Validar Resultado
+T140002,Realizar Dación en pago - Restitución Voluntaria,radicar solicitud de ingreso ,CMT79,Radicar Solicitud
+T140003,T140003 Monitorear el servicio Ecosistemas,realizar extracción de información [cmf03] ,CMF03,Extraer informaciÃ³n del documento
+T140003,T140003 Monitorear el servicio Ecosistemas,realizar clasificación de información [cmf05] ,CMF05,Clasificar Documento Digital
+T140003,T140003 Monitorear el servicio Ecosistemas,escalar caso [cmp75] ,CMP75,Asignar Solicitud
+T140003,T140003 Monitorear el servicio Ecosistemas,procesar datos ,CP1070,Procesar dato
+T140003,T140003 Monitorear el servicio Ecosistemas,ajustar valor [act016] ,ACT016,Ajustar Valor
+T140003,T140003 Monitorear el servicio Ecosistemas,definir condición [act114] ,ACT114,Definir CondiciÃ³n
+T140003,T140003 Monitorear el servicio Ecosistemas,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T140003,T140003 Monitorear el servicio Ecosistemas,gestionar alerta [act181] ,ACT181,Atender Alerta
+T140003,T140003 Monitorear el servicio Ecosistemas,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T140003,T140003 Monitorear el servicio Ecosistemas,implementar solución [act204] ,ACT204,Implementar SoluciÃ³n
+T140003,T140003 Monitorear el servicio Ecosistemas,informar resultado [act209] ,ACT209,Informar Resultado
+T140003,T140003 Monitorear el servicio Ecosistemas,registrar alerta ,ACT210,Registrar Alerta
+T140003,T140003 Monitorear el servicio Ecosistemas,ingresar alerta [act210] ,ACT210,Registrar Alerta
+T140003,T140003 Monitorear el servicio Ecosistemas,registrar evento [act274] ,ACT274,Registrar Evento
+T140003,T140003 Monitorear el servicio Ecosistemas,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T140004,Contabilizar Bienes recibidos en Pago,elaborar informes de revelaciones financieras ,CMP86,Elaborar Informe
+T140112,"Vincular, actualizar y modificar proveedores",validar solicitud ,ACT348,Validar Solicitud
+T140112,"Vincular, modificar y actualizar proveedor",validar solicitud ,ACT348,Validar Solicitud
+T140705,Recibir y radicar requerimientos de Entidades Externas,c004: validar solicitud de cuentas ,ACT348,Validar Solicitud
+T140705,T140705 Recibir y radicar requerimientos de Entidades Externas,c004: validar solicitud de cuentas ,ACT348,Validar Solicitud
+T140707,Gestionar Requerimientos Legales sobre Clientes,c004: aprobar solicitud de prórroga ,CMP77,Aprobar Solicitud
+T140707,Gestionar Requerimientos Legales sobre Clientes,c004 aprobar solicitud de prórroga ,CMP77,Aprobar Solicitud
+T140707,Gestionar Requerimientos Legales sobre Clientes,c004 - aprobar solicitud de prórroga ,CMP77,Aprobar Solicitud
+T140707,T140707 Gestionar Requerimientos Legales sobre Clientes,c004: aprobar solicitud de prórroga ,CMP77,Aprobar Solicitud
+T141203,Gestionar los proyectos y programas de la Fundación Bancolombia,generar documento legal ,CP1160,Generar documento
+T160021,Actualizar beneficiarios de convenios de nómina y gestión reclamos masivos,registrar la solicitud en bizagi ,CP1417,Registrar la solicitud
+T160021,Aplicar Novedades Beneficiarios Ahorro a la Mano,validar solicitud de inscripción y modificación ,ACT348,Validar Solicitud
+T160021,Aplicar novedades beneficiarios Ahorro a la Mano,validar solicitud de inscripción y modificación ,ACT348,Validar Solicitud
+T160021,Atender Novedades de cuentas control,radicar solicitud novedad cuenta control o agente de garantías ,CMT79,Radicar Solicitud
+T160021,Atender Novedades de cuentas control,rechazar solicitud cerrar flujo ,ACT264,Rechazar Solicitud
+T160021,Atender Novedades de cuentas control,c023: recibir y validar solicitud ,ACT348,Validar Solicitud
+T160021,Atender Novedades de cuentas control,cerrar solicitud en bizagi ,ACT378,Cerrar Solicitud
+T160021,Atender novedades de Bolsillos,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160021,Atender novedades de cuentas control,radicar solicitud novedad cuenta control o agente de garantías ,CMT79,Radicar Solicitud
+T160021,Atender novedades de cuentas control,rechazar solicitud cerrar flujo ,ACT264,Rechazar Solicitud
+T160021,Atender novedades de cuentas control,c023: recibir y validar solicitud ,ACT348,Validar Solicitud
+T160021,Atender novedades de cuentas control,cerrar solicitud en bizagi ,ACT378,Cerrar Solicitud
+T160021,Atender solicitudes de AFC,c006: validar solicitud para registrar inmueble ,ACT348,Validar Solicitud
+T160021,Bloqueo masivo de cupo-plazo de sobregiro,radicar solicitud ,CMT79,Radicar Solicitud
+T160021,Bloqueo masivo de cupo-plazo de sobregiro,adjuntar respuesta y cerrar solicitud ,ACT378,Cerrar Solicitud
+T160021,Cambiar estado de cuentas,radicar solicitud ,CMT79,Radicar Solicitud
+T160021,Cambiar estado de cuentas,consultar información [act003] ,ACT003,Consultar InformaciÃ³n
+T160021,Cambiar estado de cuentas,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160021,Cambiar estado de cuentas,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160021,Cambiar estado de cuentas,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160021,Cambiar estado de cuentas,modificar estados de cuentas y cerrar solicitudes ,ACT378,Cerrar Solicitud
+T160021,Modificar cupos de sobregiro masivos,radicar solicitud ,CMT79,Radicar Solicitud
+T160021,Modificar cupos de sobregiro masivos,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160021,Realizar cambio masivo de planes,radicar solicitud de cambio masivo de plan ,CMT79,Radicar Solicitud
+T160021,Realizar inscripciones de cuentas,radicar solicitud de cambio de tasa ,CMT79,Radicar Solicitud
+T160021,Realizar inscripciones de cuentas,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160021,Realizar inscripciones de cuentas,rechazar solicitud en bizagi ,ACT264,Rechazar Solicitud
+T160021,Realizar inscripciones de cuentas,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160021,Realizar inscripciones de cuentas,"validar solicitud ""exoneración retención en la fuente por cuenta"" ",ACT348,Validar Solicitud
+T160021,Realizar inscripciones de cuentas,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160021,Realizar inscripciones de cuentas,c033: validar solicitud enviada por el cliente ,ACT348,Validar Solicitud
+T160021,Realizar marcación y desmarcación de la exención al GMF,realizar indexación y custodia de información [cmf02] ,CMF02,Custodiar Documento Digital
+T160021,Realizar marcación y desmarcación de la exención al GMF,radicar solicitud de contingencia ,CMT79,Radicar Solicitud
+T160021,Realizar marcación y desmarcación de la exención al GMF,actualizar condición [act005] ,ACT005,Actualizar CondiciÃ³n
+T160021,Realizar marcación y desmarcación de la exención al GMF,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160021,Realizar marcación y desmarcación de la exención al GMF,archivar documento [act032] ,ACT032,Archivar Documento
+T160021,Realizar marcación y desmarcación de la exención al GMF,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160021,Realizar marcación y desmarcación de la exención al GMF,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160021,Realizar marcación y desmarcación de la exención al GMF,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160021,Realizar marcación y desmarcación de la exención al GMF,informar resultado [act209] ,ACT209,Informar Resultado
+T160021,Realizar marcación y desmarcación de la exención al GMF,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160021,Realizar marcación y desmarcación de la exención al GMF,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160021,Realizar marcación y desmarcación de la exención al GMF,registrar evento [act274] ,ACT274,Registrar Evento
+T160021,Realizar marcación y desmarcación de la exención al GMF,validar documento [act331] ,ACT331,Validar Documento
+T160021,Realizar marcación y desmarcación de la exención al GMF,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160021,Realizar marcación y desmarcación de la exención al GMF,validar respuesta [act345] ,ACT345,Validar Respuesta
+T160021,Realizar marcación y desmarcación de la exención al GMF,devolver solicitud [act377] ,ACT377,Devolver Solicitud
+T160021,Realizar marcación y desmarcación de la exención al GMF,devolver solicitud para que sea corregida ,ACT377,Devolver Solicitud
+T160021,Realizar monitoreo de cuentas,radicar solicitud bizagi ,CMT79,Radicar Solicitud
+T160021,Realizar monitoreo de cuentas,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160021,Realizar monitoreo de cuentas,validar respuesta lectura tiempo real ,ACT345,Validar Respuesta
+T160021,Realizar monitoreo de cuentas,validar respuesta de lectura batch ,ACT345,Validar Respuesta
+T160021,Realizar monitoreo de cuentas,validar respuesta de lectura ,ACT345,Validar Respuesta
+T160021,Realizar monitoreo de cuentas,validar respuesta lectura en batch ,ACT345,Validar Respuesta
+T160021,Realizar monitoreo de cuentas,validar resultado de la lectura crédito ,ACT347,Validar Resultado
+T160021,Realizar novedad de Inembargabilidad a cuentas ahorros y corrientes,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160021,Realizar novedad de inembargabilidad a cuentas de ahorro y corriente,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160021,Realizar parametrizaciones,radicar solicitud para asignar tasa especial a la oe ,CMT79,Radicar Solicitud
+T160021,Realizar parametrizaciones,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160021,Trasladar fondos cuenta maestras pagadoras,radicar solicitud ,CMT79,Radicar Solicitud
+T160021,Trasladar fondos cuenta maestras pagadoras,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160021,Trasladar fondos cuenta maestras pagadoras,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160028,Administrar Extractos Especiales,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160028,Atender solicitudes mensajes MT940-CAMT053,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160028,Generar Extractos Especiales,validar solicitud del cliente ,ACT348,Validar Solicitud
+T160028,Gestionar Extractos Especiales,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160028,Gestionar Extractos Especiales,validar solicitud ,ACT348,Validar Solicitud
+T160028,Gestionar Extractos Especiales,c002 validar solicitud ,ACT348,Validar Solicitud
+T160028,Inscribir mensaje MT940-CAMT053,radicar solicitud en bizagi ,CMT79,Radicar Solicitud
+T160028,Modificar mensaje MT940-CAMT053,radicar solicitud en sap crm ,CMT79,Radicar Solicitud
+T160028,Monitorear Extractos MT940-CAMT053,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160028,Monitorear Extractos MT940-CAMT053,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160028,Monitorear Extractos MT940-CAMT053,informar resultado [act209] ,ACT209,Informar Resultado
+T160028,Monitorear Extractos MT940-CAMT053,informar resultado del monitoreo ,ACT209,Informar Resultado
+T160028,Monitorear Extractos MT940-CAMT053,monitorear servicio [act222] ,ACT222,Monitorear Servicio
+T160028,Realizar Validacion de Extractos Especiales,informar resultado de la validación ,ACT209,Informar Resultado
+T160028,Realizar soporte de extractos Especiales,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160028,Retirar mensaje MT940-CAMT053,radicar solicitud en sap crm ,CMT79,Radicar Solicitud
+T160050,Realizar conciliación contable TDC,consultar saldos sap ,ACT103,Consultar Saldo
+T160050,Realizar la Razonabilidad de PyG,elaborar informe de análisis de razonabilidad con sus respectivas justificaciones ,CMP86,Elaborar Informe
+T160057,Actualizar información Comercios Tradicional,radicar solicitud ,CMT79,Radicar Solicitud
+T160057,Actualizar información Comercios Tradicional,procesar solicitud recibida ,ACT238,Procesar Solicitud
+T160057,Actualizar información Comercios Tradicional,rechazar solicitud recibida ,ACT264,Rechazar Solicitud
+T160057,Actualizar información Comercios Tradicional,validar respuesta de las redes ,ACT345,Validar Respuesta
+T160057,Autorizar Maquina Imprinter,procesar solicitud recibida ,ACT238,Procesar Solicitud
+T160057,Autorizar Maquina Imprinter,procesar solicitud ,ACT238,Procesar Solicitud
+T160057,Cambiar cuentas a comercios RAM 65,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160057,Cambiar cuentas a comercios Tradicional,radicar solicitud en bizagigo ,CMT79,Radicar Solicitud
+T160057,Cambiar cuentas a comercios Tradicional,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160057,Cambiar cuentas a comercios Tradicional,rechazar solicitud recibida ,ACT264,Rechazar Solicitud
+T160057,Procesar cambios de comisión a comercios RAM 65,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160057,Procesar cambios de comisión a comercios Tradicionales,radicar solicitud en bizagigo ,CMT79,Radicar Solicitud
+T160057,Procesar cambios de comisión a comercios Tradicionales,rechazar solicitud recibida ,ACT264,Rechazar Solicitud
+T160057,Procesar cambios de comisión a comercios Tradicionales,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160057,Procesar novedades a comercios Conexión Directa,cerrar caso como exitoso en flujo de flujos ,CP0061,Cerrar caso.
+T160057,Procesar novedades a comercios Conexión Directa,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160057,Procesar novedades a comercios Conexión Directa,devolver solicitud ,ACT377,Devolver Solicitud
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,reasignar solicitud recibida ,CMP75,Asignar Solicitud
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,aprobar solicitud recibida ,CMP77,Aprobar Solicitud
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,radicar solicitud en bizagi flujo de flujos ,CMT79,Radicar Solicitud
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,procesar solicitud recibida ,ACT238,Procesar Solicitud
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,rechazar solicitud recibida ,ACT264,Rechazar Solicitud
+T160057,Procesar novedades a comercios MULTIFRANQUICIAS REDEBAN,recibir y validar solicitud ,ACT348,Validar Solicitud
+T160057,Procesar novedades a comercios VISA REDEBAN,reasignar solicitud recibida ,CMP75,Asignar Solicitud
+T160057,Procesar novedades a comercios VISA REDEBAN,aprobar solicitud recibida ,CMP77,Aprobar Solicitud
+T160057,Procesar novedades a comercios VISA REDEBAN,radicar solicitud en bizagi flujo de flujos ,CMT79,Radicar Solicitud
+T160057,Procesar novedades a comercios VISA REDEBAN,procesar solicitud recibida ,ACT238,Procesar Solicitud
+T160057,Procesar novedades a comercios VISA REDEBAN,rechazar solicitud recibida ,ACT264,Rechazar Solicitud
+T160057,Procesar novedades a comercios VISA REDEBAN,recibir y validar solicitud ,ACT348,Validar Solicitud
+T160057,Procesar novedades a comercios institución 63,cerrar caso como exitoso en flujo de flujos ,CP0061,Cerrar caso.
+T160057,Procesar novedades a comercios institución 63,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160057,Procesar novedades a comercios institución 63,devolver solicitud ,ACT377,Devolver Solicitud
+T160065,Afiliar SubComercios Modelo Agregador,archivar documento [act032] ,ACT032,Archivar Documento
+T160065,Afiliar SubComercios Modelo Agregador,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160065,Afiliar SubComercios Modelo Agregador,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160065,Afiliar SubComercios Modelo Agregador,c019 validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160065,Afiliar SubComercios Modelo Agregador,validar respuesta [act345] ,ACT345,Validar Respuesta
+T160065,Afiliar comercios a la red American Express,procesar solicitudes de afiliación y nit de comercios ,ACT238,Procesar Solicitud
+T160065,Afiliar comercios aceptación de pagos tradicional,radicar solicitud en bizagigo ,CMT79,Radicar Solicitud
+T160065,Afiliar comercios aceptación de pagos tradicional,generar documentos ,CP1160,Generar documento
+T160065,Afiliar comercios aceptación de pagos tradicional,rechazar solicitud recibida ,ACT264,Rechazar Solicitud
+T160065,Procesar vinculaciones a comercios aceptación de pagos tradicional,generar documentos ,CP1160,Generar documento
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,ajustar valor [act016] ,ACT016,Ajustar Valor
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,anular solicitud [act024] ,ACT024,Cancelar Solicitud
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,anular solicitud [act024] - 1 ,ACT024,Cancelar Solicitud
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,cmp59: autenticar cliente-usuario en sucursal ,ACT045,Autenticar Cliente
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,autorizar transaccion [act052] ,ACT052,Autorizar TransacciÃ³n
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,rechazar solicitud [act264] - 1 ,ACT264,Rechazar Solicitud
+T160076,Contingencia 1 Realizar Pago Para Mercado de Capitales,reportar error [act285] ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,controlar acceso [act106] ,ACT106,Controlar Acceso
+T160076,Contingencia Autopista Davivienda,descargar reporte [act122]-3 ,ACT122,Descargar Reporte
+T160076,Contingencia Autopista Davivienda,descargar reporte [act122]-1 ,ACT122,Descargar Reporte
+T160076,Contingencia Autopista Davivienda,descargar reporte [act122]-2 ,ACT122,Descargar Reporte
+T160076,Contingencia Autopista Davivienda,detener proceso [act128]-3 ,ACT128,Detener Proceso
+T160076,Contingencia Autopista Davivienda,detener proceso [act128]-2 ,ACT128,Detener Proceso
+T160076,Contingencia Autopista Davivienda,detener proceso [act128]-1 ,ACT128,Detener Proceso
+T160076,Contingencia Autopista Davivienda,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160076,Contingencia Autopista Davivienda,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160076,Contingencia Autopista Davivienda,obtener confirmación [act231]-6 ,ACT231,Obtener ConfirmaciÃ³n
+T160076,Contingencia Autopista Davivienda,obtener confirmación [act231]-3 ,ACT231,Obtener ConfirmaciÃ³n
+T160076,Contingencia Autopista Davivienda,obtener confirmación [act231]-2 ,ACT231,Obtener ConfirmaciÃ³n
+T160076,Contingencia Autopista Davivienda,obtener confirmación [act231]-1 ,ACT231,Obtener ConfirmaciÃ³n
+T160076,Contingencia Autopista Davivienda,obtener confirmación [act231]-5 ,ACT231,Obtener ConfirmaciÃ³n
+T160076,Contingencia Autopista Davivienda,obtener confirmación [act231]-4 ,ACT231,Obtener ConfirmaciÃ³n
+T160076,Contingencia Autopista Davivienda,procesar pago [act237] ,ACT237,Procesar Pago
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 1 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285]-7 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 8 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 6 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 5 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 4 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 3 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reportar error [act285] - 2 ,ACT285,Registrar Incidente
+T160076,Contingencia Autopista Davivienda,reversar transacción [act290] ,ACT290,Reversar TransacciÃ³n
+T160076,Contingencia Autopista Davivienda,revisar configuración [act294] ,ACT294,Revisar ConfiguraciÃ³n
+T160076,Contingencia Autopista Davivienda,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160076,Contingencia Autopista Davivienda,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160076,Contingencia Autopista Davivienda,validar información [act341] - 2 ,ACT341,Validar InformaciÃ³n
+T160076,Contingencia Autopista Davivienda,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160076,Contingencia Autopista Davivienda,validar información [act341] - 1 ,ACT341,Validar InformaciÃ³n
+T160076,Contingencia Autopista Davivienda,validar resultado [act347] - 4 ,ACT347,Validar Resultado
+T160076,Contingencia Autopista Davivienda,validar resultado [act347] - 3 ,ACT347,Validar Resultado
+T160076,Contingencia Autopista Davivienda,validar resultado [act347] - 2 ,ACT347,Validar Resultado
+T160076,Contingencia Autopista Davivienda,validar resultado [act347] - 1 ,ACT347,Validar Resultado
+T160076,Contingencia Autopista Davivienda,modificar documento [act374] ,ACT374,Actualizar Documento
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 9 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 8 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 7 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 5 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 3 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 2 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 1 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 6 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 4 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia Autopista Davivienda,restablecer operación [act375] - 10 ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Contingencia PAB,gestionar inconsistencia [act191] ,ACT191,Gestionar Inconsistencias
+T160076,Contingencia PAB,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160076,Contingencia PAB,procesar pago [act237] ,ACT237,Procesar Pago
+T160076,Contingencia Realizar pago para Mercado de Capitales,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160076,Contingencia Realizar pago para Mercado de Capitales,informar resultado [act209] ,ACT209,Informar Resultado
+T160076,Contingencia Realizar pago para Mercado de Capitales,realizar simulación [act262] ,ACT262,Realizar SimulaciÃ³n
+T160076,Contingencia Realizar pago para Mercado de Capitales,registrar evento [act274] ,ACT274,Registrar Evento
+T160076,Contingencia Realizar pago para Mercado de Capitales,activar contingencia ,ACT363,Activar Contingencia
+T160076,Contingencia Realizar pago para Mercado de Capitales,activar la contingencia [act363] - 2 ,ACT363,Activar Contingencia
+T160076,Contingencia Realizar pago para Mercado de Capitales,activar la contingencia [act363] - 1 ,ACT363,Activar Contingencia
+T160076,Contingencia Realizar pago para Mercado de Capitales,activar la contingencia [act363] ,ACT363,Activar Contingencia
+T160076,Contingencia Realizar pago para Mercado de Capitales,restablecer operación [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T160076,Realizar Movimientos CIBEST,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160076,Realizar Movimientos CIBEST,emitir comprobante [act142] ,ACT142,Emitir Comprobante
+T160076,Realizar Movimientos CIBEST,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160076,Realizar Movimientos CIBEST,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160076,Realizar Movimientos CIBEST,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160076,Realizar Movimientos CIBEST,procesar pago [act237] ,ACT237,Procesar Pago
+T160076,Realizar Movimientos CIBEST,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160076,Realizar Movimientos CIBEST,ejecutar transacción [act380] ,ACT380,Ejecutar TransacciÃ³n
+T160076,Realizar pago para Mercado de Capitales,anular solicitud [act024] ,ACT024,Cancelar Solicitud
+T160076,Realizar pago para Mercado de Capitales,cmp59: autenticar cliente-usuario en sucursal ,ACT045,Autenticar Cliente
+T160076,Realizar pago para Mercado de Capitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160076,Realizar pago para Mercado de Capitales,procesar pago [act237] ,ACT237,Procesar Pago
+T160076,Realizar pago para Mercado de Capitales,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160076,Realizar pago para Mercado de Capitales,rechazar solicitud [act264] -1 ,ACT264,Rechazar Solicitud
+T160076,Realizar pago para Mercado de Capitales,rechazar solicitud [act264] - 2 ,ACT264,Rechazar Solicitud
+T160076,Realizar pagos de derivados NDF e interbancarios,ajustar valor [act016] ,ACT016,Ajustar Valor
+T160076,Realizar pagos de derivados NDF e interbancarios,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160076,Realizar pagos de derivados NDF e interbancarios,gestionar inconsistencia [act191] ,ACT191,Gestionar Inconsistencias
+T160076,Realizar pagos de derivados NDF e interbancarios,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160077,Complementar Operaciones de Tesoreria,gestionar inconsistencias para corregir registro ,ACT191,Gestionar Inconsistencias
+T160077,Complementar Operaciones de Tesorería,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160077,Complementar Operaciones de Tesorería,gestionar inconsistencias para corregir registro ,ACT191,Gestionar Inconsistencias
+T160077,Complementar Operaciones de Tesorería,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160077,Generar Papeletas (Valores),archivar documento [act032] ,ACT032,Archivar Documento
+T160077,Modificar y Corregir Operaciones Bolsa (Valores),cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160077,Modificar y Corregir Operaciones Bolsa (Valores),descargar reporte [act122] ,ACT122,Descargar Reporte
+T160077,Modificar y Corregir Operaciones Bolsa (Valores),diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160077,Modificar y Corregir Operaciones Bolsa (Valores),informar resultado [act209] ,ACT209,Informar Resultado
+T160077,Procedimiento Contingente,activar contingencia ,ACT363,Activar Contingencia
+T160077,Procedimiento Contingente,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160077,Procedimiento Contingente,restablecer operación normal [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T160080,Administrar Valoración de Portafolios y Tasas para Negociación,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160080,Administrar Valoración de Portafolios y Tasas para Negociación,reportar error [act285] ,ACT285,Registrar Incidente
+T160080,Cargar tasas para negociación,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160080,Cargar tasas para negociación,informar resultado [act209] ,ACT209,Informar Resultado
+T160082,Validar Compensación de Operaciones de Tesorería,ajustar valor [act016] ,ACT016,Ajustar Valor
+T160082,Validar Compensación de Operaciones de Tesorería,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160082,Validar Compensación de Operaciones de Tesorería,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160082,Validar Compensación de Operaciones de Tesorería,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160084,Administrar Derechos Patrimoniales,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160084,Administrar Derechos Patrimoniales,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160084,Administrar Derechos Patrimoniales,procesar pago [act237] ,ACT237,Procesar Pago
+T160084,Administrar Derechos Patrimoniales,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160084,Administrar Derechos Patrimoniales,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160085,Realizar Confirmación de Operaciones de Tesorería,asignar responsable [act039] ,ACT039,Asignar Responsable
+T160085,Realizar Confirmación de Operaciones de Tesorería,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160085,Realizar Confirmación de Operaciones de Tesorería,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160085,Realizar Confirmación de Operaciones de Tesorería,informar resultado [act209] ,ACT209,Informar Resultado
+T160085,Realizar Confirmación de Operaciones de Tesorería,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160085,Validar Operaciones de Tesorería,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160085,Validar Operaciones de Tesorería,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160085,Validar Operaciones de Tesorería,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160085,Validar Operaciones de Tesorería,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160085,Validar Operaciones de Tesorería,validar respuesta [act345] ,ACT345,Validar Respuesta
+T160086,Cumplir operaciones de tesorería por depósitos y por sistemas de pago y recaudo,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160086,Cumplir operaciones mercado de capitales,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160086,Cumplir operaciones mercado de capitales,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160087,Atencion créditos de empleados,radicar solicitud de mantenimiento en el sistema para leasing habitacional ,CMT79,Radicar Solicitud
+T160087,Atencion créditos de empleados,radicar solicitud de mantenimiento en el sistema para credito hipotecario ,CMT79,Radicar Solicitud
+T160087,Atender Solicitudes Posventa Cartera Hipotecaria y Constructor,radicar solicitud ,CMT79,Radicar Solicitud
+T160087,Atender solicitudes de Alivios Covid 19 - Circular 22,radicar solicitudes en bizagi ,CMT79,Radicar Solicitud
+T160087,"Cambiar plan, plazo y modalidad de productos hipotecarios",recibir solicitud del cliente y radicar solicitud ,CMT79,Radicar Solicitud
+T160087,Ejecutar mantenimientos de cartera hipotecaria,reasignar solicitud a la célula vip. ,CMP75,Asignar Solicitud
+T160087,Ejecutar mantenimientos de cartera hipotecaria,radicar solicitud ,CMT79,Radicar Solicitud
+T160087,Ejecutar mantenimientos de cartera hipotecaria,radicar solicitud de mantenimiento en el sistema ,CMT79,Radicar Solicitud
+T160087,Ejecutar mantenimientos de cartera hipotecaria,cerrar solicitud de mantenimiento ,ACT378,Cerrar Solicitud
+T160090,Procedimiento contingencia,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160090,Procedimiento contingencia,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160090,Recibir abonos de cartera hipotecaria,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160090,Recibir abonos de cartera hipotecaria,autorizar transacción [act052] ,ACT052,Autorizar TransacciÃ³n
+T160090,Recibir abonos de cartera hipotecaria,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160090,Recibir abonos de cartera hipotecaria,informar resultado [act209] ,ACT209,Informar Resultado
+T160090,Recibir abonos de cartera hipotecaria,reversar transacción [act290] ,ACT290,Reversar TransacciÃ³n
+T160090,Recibir abonos de cartera hipotecaria,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160090,Recibir abonos de cartera hipotecaria,validar operación [act342] ,ACT342,Validar TransacciÃ³n
+T160092,Generar y transmitir informes Solución Inmobiliaria,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160092,Generar y transmitir informes Solución Inmobiliaria,confirmar registro [act095] ,ACT095,Confirmar Registro
+T160092,Generar y transmitir informes Solución Inmobiliaria,consolidar información [act098] ,ACT098,Consolidar InformaciÃ³n
+T160092,Generar y transmitir informes Solución Inmobiliaria,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160092,Generar y transmitir informes Solución Inmobiliaria,monitorear alertas [act218] ,ACT218,Monitorear Alertas
+T160092,Generar y transmitir informes Solución Inmobiliaria,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160092,Generar y transmitir informes Solución Inmobiliaria,revisar configuración [act294] ,ACT294,Revisar ConfiguraciÃ³n
+T160092,Generar y transmitir informes Solución Inmobiliaria,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160092,Generar y transmitir informes Solución Inmobiliaria,solicitar soporte [act320] ,ACT320,Solicitar Soporte
+T160092,Generar y transmitir informes Solución Inmobiliaria,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160092,Generar y transmitir informes Solución Inmobiliaria,c004:validar resultados herramientas ,ACT347,Validar Resultado
+T160092,Generar y transmitir informes Solución Inmobiliaria,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160092,Generar y transmitir informes de cartera hipotecaria,c004:validar resultados herramientas ,ACT347,Validar Resultado
+T160099,Administrar Convenios Empresariales de Cartera,identificar diferencias contables ,CP0292,Identificar diferencias contables
+T160099,Administrar Convenios Empresariales de Cartera,procesar pagos ,ACT237,Procesar Pago
+T160099,Administrar Convenios Empresariales de Cartera,rechazar solicitud en sap-crm ,ACT264,Rechazar Solicitud
+T160099,Administrar Convenios Empresariales de Cartera,devolver solicitud ,ACT377,Devolver Solicitud
+T160099,Enviar información y novedades a convenios,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160099,Gestionar convenios,radicar solicitud ,CMT79,Radicar Solicitud
+T160099,Gestionar convenios,validar solicitud ,ACT348,Validar Solicitud
+T160099,Gestionar convenios,devolver solicitud ,ACT377,Devolver Solicitud
+T160100,Administrar servicios y asesorias Outsourcing,elaborar informe de indicadores ,CMP86,Elaborar Informe
+T160100,Administrar servicios y asesorias Outsourcing,radicar solicitud de beneficiarios de icr ,CMT79,Radicar Solicitud
+T160100,Administrar servicios y asesorias Outsourcing,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T160100,Gestionar Comisiones 4G Findeter,radicar solicitud ,CMT79,Radicar Solicitud
+T160100,Gestionar Comisiones 4G Findeter,devolver solicitud ,ACT377,Devolver Solicitud
+T160100,Gestionar Crédito PADA,calcular valor a cobrar por intereses ,CP0390,Calcular valor a cobrar
+T160100,Gestionar Informes y Solicitud de Firmas a las entidades,validar solicitud de autorización de firma o correo ,ACT348,Validar Solicitud
+T160100,Gestionar cancelación y prepago parcial,c002: aprobar solicitud de prepagos y cancelaciones ,CMP77,Aprobar Solicitud
+T160100,Gestionar crédito Línea Bancoldex Aprogresar,notificar al comercial y archivar documentos del incentivo ibc ,ACT032,Archivar Documento
+T160100,Gestionar solicitud de modificación  de condiciones de crédito,radicar solicitud a la entidad de redescuento ,CMT79,Radicar Solicitud
+T160107,Aplicar Pagos a la Cartera,radicar solicitud de pago ,CMT79,Radicar Solicitud
+T160107,Aplicar Pagos a la Cartera,procesar pagos ,ACT237,Procesar Pago
+T160107,Aplicar Pagos a la Cartera,devolver solicitud inconsistente ,ACT377,Devolver Solicitud
+T160107,Aplicar Pagos a la Cartera,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160107,Generar informe de cartera,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160107,Recibir abonos de cartera,radicar solicitud ,CMT79,Radicar Solicitud
+T160107,Recibir y Pagar Otras Comisiones,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160108,Atender eventos atípicos,radicar solicitud de mantenimiento ,CMT79,Radicar Solicitud
+T160108,Cambiar de Cuenta Débito Automático de Cartera,devolver solicitud al cliente para que sea corregida ,ACT377,Devolver Solicitud
+T160108,Ejecutar Mantenimientos de Cartera,c012 - validar documentos indexados para aplicar mantemientos a obligaciones ,ACT331,Validar Documento
+T160108,Ejecutar Mantenimientos de Cartera,devolver solicitud ,ACT377,Devolver Solicitud
+T160108,Ejecutar Mantenimientos de Cartera,cerrar solicitud de la aplicación del mantenimiento ,ACT378,Cerrar Solicitud
+T160108,Gestionar Novedades de Cartera de Financiación,radicar solicitud ,CMT79,Radicar Solicitud
+T160108,Gestionar Novedades de Cartera de Financiación,devolver solicitud ,ACT377,Devolver Solicitud
+T160108,Gestionar Novedades de Cartera de Financiación,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160108,Realizar monitoreo a la cartera,radicar solicitud de mantenimiento ,CMT79,Radicar Solicitud
+T160109,Administrar MAP,devolver solicitud ,ACT377,Devolver Solicitud
+T160109,Administrar Parámetros del Aplicativo en Cartera,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160109,Administrar Parámetros del Aplicativo en Cartera,cerrar solicitud de bizagi ,ACT378,Cerrar Solicitud
+T160112,Constituir Garantía FNG y FAG,asignar solicitud bizagi ,CMP75,Asignar Solicitud
+T160112,Constituir Garantía FNG y FAG,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160112,Constituir Garantía FNG y FAG,actualizar registro ,ACT011,Actualizar Registro
+T160112,Constituir Garantía FNG y FAG,archivar documento [act032] ,ACT032,Archivar Documento
+T160112,Constituir Garantía FNG y FAG,archivar documento ,ACT032,Archivar Documento
+T160112,Constituir Garantía FNG y FAG,asignar responsable [act039] ,ACT039,Asignar Responsable
+T160112,Constituir Garantía FNG y FAG,asignar responsable ,ACT039,Asignar Responsable
+T160112,Constituir Garantía FNG y FAG,confirmar registro [act095] ,ACT095,Confirmar Registro
+T160112,Constituir Garantía FNG y FAG,confirmar registro ,ACT095,Confirmar Registro
+T160112,Constituir Garantía FNG y FAG,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160112,Constituir Garantía FNG y FAG,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160112,Constituir Garantía FNG y FAG,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantía FNG y FAG,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantía FNG y FAG,c020: gestionar inconsistencias del registro ante el fng ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantía FNG y FAG,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160112,Constituir Garantía FNG y FAG,identificar inconsistencia ,ACT202,Identificar Inconsistencia
+T160112,Constituir Garantía FNG y FAG,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160112,Constituir Garantía FNG y FAG,devolver o rechazar solicitud ,ACT264,Rechazar Solicitud
+T160112,Constituir Garantía FNG y FAG,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160112,Constituir Garantía FNG y FAG,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160112,Constituir Garantía FNG y FAG,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160112,Constituir Garantía FNG y FAG,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160112,Constituir Garantía FNG y FAG,validar respuesta [act345] ,ACT345,Validar Respuesta
+T160112,Constituir Garantía FNG y FAG,validar respuesta ,ACT345,Validar Respuesta
+T160112,Constituir Garantía FNG y FAG,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160112,Constituir Garantía FNG y FAG,validar solicitud ,ACT348,Validar Solicitud
+T160112,Constituir Garantía Hipotecaria Comercial,custodiar documentos definitivo datafile ,CP1109,Custodiar documento
+T160112,Constituir Garantía Hipotecaria Comercial,archivar documento ,ACT032,Archivar Documento
+T160112,Constituir Garantía Hipotecaria Comercial,asignar responsable ,ACT039,Asignar Responsable
+T160112,Constituir Garantías Covenant,elaborar informe ,CMP86,Elaborar Informe
+T160112,Constituir Garantías Covenant,validar solicitud ,ACT348,Validar Solicitud
+T160112,Constituir Garantías Covenant,devolver solicitud ,ACT377,Devolver Solicitud
+T160112,Constituir Garantías FNG y FAG,asignar solicitud bizagi ,CMP75,Asignar Solicitud
+T160112,Constituir Garantías FNG y FAG,c020: gestionar inconsistencias del registro ante el fng ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantías FNG y FAG,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160112,Constituir Garantías FNG y FAG,devolver o rechazar solicitud ,ACT264,Rechazar Solicitud
+T160112,Constituir Garantías Prendas Especiales,custodiar documentos definitivo datafile ,CP1109,Custodiar documento
+T160112,Constituir Garantías Prendas Especiales,generar documento legal ,CP1160,Generar documento
+T160112,Constituir Garantías Prendas Especiales,archivar documento ,ACT032,Archivar Documento
+T160112,Constituir Garantías Prendas Especiales,asignar responsable ,ACT039,Asignar Responsable
+T160112,Constituir Garantías Prendas Especiales,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantías Stand By,validar solicitud ,ACT348,Validar Solicitud
+T160112,Constituir Garantías Stand By,devolver solicitud ,ACT377,Devolver Solicitud
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,radicar solicitud ,CMT79,Radicar Solicitud
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,custodiar documentos definitivo datafile ,CP1109,Custodiar documento
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,generar documento legal ,CP1160,Generar documento
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,archivar documento ,ACT032,Archivar Documento
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,gestionar inconsistencias identificadas ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,validar solicitud ,ACT348,Validar Solicitud
+T160112,Constituir garantía no hipotecaria,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160112,Constituir garantía no hipotecaria,c011: validar documentos originales ,ACT331,Validar Documento
+T160112,Constituir garantía no hipotecaria,c012- cp: validar solicitud ,ACT348,Validar Solicitud
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,radicar solicitud para causación del gasto de las franquicias ,CMT79,Radicar Solicitud
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,confirmar registro [act095] ,ACT095,Confirmar Registro
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,emitir comprobante [act142] ,ACT142,Emitir Comprobante
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T160117,Administrar el pago de facturas y cobros para las Redes y Franquicias,registrar operación contable [act371] ,ACT371,Registrar OperaciÃ³n Contable
+T160141,Administrar inventario -solicitudes de Colectivos,radicar solicitud de asociación a clientes ,CMT79,Radicar Solicitud
+T160141,Administrar inventario -solicitudes de Colectivos,informar resultado de la asignación ,ACT209,Informar Resultado
+T160141,Entregar tarjetas y claves débito,realizar trazabilidad ,ACT301,Realizar Trazabilidad
+T160146,Procedimiento Contingente,generar documentos de la operación ,CP1160,Generar documento
+T160146,Procedimiento Contingente,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160146,Procedimiento contingente,radicar solicitud serv. instrumental produc. ,CMT79,Radicar Solicitud
+T160146,Procedimiento contingente,radicar solicitud de desembolso ,CMT79,Radicar Solicitud
+T160146,Procedimiento contingente,generar documentos de la operación ,CP1160,Generar documento
+T160146,Procedimiento contingente,devolver solicitud al comercial ,ACT377,Devolver Solicitud
+T160146,Solicitar desembolso,consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+T160146,Solicitar desembolso,cmp: 84 consultar listas restrictivas ,CMF16,Consultar Listas Restrictivas
+T160146,Solicitar desembolso,radicar solicitud serv. instrumental produc. ,CMT79,Radicar Solicitud
+T160146,Solicitar desembolso,radicar solicitud revisión cámara de comercio pic ,CMT79,Radicar Solicitud
+T160146,Solicitar desembolso,radicar solicitud de desembolso ,CMT79,Radicar Solicitud
+T160146,Solicitar desembolso,radicar solicitud a la gcia de servicios regionales (ose) ,CMT79,Radicar Solicitud
+T160146,Solicitar desembolso,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160146,Solicitar desembolso,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160146,Solicitar desembolso,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160146,Solicitar desembolso,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160146,Solicitar desembolso,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160146,Solicitar desembolso,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160146,Solicitar desembolso,devolver solicitud al comercial ,ACT377,Devolver Solicitud
+T160147,"Contingencia, fecha actualización 2025-07-08",recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160147,"Contingencia, fecha actualización 2025-07-08",activar contingencia [act363] ,ACT363,Activar Contingencia
+T160147,Procedimiento Contingente,radicar solicitud de calidad desembolso ,CMT79,Radicar Solicitud
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,asignar solicitud de desembolso ,CMP75,Asignar Solicitud
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,radicar solicitud de calidad desembolso ,CMT79,Radicar Solicitud
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,radicar solicitud de calidad decreto y montos ,CMT79,Radicar Solicitud
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,confirmar registro [act095] ,ACT095,Confirmar Registro
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,reportar error [act285] ,ACT285,Registrar Incidente
+T160147,Realizar Desembolso de Crédito Comercial y Consumo,devolver solicitud de desembolso ,ACT377,Devolver Solicitud
+T160148,Desembolsar Cartera a través de Líneas Virtuales,gestionar inconsistencias evidenciadas por el sistema ,ACT191,Gestionar Inconsistencias
+T160150,Realizar solicitud Bancoldex,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160150,Realizar solicitud Bancoldex,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160150,Realizar solicitud Bancoldex,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160150,Realizar solicitud Bancoldex,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160150,Realizar solicitud Bancoldex,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160150,Realizar solicitud Bancoldex,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160150,Realizar solicitud Bancoldex,validar documento [act331] ,ACT331,Validar Documento
+T160150,Realizar solicitud Bancoldex,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160150,Realizar solicitud Finagro,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160150,Realizar solicitud Finagro,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160150,Realizar solicitud Finagro,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160150,Realizar solicitud Finagro,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160150,Realizar solicitud Findeter,aprobar solicitud por disponibilidad de recursos ,CMP77,Aprobar Solicitud
+T160150,Realizar solicitud Findeter,aprobar solicitud [cmp77] ,CMP77,Aprobar Solicitud
+T160150,Realizar solicitud Findeter,radicar solicitud desembolso findeter fdef ,CMT79,Radicar Solicitud
+T160150,Realizar solicitud Findeter,radicar solicitud código de tasa ,CMT79,Radicar Solicitud
+T160150,Realizar solicitud Findeter,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160150,Realizar solicitud Findeter,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160150,Realizar solicitud Findeter,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160150,Realizar solicitud Findeter,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160150,Realizar solicitud Findeter,rechazar solicitud por agotamiento recursos ,ACT264,Rechazar Solicitud
+T160150,Realizar solicitud Findeter,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160150,Solicitar desembolso crédito de redescuento,radicar solicitud a la ose ,CMT79,Radicar Solicitud
+T160150,Solicitar desembolso crédito de redescuento,radicar solicitud a la gcia de servicios regionales (ose) ,CMT79,Radicar Solicitud
+T160150,Solicitar desembolso crédito de redescuento,radicar solicitud desembolso findeter ,CMT79,Radicar Solicitud
+T160150,Solicitar desembolso crédito de redescuento,radicar solicitud consulta vlr disponible ,CMT79,Radicar Solicitud
+T160150,Solicitar desembolso crédito de redescuento,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160150,Solicitar desembolso crédito de redescuento,definir y aprobar políticas de cumplimiento [cp0016) ,CP0016,Definir y aprobar polÃ­ticas de cumplimiento.
+T160150,Solicitar desembolso crédito de redescuento,gestionar alertas [cp0191] ,CP0191,Gestionar alertas
+T160150,Solicitar desembolso crédito de redescuento,gestionar alerta [act181] ,ACT181,Atender Alerta
+T160150,Solicitar desembolso crédito de redescuento,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160150,Solicitar desembolso crédito de redescuento,devolver solicitud al comercial ,ACT377,Devolver Solicitud
+T160155,Gestionar contraprestaciones de aliados Sufi,m: gestión financiera p: administrar y gestionar procesos contables ,ACT192,Gestionar Proceso
+T160155,Procesar comisiones a vendedores Sufi,gestionar inconsistencias del archivo ,ACT191,Gestionar Inconsistencias
+T160155,Procesar contraprestación de comercios y vendedores,m: gestión financiera p: administrar y gestionar procesos contables ,ACT192,Gestionar Proceso
+T160157,Realizar cobros de cuota de manejo de tarjetas débito,consultar saldo de la cuenta ,ACT103,Consultar Saldo
+T160157,Realizar cobros de cuota de manejo de tarjetas débito,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160157,Realizar controles para cuota de manejo,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160158,Procesar novedad cancelación masiva,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T160158,Procesar novedad cancelación masiva,validar información[act341] ,ACT341,Validar InformaciÃ³n
+T160158,Procesar novedades por autogestión,autenticar cliente [act045] ,ACT045,Autenticar Cliente
+T160158,Procesar novedades por autogestión,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160158,Procesar novedades por autogestión,monitorear operaciones [act220] ,ACT220,Monitorear Operaciones
+T160158,Procesar novedades por autogestión,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160158,Procesar novedades por autogestión,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160159,Administrar productos prepago,recomendar producto [cp0013] ,CP0013,Actualizar MetodologÃ­as.
+T160159,Administrar productos prepago,crear producto [cp0019] ,CP0019,Actualizar polÃ­ticas y procedimientos conforme a nuevas regulaciones.
+T160159,Administrar productos prepago,crear convenios [cp0023] ,CP0023,"Implementar controles preventivos, detectivos y correctivos."
+T160159,Administrar productos prepago,inscribir cliente en el convenio [cp0024] ,CP0024,Establecer roles y responsabilidades.
+T160159,Administrar productos prepago,activar producto [cp0046] ,CP0046,Registrar alertas de cumplimiento.
+T160159,Administrar productos prepago,reintentar el cobro según reglas definidas [cp0087] ,CP0087,Adoptar inteligencia artificial y machine learning.
+T160159,Administrar productos prepago,ejecutar el cobro [cp0122] ,CP0122,Calcular nivel de lealtad
+T160159,Administrar productos prepago,reprocesar rechazos [cp0141] ,CP0141,Definir reglas de aplicabilidad de estrategia de lealtad
+T160159,Administrar productos prepago,desactivar producto [cp0175] ,CP0175,Generar marcaciÃ³n de cliente
+T160159,Administrar productos prepago,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160159,Administrar productos prepago,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160159,Administrar productos prepago,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T160159,Gestionar entrega del producto,actualizar datos del cliente ,CMC03,Actualizar Datos Del Cliente
+T160159,Gestionar entrega del producto,clasificar solicitud [cmp78] ,CMP78,Clasificar Solicitud
+T160159,Gestionar entrega del producto,crear producto [cp0019] ,CP0019,Actualizar polÃ­ticas y procedimientos conforme a nuevas regulaciones.
+T160159,Gestionar entrega del producto,generar archivo de solicitud de impresión [cp0036] ,CP0036,Definir reglas de alerta de cumplimiento transaccional.
+T160159,Gestionar entrega del producto,transmitir archivo de impresión [cp0037] ,CP0037,Realizar monitoreo transaccional.
+T160159,Gestionar entrega del producto,enrutar archivos [cp0038] ,CP0038,Generar Alertas transaccionales.
+T160159,Gestionar entrega del producto,atender ilocalizados [cp0042] ,CP0042,Generar Alertas no transaccionales.
+T160159,Gestionar entrega del producto,confirmar entrega [cp0044] ,CP0044,Clasificar denuncias y reportes.
+T160159,Gestionar entrega del producto,realizar arqueos periódicos de existencias físicas vs registros en sistemas [cp0051] ,CP0051,Crear Caso de investigaciÃ³n.
+T160159,Gestionar entrega del producto,coordinar destrucción certificada del producto [cp0052] ,CP0052,Notificar creaciÃ³n del caso.
+T160159,Gestionar entrega del producto,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160159,Gestionar entrega del producto,informar resultado [act209] ,ACT209,Informar Resultado
+T160159,Gestionar entrega del producto,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160159,Gestionar entrega del producto,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160159,Gestionar entrega del producto,validar solicitud ,ACT348,Validar Solicitud
+T160159,Gestionar novedades prepago,validar transacción [cp0059] ,CP0059,Emitir decisiones del caso.
+T160159,Gestionar novedades prepago,generar informes [cp0104] ,CP0104,DiseÃ±ar programas de cultura en cumplimiento.
+T160159,Gestionar novedades prepago,aplicar carga [cp0138] ,CP0138,Exponer misiones priorizadas
+T160159,Gestionar novedades prepago,aplicar bloqueo/ desbloqueo [cp0143] ,CP0143,Orquestar misiones y beneficios
+T160159,Gestionar novedades prepago,modificar condiciones del funcionamiento del producto [cp0151] ,CP0151,Gestionar campaÃ±as temporales
+T160159,Gestionar novedades prepago,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160159,Gestionar novedades prepago,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160159,Gestionar novedades prepago,registrar operación contable [act371] ,ACT371,Registrar OperaciÃ³n Contable
+T160159,Personalizar y entregar Tarjetas por segunda vez,generar orden de renovación [cp0160] ,CP0160,Perfilar/validar estado del cliente
+T160159,Personalizar y entregar Tarjetas por segunda vez,validar reglas de renovación [cp0161] ,CP0161,Exponer y capturar clÃ¡usulas y autorizaciones
+T160161,Emisión masiva MD,cerrar casos y comunicar al cliente ,CP0061,Cerrar caso.
+T160161,Solicitar Tarjeta débito Virtual,autenticar cliente ,ACT045,Autenticar Cliente
+T160161,Solicitar tarjeta débito,radicar solicitud de generación de tarjeta debito ,CMT79,Radicar Solicitud
+T160161,Solicitar tarjeta débito,cerrar casos y comunicar al cliente ,CP0061,Cerrar caso.
+T160161,Solicitar tarjeta débito,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160212,Administrar la plataforma Swift,gestionar inconsistencias y notificar a la fuerza comercial ,ACT191,Gestionar Inconsistencias
+T160212,Monitorear Driver - GPI,gestionar inconsistencias producto ,ACT191,Gestionar Inconsistencias
+T160212,Monitorear Driver - GPI,gestionar inconsistencias gpi ,ACT191,Gestionar Inconsistencias
+T160212,Monitorear Driver - GPI,informar resultado del monitoreo ,ACT209,Informar Resultado
+T160212,Monitorear Driver - GPI,informar resultado del monitoreo gpi ,ACT209,Informar Resultado
+T160220,Abrir productos bancaseguros,seleccionar opción [act303] ,ACT303,Seleccionar OpciÃ³n
+T160220,Abrir productos en Sucursal Física,archivar documento [act032] ,ACT032,Archivar Documento
+T160220,Abrir productos en Sucursal Física,diligenicar formulario [act132] ,ACT132,Diligenciar Formulario
+T160220,Abrir productos en Sucursal Física,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160220,Abrir productos en Sucursal Física,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160220,Abrir productos en Sucursal Física,gestionar contrato [act185] ,ACT185,Gestionar Contrato
+T160220,Abrir productos en Sucursal Física,procesar pago [act237] ,ACT237,Procesar Pago
+T160220,Abrir productos en Sucursal Física,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160220,Abrir productos en Sucursal Física,revisar token [act300] ,ACT300,Revisar Token
+T160220,Abrir productos en Sucursal Física,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160220,Abrir productos en Sucursal Física,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160220,Abrir productos en Telemercadeo  (TMK),consultar información [act003] ,ACT003,Consultar InformaciÃ³n
+T160220,Abrir productos en Telemercadeo  (TMK),finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T160220,Abrir productos en Telemercadeo  (TMK),enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160220,Abrir productos en Telemercadeo  (TMK),gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160220,Abrir productos en Telemercadeo  (TMK),gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160220,Abrir productos en Telemercadeo  (TMK),identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160220,Abrir productos en Telemercadeo  (TMK),informar resultado [act209] ,ACT209,Informar Resultado
+T160220,Abrir productos en Telemercadeo  (TMK),procesar pago [act237] ,ACT237,Procesar Pago
+T160220,Abrir productos en Telemercadeo  (TMK),validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160220,Abrir productos en Telemercadeo  (TMK),validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160220,Abrir productos por los Canales Alternos,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160220,Abrir productos por los Canales Alternos,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160220,Abrir productos por los Canales Alternos,informar resultado [act209] ,ACT209,Informar Resultado
+T160220,Abrir productos por los Canales Alternos,procesar pago [act237] ,ACT237,Procesar Pago
+T160220,Abrir productos por los Canales Alternos,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160220,Abrir productos por modelo Remota Cardif,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160220,Abrir productos por modelo Remota Cardif,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160220,Abrir productos por modelo Remota Cardif,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160220,Abrir productos por modelo Remota Cardif,procesar pago [act237] ,ACT237,Procesar Pago
+T160220,Abrir productos por modelo Remota Cardif,realizar contacto comercial [act253] ,ACT253,Realizar Contacto Comercial
+T160220,Abrir productos por modelo Remota Cardif,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160220,Abrir productos por modelo Remota Cardif,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T160220,Abrir productos por modelo Remota Cardif,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160220,Abrir productos por modelo Remota Cardif,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160220,Abrir productos por modelo Remota Cardif,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160220,Abrir productos por modelo Remota Sura,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160220,Abrir productos por modelo Remota Sura,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160220,Abrir productos por modelo Remota Sura,procesar pago [act237] ,ACT237,Procesar Pago
+T160220,Abrir productos por modelo Remota Sura,realizar contacto comercial [act253] ,ACT253,Realizar Contacto Comercial
+T160220,Abrir productos por modelo Remota Sura,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160220,Abrir productos por modelo Remota Sura,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160220,Abrir productos por modelo Remota Sura,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160220,Tomar seguros en Canales Digitales,segmentar clientes potenciales ,CP0163,Segmentar cliente
+T160220,Tomar seguros en Canales Digitales,autenticar cliente [act045] ,ACT045,Autenticar Cliente
+T160220,Tomar seguros en Canales Digitales,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160220,Tomar seguros en Canales Digitales,identificar cliente potencial [act200] ,ACT200,Identificar Cliente Potencial
+T160220,Tomar seguros en Canales Digitales,obtener confirmación [act231] ,ACT231,Obtener ConfirmaciÃ³n
+T160220,Tomar seguros en Canales Digitales,procesar pago [act237] ,ACT237,Procesar Pago
+T160220,Tomar seguros en Canales Digitales,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160220,Tomar seguros en Canales Digitales,revisar token [act300] ,ACT300,Revisar Token
+T160220,Tomar seguros en Canales Digitales,seleccionar opción [act303] ,ACT303,Seleccionar OpciÃ³n
+T160220,Tomar seguros en Canales Digitales,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160220,Tomar seguros en Canales Digitales,gestionar consentimiento [act365] ,ACT365,Gestionar Consentimiento
+T160228,Procedimiento Contingente,activar contingencia manual ,ACT363,Activar Contingencia
+T160228,Procedimiento Contingente,activar contingencia tecnológica ,ACT363,Activar Contingencia
+T160228,Procedimiento Contingente,activar contingencia personas ,ACT363,Activar Contingencia
+T160228,Procedimiento Contingente,activar contingencia infraestructura física ,ACT363,Activar Contingencia
+T160228,Procedimiento Contingente,activar contingencia a través del correo ,ACT363,Activar Contingencia
+T160246,Cancelar Seguros Cardif,radicar solicitud de cancelación en bizagi ,CMT79,Radicar Solicitud
+T160264,Administrar novedades administrativas de sucursales,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T160264,Administrar novedades administrativas de sucursales,informar resultado [act209] ,ACT209,Informar Resultado
+T160264,Administrar novedades administrativas de sucursales,registrar ajuste [act273] ,ACT273,Registrar Ajuste
+T160264,Administrar novedades administrativas de sucursales,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160264,Aplicar novedades Modelamiento,validar solicitud modelamiento ,ACT348,Validar Solicitud
+T160264,Aplicar novedades cámara de comercio,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T160264,Aplicar novedades cámara de comercio,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160264,Aplicar novedades cámara de comercio,informar resultado [act209] ,ACT209,Informar Resultado
+T160264,Aplicar novedades cámara de comercio,procesar pago [act237] ,ACT237,Procesar Pago
+T160264,Aplicar novedades cámara de comercio,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160264,Aplicar novedades cámara de comercio,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160264,Aplicar novedades cámara de comercio,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160264,Aprobar conexión a Redes Externas,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160264,Aprobar conexión a Redes Externas,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160264,Realizar Renovación Registro Único de Proponentes-RUP,solicitar firmas del representante legal y revisor fiscal ,ACT317,Solicitar Firma
+T160265,Administrar la autenticación de clientes,cmp59: autenticar cliente-usuario en sucursal ,ACT045,Autenticar Cliente
+T160265,Administrar la autenticación de clientes,autenticar cliente-usuario ,ACT045,Autenticar Cliente
+T160265,Gestionar Cobros por uso de la Red,certificar cuenta contable ,CP0469,Certificar cuenta
+T160265,Gestionar Cobros por uso de la Red,certificar cuenta contable ,ACT364,Certificar Cuenta Contable
+T160265,Monitorear la operación de Golf SifBranch en Sucursales,atender alertas escaladas por torre de control ,ACT181,Atender Alerta
+T160265,Monitorear la operación de Golf SifBranch en Sucursales,registrar evidencias en bitacora de alertas de monitoreo ,ACT275,Registrar Evidencia
+T160265,Monitorear la operación de Golf SifBranch en Sucursales,registrar evidencias en bitacora de alertas ,ACT275,Registrar Evidencia
+T160268,Abrir canal Corresponsales Bancarios.,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160268,Abrir canal Corresponsales Bancarios.,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160268,Abrir canal Corresponsales Bancarios.,informar resultado [act209] ,ACT209,Informar Resultado
+T160268,Abrir canal Corresponsales Bancarios.,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160268,Abrir canal Corresponsales Bancarios.,rechazar solicitud e informar ,ACT264,Rechazar Solicitud
+T160268,Abrir canal Corresponsales Bancarios.,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160268,Abrir canal Corresponsales Bancarios.,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160268,Abrir canal Corresponsales Bancarios.,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160268,Abrir canal Corresponsales Bancarios.,habilitar canal de distribución [act373] ,ACT373,Habilitar Canal De DistribuciÃ³n
+T160269,Administrar Base funcionamiento,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160269,Administrar Cupos,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160269,Novedades Monetarias,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160273,Atender con modelo Servicio,autenticar cliente [act045] ,ACT045,Autenticar Cliente
+T160273,Atender con modelo Servicio,autenticar clientes ,ACT045,Autenticar Cliente
+T160273,Atender con modelo Servicio,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160273,Atender con modelo Servicio,realizar contacto comercial [act253] ,ACT253,Realizar Contacto Comercial
+T160273,Atender con modelo Servicio,seleccionar opción [act303] ,ACT303,Seleccionar OpciÃ³n
+T160273,Atender con modelo Ventas,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T160273,Atender con modelo Ventas,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160273,Atender con modelo Ventas,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160273,Atender con modelo Ventas,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160273,Atender con modelo Ventas,identificar cliente potencial [act200] ,ACT200,Identificar Cliente Potencial
+T160273,Atender con modelo Ventas,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160273,Atender con modelo Ventas,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160273,Atender con modelo Ventas,validar respuesta [act345] ,ACT345,Validar Respuesta
+T160273,Atender con modelo Ventas,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160273,Atender con modelo Ventas,gestionar consentimiento [act365] ,ACT365,Gestionar Consentimiento
+T160273,Atender con modelo Ventas y servicio,autenticar clientes ,ACT045,Autenticar Cliente
+T160273,Atender con modelo Ventas y servicio,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160273,Atender con modelo Ventas y servicio,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160273,Atender con modelo Ventas y servicio,identificar cliente potencial [act200] ,ACT200,Identificar Cliente Potencial
+T160273,Atender con modelo Ventas y servicio,realizar contacto comercial [act253] ,ACT253,Realizar Contacto Comercial
+T160273,Atender con modelo Ventas y servicio,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160273,Autenticar clientes,autenticar cliente [act045] ,ACT045,Autenticar Cliente
+T160273,Autenticar clientes,informar resultado [act209] ,ACT209,Informar Resultado
+T160273,Contingencia,evaluar impacto [act167] ,ACT167,Evaluar Impacto
+T160273,Contingencia,implementar solución [act204] ,ACT204,Implementar SoluciÃ³n
+T160273,Contingencia,priorizar solicitud [act235] ,ACT235,Priorizar Solicitud
+T160273,Contingencia,revisar trazabilidad [act301] ,ACT301,Realizar Trazabilidad
+T160273,Contingencia,c002: activar contingencia operativa ,ACT363,Activar Contingencia
+T160273,Contingencia,activar contingencia tecnologica ,ACT363,Activar Contingencia
+T160273,Contingencia,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160273,Ejecutar la transacción,confirmar registro [act095] ,ACT095,Confirmar Registro
+T160273,Ejecutar la transacción,consultar transacción [act104] ,ACT104,Consultar TransacciÃ³n
+T160273,Ejecutar la transacción,informar resultado [act209] ,ACT209,Informar Resultado
+T160273,Ejecutar la transacción,monitorear operaciones [act220] ,ACT220,Monitorear Operaciones
+T160273,Ejecutar la transacción,procesar pago [act237] ,ACT237,Procesar Pago
+T160273,Ejecutar la transacción,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160273,Ejecutar la transacción,reportar error [act285] ,ACT285,Registrar Incidente
+T160273,Procesar Operaciones del Cliente en el Contact Center y BPO,autenticar clientes ,ACT045,Autenticar Cliente
+T160273,Procesar operaciones del cliente en el Contact Center,autenticar clientes ,ACT045,Autenticar Cliente
+T160273,Realizar paso asesor,autenticar clientes ,ACT045,Autenticar Cliente
+T160273,Realizar paso asesor,informar resultado [act209] ,ACT209,Informar Resultado
+T160273,Realizar paso asesor,redirigir consulta act270 ,ACT270,Redirigir Consulta
+T160275,Consolidar Gestión de BPO,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160275,Consolidar Gestión de BPO,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160275,Consolidar Gestión de BPO,informar resultado [act209] ,ACT209,Informar Resultado
+T160275,Gestionar Incidentes,informar resultado [act209] ,ACT209,Informar Resultado
+T160275,Gestionar Incidentes,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160275,Gestionar Incidentes,redirigir consulta act270 ,ACT270,Redirigir Consulta
+T160275,Gestionar Incidentes,registrar evento [act274] ,ACT274,Registrar Evento
+T160275,Gestionar Incidentes,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160275,Gestionar Mesas de Alquiler,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T160275,Gestionar Mesas de Alquiler,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160275,Gestionar Mesas de Alquiler,informar resultado [act209] ,ACT209,Informar Resultado
+T160275,Gestionar Mesas de Alquiler,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160275,Gestionar Mesas de Alquiler,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160275,Gestionar Mesas de Alquiler,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160275,Gestionar Mesas de Alquiler,modificar documento [act374] ,ACT374,Actualizar Documento
+T160275,Gestionar la información de servicios de interacciones a distancia,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160275,Gestionar la información de servicios de interacciones a distancia,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T160275,Gestionar la información de servicios de interacciones a distancia,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160275,Gestionar la información de servicios de interacciones a distancia,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160275,Gestionar la información de servicios de interacciones a distancia,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160275,Gestionar la información de servicios de interacciones a distancia,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160275,Gestionar la información de servicios de interacciones a distancia,revisar trazabilidad [act301] ,ACT301,Realizar Trazabilidad
+T160275,Realizar Monitoreos,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T160275,Realizar Monitoreos,estrucutrar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T160275,Realizar Monitoreos,gestionar alerta [act181] ,ACT181,Atender Alerta
+T160275,Realizar Monitoreos,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160275,Realizar Monitoreos,implementar solución [act204] ,ACT204,Implementar SoluciÃ³n
+T160275,Realizar Monitoreos,informar resultado [act209] ,ACT209,Informar Resultado
+T160275,Realizar Monitoreos,ingresar alertas [act210] ,ACT210,Registrar Alerta
+T160275,Realizar Monitoreos,ingresar alerta [act210] ,ACT210,Registrar Alerta
+T160275,Realizar Monitoreos,monitorear alertas críticas [act218] ,ACT218,Monitorear Alertas
+T160275,Realizar Monitoreos,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160275,Realizar Monitoreos,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,definir condición [act114] ,ACT114,Definir CondiciÃ³n
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,informar resultado [act209] ,ACT209,Informar Resultado
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,solicitar soporte [act320] ,ACT320,Solicitar Soporte
+T160275,Realizar gestión de quejas o  solicitud de grabaciones,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160275,Realizar seguimiento de indicadores,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160275,Realizar seguimiento de indicadores,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T160275,Realizar seguimiento de indicadores,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160275,Realizar seguimiento de indicadores,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160275,Realizar seguimiento de indicadores,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160275,Realizar seguimiento de indicadores,modificar documento [act374] ,ACT374,Actualizar Documento
+T160288,Contingencia procesar pagos,contigencia procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160288,Contingencia procesar pagos,activar contingencia ,ACT363,Activar Contingencia
+T160288,Procesar pagos de Negocios Fiduciarios,contingencia procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160288,Procesar pagos de Negocios Fiduciarios,"c001 validar firmas y condiciones de manejo, verificando para visar firmas ",ACT335,Validar Firma
+T160290,Gestionar Novedades,radicar solicitud de actualización de mapas contables ,CMT79,Radicar Solicitud
+T160290,Gestionar Novedades,cerrar caso de novedad ,CP0061,Cerrar caso.
+T160290,Procedimiento contingente,activar contingencia ,ACT363,Activar Contingencia
+T160290,Realizar la causación de los fideicomisos,m: cumplimiento de los servicios p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160290,Realizar la causación de los fideicomisos,m: cumplimiento de los servicios p: procesar pagos de los negocios fiduciarios ,ACT237,Procesar Pago
+T160290,Recibir Facturas,devolver solicitud al cliente ,ACT377,Devolver Solicitud
+T160295,Procesar Negocios de Cartera,m: cumplimiento de los servicios p: elaborar informes de negocios fiduciarios ,CMP86,Elaborar Informe
+T160295,Procesar Negocios de Cartera,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160295,Procesar Negocios de Cartera,informar resultado [act209] ,ACT209,Informar Resultado
+T160295,Procesar Negocios de Cartera,procesar pago [act237] ,ACT237,Procesar Pago
+T160295,Procesar Negocios de Cartera,m: cumplimiento de los servicios p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160295,Procesar Negocios de Cartera,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160295,Procesar Negocios de Cartera,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T1603106,Gestionar Transacciones de Fondos,enviar comunicación/ notificación a clientes [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T1603106,Gestionar Transacciones de Fondos,c001 validar identidad del cliente [cmt81] ,CMT81,Validar Identidad Del Cliente
+T1603106,Gestionar Transacciones de Fondos,m:cumplimiento de los servicios p: autenticar cliente usuario en sucursal ,ACT045,Autenticar Cliente
+T1603106,Gestionar Transacciones de Fondos,c002 autenticar cliente ,ACT045,Autenticar Cliente
+T1603106,Gestionar Transacciones de Fondos,autorizar transacción [act052] ,ACT052,Autorizar TransacciÃ³n
+T1603106,Gestionar Transacciones de Fondos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T1603106,Gestionar Transacciones de Fondos,procesar pago [act237] ,ACT237,Procesar Pago
+T1603106,Gestionar Transacciones de Fondos,recibir la información [act266] ,ACT266,Recibir InformaciÃ³n
+T1603106,Procedimiento de Contingencia,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T1603106,Procedimiento de Contingencia,activar contingencia sterling (pab) ,ACT363,Activar Contingencia
+T160331,Gestionar FICS,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T160331,Gestionar FICS,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160331,Gestionar FICS,informar resultado [act209] ,ACT209,Informar Resultado
+T160331,Gestionar FICS,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160331,Gestionar FICS,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160331,Gestionar FICS,registrar evento [act274] ,ACT274,Registrar Evento
+T160338,Gestionar Liquidez para Fondos de Inversión,autorizar transacción [act052] ,ACT052,Autorizar TransacciÃ³n
+T160338,Gestionar Liquidez para Fondos de Inversión,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160338,Gestionar Liquidez para Fondos de Inversión,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160338,Gestionar Liquidez para Fondos de Inversión,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160338,Gestionar Liquidez para Fondos de Inversión,procesar pago [act237] ,ACT237,Procesar Pago
+T160338,Procedimiento de Contingencia,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160338,Procedimiento de Contingencia,restablecer operación normal [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T160355,Modificar Operacion Renta Inmuebles,c009: validar solicitud ,ACT348,Validar Solicitud
+T160355,Modificar Operacion Renta Inmuebles,notificar y cerrar solicitud ,ACT378,Cerrar Solicitud
+T160355,Modificar Operacion Renta inmuebles,c009: validar solicitud ,ACT348,Validar Solicitud
+T160355,Modificar Operaciones,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160355,Modificar Operaciones,validar solicitud de modificación por parte del cliente * ,ACT348,Validar Solicitud
+T160355,Modificar Operaciones,validar solicitud de modificación por parte del cliente ,ACT348,Validar Solicitud
+T160362,Pagar facturas electrónicas de Seguros,m: gestionar servicios corporativos p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T160362,Pagar facturas electrónicas de Seguros,m: soporte organizacional p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T160362,Pagar facturas electrónicas de Seguros,m: gestionar servicios corporativos p: procesar pago de facturas a proveedores ,ACT237,Procesar Pago
+T160370,Contingencia Actividades Criticas,ajustar valor [act016] ,ACT016,Ajustar Valor
+T160370,Contingencia Actividades Criticas,anular solicitud [act024] ,ACT024,Cancelar Solicitud
+T160370,Contingencia Actividades Criticas,archivar documento [act032] ,ACT032,Archivar Documento
+T160370,Contingencia Actividades Criticas,autorizar transacción [act052] ,ACT052,Autorizar TransacciÃ³n
+T160370,Contingencia Actividades Criticas,confirmar recepción de fondos [act094] ,ACT094,Confirmar RecepciÃ³n De Fondos
+T160370,Contingencia Actividades Criticas,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160370,Contingencia Actividades Criticas,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160370,Contingencia Actividades Criticas,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160370,Contingencia Actividades Criticas,gestionar inconsistencias recaudo bancolombia ,ACT191,Gestionar Inconsistencias
+T160370,Contingencia Actividades Criticas,recibir información (act266) ,ACT266,Recibir InformaciÃ³n
+T160370,Contingencia Actividades Criticas,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160370,Realizar recaudo para mercado de capitales,ajustar valor [act016] ,ACT016,Ajustar Valor
+T160370,Realizar recaudo para mercado de capitales,anular solicitud [act024] ,ACT024,Cancelar Solicitud
+T160370,Realizar recaudo para mercado de capitales,archivar documento [act032] ,ACT032,Archivar Documento
+T160370,Realizar recaudo para mercado de capitales,autorizar transacción [act052] ,ACT052,Autorizar TransacciÃ³n
+T160370,Realizar recaudo para mercado de capitales,confirmar recepción de fondos [act094] ,ACT094,Confirmar RecepciÃ³n De Fondos
+T160370,Realizar recaudo para mercado de capitales,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160370,Realizar recaudo para mercado de capitales,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160370,Realizar recaudo para mercado de capitales,gestionar inconsistencias recaudo bancolombia ,ACT191,Gestionar Inconsistencias
+T160370,Realizar recaudo para mercado de capitales,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160370,Realizar recaudo para mercado de capitales,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160370,Realizar recaudo para mercado de capitales,recibir información (act266) ,ACT266,Recibir InformaciÃ³n
+T160420,Procesar Novedades y Mantenimientos Swift,radicar solicitud de modificación del cliente en swift ,CMT79,Radicar Solicitud
+T160440,Realizar Estudio de Crédito Hipotecario,rechazar solicitud de fraude ,ACT264,Rechazar Solicitud
+T160440,Solicitar reestudio,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160440,Solicitar reestudio,validar resultado de motor ,ACT347,Validar Resultado
+T160440,Validar Inmueble,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160443,Ejecutar procedimientos MASIVOS,rechazar solicitud al radicador ,ACT264,Rechazar Solicitud
+T160443,Estudiar  solicitudes de  PROTECCIÓN,asignar solicitud de crédito ,CMP75,Asignar Solicitud
+T160443,Estudiar  solicitudes de  PROTECCIÓN,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar  solicitudes de  PROTECCIÓN,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar  solicitudes de  PROTECCIÓN,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,asignar solicitudes de crédito modelo de fraudes ,CMP75,Asignar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,asignar solicitudes de bizagi go ,CMP75,Asignar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,asignar solicitudes de bizagi ,CMP75,Asignar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,asignar solicitudes bancacolombia ,CMP75,Asignar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,validar solicitud ,ACT348,Validar Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar  solicitudes de PREFERENCIAL,devolver solicitud ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes Mesa de Fraudes,asignar solicitudes modelo de fraudes ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes Mesa de Fraudes,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes Mesa de Fraudes,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes Mesa de Fraudes,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes de BPO,asignar solicitudes de crédito ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes de BPO,asignar solicitudes de crédito modelo de fraudes ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes de BPO,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes de BPO,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes de BPO,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes de CONSUMO,asignar solicitudes de crédito modelo de fraudes ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes de CONSUMO,asignar solicitudes de crédito ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes de CONSUMO,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes de CONSUMO,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes de CONSUMO,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes de Consumo,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes de Consumo,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes de Consumo,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes de Consumo-BPO,asignar solicitudes de crédito ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes de Consumo-BPO,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes de Consumo-BPO,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes de Consumo-BPO,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes de FOPEP,asignar solicitudes de crédito ,CMP75,Asignar Solicitud
+T160443,Estudiar solicitudes de FOPEP,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes de FOPEP,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes de FOPEP,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar solicitudes de Fopep Protección,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar solicitudes de Fopep Protección,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar solicitudes de Fopep Protección,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Estudiar y solicitar desembolso COLPENSIONES,asignar solicitud ,CMP75,Asignar Solicitud
+T160443,Estudiar y solicitar desembolso COLPENSIONES,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160443,Estudiar y solicitar desembolso COLPENSIONES,rechazar solicitud de crédito ,ACT264,Rechazar Solicitud
+T160443,Estudiar y solicitar desembolso COLPENSIONES,devolver solicitud de crédito ,ACT377,Devolver Solicitud
+T160443,Realizar estudio de crédito persona natural,asignar solicitudes de credito ,CMP75,Asignar Solicitud
+T160443,Realizar estudio de crédito persona natural,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160443,Realizar estudio de crédito persona natural,radicar solicitud ,CMT79,Radicar Solicitud
+T160443,Realizar estudio de crédito persona natural,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160443,Realizar estudio de crédito persona natural,devolver solicitud ,ACT377,Devolver Solicitud
+T160444,Grabar LME,elaborar informe o reporte [cp1078] ,CP1078,Elaborar informe o reporte
+T160444,Grabar LME,emitir comprobante [act142] ,ACT142,Emitir Comprobante
+T160444,Grabar LME,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160444,Grabar LME,validar información[act341] ,ACT341,Validar InformaciÃ³n
+T160444,Grabar LME,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160444,Realizar Grabación Empresas y Corporativo,radicar solicitud de calidad ,CMT79,Radicar Solicitud
+T160444,Realizar Grabación Empresas y Corporativo,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160444,Realizar Grabación Empresas y Corporativo,radicar solicitud de factoring ,CMT79,Radicar Solicitud
+T160444,Realizar Grabación Empresas y Corporativo,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160444,Realizar Grabación Empresas y Corporativo,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160444,Realizar Grabación Empresas y Corporativo,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160444,Realizar Grabación Empresas y Corporativo,rechazar solicitud bizagi ,ACT264,Rechazar Solicitud
+T160444,Realizar Grabación Empresas y Corporativo,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160444,Realizar Grabación Empresas y Corporativo,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160444,Realizar Grabación Empresas y Corporativo,reportar error [act285] ,ACT285,Registrar Incidente
+T160444,Realizar Grabación Empresas y Corporativo,registrar incidente [act285] ,ACT285,Registrar Incidente
+T160444,Realizar Grabación Empresas y Corporativo,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160444,Realizar grabación Canal Digital Masivo,asociar producto al cliente [cp0358] ,CP0358,Asociar producto al cliente
+T160444,Realizar grabación Canal Digital Masivo,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160444,Realizar grabación Canal Digital Masivo,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160444,Realizar grabación Canal Digital Masivo,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160444,Realizar grabación Canal Digital Masivo,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160444,Realizar grabación Independientes,radicar solicitud lme contingencia ,CMT79,Radicar Solicitud
+T160444,Realizar grabación Independientes,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160444,Realizar grabación Independientes,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T160444,Realizar grabación Independientes,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160444,Realizar grabación Independientes,registrar evento [act274] ,ACT274,Registrar Evento
+T160444,Realizar grabación Independientes,reportar error [act285] ,ACT285,Registrar Incidente
+T160444,Realizar grabación Independientes,registrar incidente [act285] ,ACT285,Registrar Incidente
+T160444,Realizar grabación Independientes,activar contingencia [act363] ,ACT363,Activar Contingencia
+T160444,Realizar grabación Leasing y Renting,consultar información de clientes [cmc02] ,CMC02,Consultar InformaciÃ³n De Clientes
+T160444,Realizar grabación Leasing y Renting,radicar solicitud de calidad ,CMT79,Radicar Solicitud
+T160444,Realizar grabación Leasing y Renting,solicitar aceptación de condiciones [cp1353] ,CP1353,Solicitar aceptaciÃ³n de condiciones
+T160444,Realizar grabación Leasing y Renting,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160444,Realizar grabación Leasing y Renting,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160444,Realizar grabación Leasing y Renting,reportar error [act285] ,ACT285,Registrar Incidente
+T160444,Realizar grabación Leasing y Renting,devolver solicitud con estudio ,ACT377,Devolver Solicitud
+T160444,Realizar grabación Leasing y Renting,devolver solicitud sin estudio ,ACT377,Devolver Solicitud
+T160444,Realizar grabación Persona Natural,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160444,Realizar grabación Persona Natural,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160444,Realizar grabación Persona Natural,reportar error [act285] ,ACT285,Registrar Incidente
+T160444,Realizar grabación Persona Natural,registrar incidente [act285] ,ACT285,Registrar Incidente
+T160444,Realizar grabación Procesos masivos todos los segmentos,asociar producto al cliente [cp0358] ,CP0358,Asociar producto al cliente
+T160444,Realizar grabación Procesos masivos todos los segmentos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160444,Realizar grabación Procesos masivos todos los segmentos,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160444,Realizar grabación Procesos masivos todos los segmentos,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160444,Realizar grabación Pyme - Operaciones urgentes,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T160444,Realizar grabación Pyme - Operaciones urgentes,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160444,Realizar grabación Pyme - Operaciones urgentes,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160444,Realizar grabación Pyme - Operaciones urgentes,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160444,Realizar grabación Pyme - Operaciones urgentes,rechazar solicitud bizagi ,ACT264,Rechazar Solicitud
+T160444,Realizar grabación Pyme - Operaciones urgentes,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160444,Realizar grabación Pyme - Operaciones urgentes,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160444,Realizar grabación Pyme - Operaciones urgentes,reportar error [act285] ,ACT285,Registrar Incidente
+T160444,Realizar grabación Pyme - Operaciones urgentes,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160444,"Realizar grabación Re, Mo y Consolidación de pasivos",asociar producto al cliente [cp0358] ,CP0358,Asociar producto al cliente
+T160444,"Realizar grabación Re, Mo y Consolidación de pasivos",actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T160444,"Realizar grabación Re, Mo y Consolidación de pasivos",devolver solicitud ,ACT377,Devolver Solicitud
+T160444,Realizar grabación Reestructuraciones,devolver solicitud ,ACT377,Devolver Solicitud
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",cerrar casos de bizagi ,CP0061,Cerrar caso.
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",reportar error [act285] ,ACT285,Registrar Incidente
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",revisar configuración [act294] ,ACT294,Revisar ConfiguraciÃ³n
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",activar contingencia [act363] ,ACT363,Activar Contingencia
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",registrar operación contable [act371] ,ACT371,Registrar OperaciÃ³n Contable
+T160452,"CONT Realizar el cierre contable de FIC, FCP y Neg Fidu para Valores y Fid",restablecer operación normal [act375] ,ACT375,Restablecer OperaciÃ³n Normal
+T160452,CONT Realizar el cierre contable de los Fideicomisos de Inversión FIC Y FCP,cerrar casos de bizagi ,CP0061,Cerrar caso.
+T160452,CONT Realizar el cierre contable de los Fideicomisos de Inversión y FIC,cerrar casos de bizagi ,CP0061,Cerrar caso.
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",informar resultado [act209] ,ACT209,Informar Resultado
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",validar documentación[act331] ,ACT331,Validar Documento
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",validar resultado [act347] ,ACT347,Validar Resultado
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",c006: validar resultados reteutilidades ,ACT347,Validar Resultado
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",ejecutar cierre contable [act368] ,ACT368,Ejecutar Cierre Contable
+T160452,"Realizar el cierre contable de FIC, FCP y Neg Fid para Valores y Fid",registrar operación contable [act371] ,ACT371,Registrar OperaciÃ³n Contable
+T160452,Realizar el cierre contable de los Fideicomisos de Inversión FIC Y FCP,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160452,Realizar el cierre contable de los Fideicomisos de Inversión y FIC,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160456,Aprobar solicitud Transfiya,ingresar a aprobar solicitud ,CMP77,Aprobar Solicitud
+T160456,Aprobar solicitud Transfiya,consultar solicitudes pendientes ,CP1028,Consultar solicitudes
+T160456,Atender Falla Cenit WEB,activar contingencia ,ACT363,Activar Contingencia
+T160456,Atender Falla URL ACH Cenit,activar contingencia ,ACT363,Activar Contingencia
+T160456,Atender Falla en Archivo NACHA-M,activar contingencia ,ACT363,Activar Contingencia
+T160456,Atender Falla en CornerStone,activar contingencia ,ACT363,Activar Contingencia
+T160456,Atender Falla “Cifrado de archivo Nacha-M ACH Colombia”,activar contingencia ,ACT363,Activar Contingencia
+T160456,Gestionar Traslado de Fondos a ACH,confirmar registro prefondeo ,ACT095,Confirmar Registro
+T160456,Procesar Falla URL ACH CENIT,activar contingencia ,ACT363,Activar Contingencia
+T160456,Procesar Falla en Archivo NACHA-M,activar contingencia ,ACT363,Activar Contingencia
+T160456,Procesar Falla en CornerStone,activar contingencia ,ACT363,Activar Contingencia
+T160456,Procesar Falla en CriptoVault,activar contingencia ,ACT363,Activar Contingencia
+T160456,Procesar transacciones servicio de pagos y transferencias ACH,aprobar solicitud transfiya ,CMP77,Aprobar Solicitud
+T160456,Transmitir archivos ACH,gestionar inconsistencias presentadas en el envío ,ACT191,Gestionar Inconsistencias
+T160461,Generar Ofertas de Originación y Contención,perfilar clientes potenciales ,CP0693,Perfilar clientes
+T160461,Preaprobar Clientes Personas y Pyme,perfilar clientes preaprobados digitales ,CP0693,Perfilar clientes
+T160465,Conciliar seguros,revisar y gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160465,Conciliar seguros,m: gestión financiera p: administrar y gestionar procesos contables ,ACT192,Gestionar Proceso
+T160465,Conciliar seguros,m: gestion financiera p: administrar y gestionar procesos contables ,ACT192,Gestionar Proceso
+T160465,Conciliar seguros,validar resultado y reportar casos ,ACT347,Validar Resultado
+T160465,Conciliar seguros,validar resultado control sox ,ACT347,Validar Resultado
+T160465,Realizar cancelación del seguro,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160487,Ampliar plazos TDC,radicar solicitud de ampliación de palzo ,CMT79,Radicar Solicitud
+T160487,Aplicar Novedades No Monetarias,solicitar soporte ,ACT320,Solicitar Soporte
+T160487,Aplicar Novedades TDC,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160487,Aplicar Novedades TDC,radicar solicitud de novedad ,CMT79,Radicar Solicitud
+T160487,Aplicar Novedades TDC,radicar solicitud ,CMT79,Radicar Solicitud
+T160487,Aplicar Novedades TDC,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160487,Aplicar Novedades TDC,devolver solicitud ,ACT377,Devolver Solicitud
+T160487,Cancelar Pagaré de Tarjeta de Crédito,radicar solicitud del cliente ,CMT79,Radicar Solicitud
+T160487,Comprar Cartera,radicar solicitud de ajustes monetarios ,CMT79,Radicar Solicitud
+T160487,Comprar Cartera Aliado,radicar solicitud de ajustes monetarios ,CMT79,Radicar Solicitud
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,conciliar información [cmt76] ,CMT76,Conciliar InformaciÃ³n
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,radicar solicitud [cmt79] - 01 ,CMT79,Radicar Solicitud
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,consultar transacción [act104] ,ACT104,Consultar TransacciÃ³n
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,enviar información [act156] -1 ,ACT156,Enviar InformaciÃ³n
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,validar condiciones del producto [act327] ,ACT327,Validar CondiciÃ³n
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,validar respuesta [act345] ,ACT345,Validar Respuesta
+T160487,Gestionar Fallecimiento Incapacidad Total o Permanente,certificar cuenta contable [act364] ,ACT364,Certificar Cuenta Contable
+T160487,Gestionar Fallecimiento Incapacidad Total y Permanente,radicar solicitud de ajuste monetario ,CMT79,Radicar Solicitud
+T160487,Solicitar Centro de Conservación,radicar solicitud de ajuste monetario ,CMT79,Radicar Solicitud
+T160487,Solicitar Centro de Conservación,procesar solicitudes de fidelización puntos ,ACT238,Procesar Solicitud
+T160487,Solicitar Centro de Conservación,procesar solicitudes de fidelización millas ,ACT238,Procesar Solicitud
+T160487,Solicitar Centro de Conservación,procesar solicitudes de cancelación ,ACT238,Procesar Solicitud
+T160491,Generar Informes Internos y Externos de medios y aceptación de pagos,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160491,Generar Informes Internos y Externos de medios y aceptación de pagos,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160491,Generar Informes Internos y Externos de medios y aceptación de pagos,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160491,Generar Informes Internos y Externos de medios y aceptación de pagos,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160491,Proceso Contingente,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160491,Proceso Contingente,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160491,Proceso Contingente,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160491,Proceso Contingente,registrar evento [act274] ,ACT274,Registrar Evento
+T160491,Proceso Contingente,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160493,Emitir TDC por segunda vez,radicar solicitud ,CMT79,Radicar Solicitud
+T160493,Emitir TDC por segunda vez,cerrar solicitudes ,ACT378,Cerrar Solicitud
+T160494,Procesar Abonos a TDC,informar resultado de la validación al cliente ,ACT209,Informar Resultado
+T160494,Procesar Abonos a TDC,procesar solicitud de asesoría y registrar en el sistema ,ACT238,Procesar Solicitud
+T160494,Procesar Abonos a TDC,procesar solicitud de abono por bizagi ,ACT238,Procesar Solicitud
+T160494,Procesar Abonos a TDC,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160499,Contingencia,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160499,Contingencia,validar solicitud del cliente ,ACT348,Validar Solicitud
+T160499,Procedimiento de Contingencia,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160499,Procedimiento de Contingencia,radicar solicitud nueva en aplicativo de contingencia ,CMT79,Radicar Solicitud
+T160499,Procedimiento de Contingencia,validar solicitud del cliente ,ACT348,Validar Solicitud
+T160499,Realizar Desembolso manual,cancelar solicitud automáticamente ,ACT024,Cancelar Solicitud
+T160499,Realizar estudio y desembolso créditos de consumo,radicar solicitud de crédito ,CMT79,Radicar Solicitud
+T160499,Realizar estudio y desembolso créditos de consumo,cancelar solicitud ,ACT024,Cancelar Solicitud
+T160542,Aperturar Compromisos de Crédito,devolver solicitud ,ACT377,Devolver Solicitud
+T160542,Grabar Novedades Compromisos de Crédito,radicar solicitud novedades compromisos de crédito ,CMT79,Radicar Solicitud
+T160542,Grabar Novedades Compromisos de Crédito,devolver solicitud ,ACT377,Devolver Solicitud
+T160542,Recibir Pago de la Comisión,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160558,Desembolsar solicitudes,c004: consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+T160558,Desembolsar solicitudes,desembolsar crédito[act123] ,ACT123,Desembolsar CrÃ©dito
+T160558,Desembolsar solicitudes,m: gestion financiera p: administrar y gestionar procesos contables ,ACT192,Gestionar Proceso
+T160558,Desembolsar solicitudes,inscribir débito automático [act211] ,ACT211,Inscribir DÃ©bito AutomÃ¡tico
+T160558,Desembolsar solicitudes,c018: monitorear operaciones [act220] ,ACT220,Monitorear Operaciones
+T160558,Desembolsar solicitudes,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T160558,Estudiar solicitudes,c009: consultar información externa [cmf06] ,CMF06,Consultar InformaciÃ³n Externa
+T160558,Estudiar solicitudes,c008:consultar centrales internas y externas [cmf07] ,CMF07,Consultar Centrales Externas
+T160558,Estudiar solicitudes,c005:consultar centrales internas y externas [cmf07] ,CMF07,Consultar Centrales Externas
+T160558,Estudiar solicitudes,c004: consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+T160558,Estudiar solicitudes,radicar solicitudes ,CMT79,Radicar Solicitud
+T160558,Estudiar solicitudes,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160558,Gestionar modelo de originación de sufi,radicar solicitudes ,CMT79,Radicar Solicitud
+T160558,Procedimiento Contingente,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160558,Procedimiento Contingente,radicar solicitud nueva en aplicativo de contingencia ,CMT79,Radicar Solicitud
+T160558,Radicar Solicitudes,anular solicitud [act024] ,ACT024,Cancelar Solicitud
+T160558,Radicar Solicitudes,realizar simulación [act262] ,ACT262,Realizar SimulaciÃ³n
+T160558,Realizar la Venta y Estudio de Crédito de Vehículo,aprobar solicitud de crédito ,CMP77,Aprobar Solicitud
+T160558,Realizar la Venta y Estudio de Crédito de Vehículo,cancelar solicitud ,ACT024,Cancelar Solicitud
+T160558,Realizar la Venta y Estudio de Crédito de Vehículo,cmp60 autenticar clientes sufi ,ACT045,Autenticar Cliente
+T160558,Tramitar Oferta,c005:consultar centrales internas y externas [cmf07] ,CMF07,Consultar Centrales Externas
+T160558,Tramitar Oferta,c023: consultar centrales internas y externas [cmf07] ,CMF07,Consultar Centrales Externas
+T160558,Tramitar Oferta,c022: consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+T160558,Tramitar Oferta,c004: consultar listas restrictivas [cmf16] ,CMF16,Consultar Listas Restrictivas
+T160558,Tramitar Oferta,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160561,Administrar modelo de Fidelización,gestionar inconsistencias modelos retención ,ACT191,Gestionar Inconsistencias
+T160561,Administrar modelo de Fidelización,gestionar inconsistencias modelos conservación ,ACT191,Gestionar Inconsistencias
+T160561,Compensar o resarcir clientes o usuarios,aprobar solicitud ,CMP77,Aprobar Solicitud
+T160561,Compensar o resarcir clientes o usuarios,radicar solicitud compensación ,CMT79,Radicar Solicitud
+T160561,Compensar o resarcir clientes o usuarios,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160561,Gestionar factura,m: gestión de servicios corporativos. p: procesar pago de factura de proveedores ,ACT237,Procesar Pago
+T160561,Gestionar solicitudes ATPC,cancelar solicitud ,ACT024,Cancelar Solicitud
+T160561,Gestionar solicitudes ATPC,diligenciar formulario de radicación de solicitudes ,ACT132,Diligenciar Formulario
+T160572,Administrar parámetros de clientes,devolver solicitud con las consideraciones necesarias ,ACT377,Devolver Solicitud
+T160572,T160572 Administrar parámetros de clientes,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T160572,T160572 Administrar parámetros de clientes,evaluar impacto [act167] ,ACT167,Evaluar Impacto
+T160572,T160572 Administrar parámetros de clientes,informar resultado [act209] ,ACT209,Informar Resultado
+T160572,T160572 Administrar parámetros de clientes,devolver solicitud con las consideraciones necesarias ,ACT377,Devolver Solicitud
+T160598,Procesar controversias como adquirente FD,c010 validar respuesta recibida de la franquicia del análisis del caso ,ACT345,Validar Respuesta
+T160609,Generar Informe Agredadores tradicional de Aceptación de Pagos,validar resultado ,ACT347,Validar Resultado
+T160609,Generar Informe agredadores adq tradiciona,validar resultado ,ACT347,Validar Resultado
+T160609,Generar reporte conciliar,cerrar casos ,CP0061,Cerrar caso.
+T160612,Causar Operaciones Leasing Habitacional,registrar operación contable [act371] ,ACT371,Registrar OperaciÃ³n Contable
+T160612,Crear o Actualizar Datos del Proveedor LH,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160612,Crear o Actualizar Datos del Proveedor LH,gestionar alerta [act181] ,ACT181,Atender Alerta
+T160612,Crear o Actualizar Datos del Proveedor LH,validar documentación [act331] ,ACT331,Validar Documento
+T160612,Crear operaciones Leasing Habitacional,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160612,Crear operaciones Leasing Habitacional,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160612,Crear operaciones Leasing Habitacional,validar documentación [act331] ,ACT331,Validar Documento
+T160612,Gestionar Anticipos,radicar solicitud para cancelación de garantía ,CMT79,Radicar Solicitud
+T160612,Gestionar Anticipos,desembolsar crédito [act123] ,ACT123,Desembolsar CrÃ©dito
+T160612,Gestionar Anticipos,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160612,Gestionar Anticipos,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160612,Gestionar Anticipos,validar documentación [act331] ,ACT331,Validar Documento
+T160612,Gestionar Anticipos,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160612,Gestionar Anticipos,devolver solicitud ,ACT377,Devolver Solicitud
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,radicar solicitud ,CMT79,Radicar Solicitud
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,desembolsar crédito [act123] ,ACT123,Desembolsar CrÃ©dito
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,reportar error [act285] ,ACT285,Registrar Incidente
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,seleccionar opción [act303] ,ACT303,Seleccionar OpciÃ³n
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160612,Gestionar Solicitudes de Crédito Hipotecario y Leasing Habitacional,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160612,Radicar solicitud,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160612,Radicar solicitud,gestionar alerta [act181] ,ACT181,Atender Alerta
+T160612,Radicar solicitud,informar resultado [act209] ,ACT209,Informar Resultado
+T160612,Radicar solicitud,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T160612,Realizar Mantenimiento Operación,generar documento otro si ,CP1160,Generar documento
+T160612,Realizar Mantenimiento Operación,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T160612,Realizar Mantenimiento Operación,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160612,Realizar Mantenimiento Operación,informar resultado [act209] ,ACT209,Informar Resultado
+T160612,Realizar Mantenimiento Operación,solicitar firma [act317] ,ACT317,Solicitar Firma
+T160612,Semillero de Propietarios Ahorro,radicar solicitud envio de sms en bizagi flujo de flujos ,CMT79,Radicar Solicitud
+T160612,Semillero de Propietarios Arriendo,validar respuesta a pedido apertura alm ,ACT345,Validar Respuesta
+T160615,Administrar proceso contable y monetario de aceptación digital,c002: cmp77 aprobar solicitud ,CMP77,Aprobar Solicitud
+T160615,Administrar proceso contable y monetario de aceptación digital,c004: cmp77 aprobar solicitud ,CMP77,Aprobar Solicitud
+T160615,Administrar proceso contable y monetario de aceptación digital,cmp86 elaborar informes ,CMP86,Elaborar Informe
+T160615,Administrar proceso contable y monetario de aceptación digital,c001: cmt76 conciliar información ,CMT76,Conciliar InformaciÃ³n
+T160615,Administrar proceso contable y monetario de aceptación digital,c003: cmt76 conciliar información ,CMT76,Conciliar InformaciÃ³n
+T160615,Administrar proceso contable y monetario de aceptación digital,radicar solicitud cmt79 ,CMT79,Radicar Solicitud
+T160615,Administrar proceso contable y monetario de aceptación digital,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160615,Administrar proceso contable y monetario de aceptación digital,registrar evento [act274] ,ACT274,Registrar Evento
+T160615,Administrar proceso contable y monetario de aceptación digital,revisar trazabilidad [act301] ,ACT301,Realizar Trazabilidad
+T160615,Administrar proceso contable y monetario de aceptación digital,c005: revisar trazabilidad [act301] ,ACT301,Realizar Trazabilidad
+T160615,Administrar proceso contable y monetario de aceptación digital,certificar cuentas contables [act364] ,ACT364,Certificar Cuenta Contable
+T160615,Administrar proceso contable y monetario de aceptación digital,c005: certificar cuentas contables [act364] ,ACT364,Certificar Cuenta Contable
+T160615,Administrar proceso contable y monetario de aceptación digital,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T160615,Conciliar Transacciones Aceptación Digital,consultar transacción [act104] ,ACT104,Consultar TransacciÃ³n
+T160615,Conciliar Transacciones Aceptación Digital,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160615,Conciliar Transacciones Aceptación Digital,informar resultado [act209] ,ACT209,Informar Resultado
+T160615,Conciliar Transacciones Aceptación Digital,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160621,Activar y Mantener Operaciones  Leasing,cerrar solicitud de la aplicación del mantenimiento ,ACT378,Cerrar Solicitud
+T160621,Activar y Mantener Operaciones Leasing,radicar solicitud ,CMT79,Radicar Solicitud
+T160621,Activar y Mantener Operaciones Leasing,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160621,Activar y Mantener Operaciones Leasing,finalizar operacon[act086] ,ACT086,Finalizar OperaciÃ³n
+T160621,Activar y Mantener Operaciones Leasing,enviar información[act156] ,ACT156,Enviar InformaciÃ³n
+T160621,Activar y Mantener Operaciones Leasing,informar resultado [act209] ,ACT209,Informar Resultado
+T160621,Activar y Mantener Operaciones Leasing,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160621,Activar y Mantener Operaciones Leasing,validar solicitud [act348] ,ACT348,Validar Solicitud
+T160621,Generar Certificados y Poderes,gestionar inconsistencias con soportes o requisitos ,ACT191,Gestionar Inconsistencias
+T160621,Gestionar Abonos y Prepagos,radicar solicitud ,CMT79,Radicar Solicitud
+T160621,Gestionar Abonos y Prepagos,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160621,Modificar Operaciones,validar solicitud de modificación ,ACT348,Validar Solicitud
+T160622,Gestionar la Finalización Leasing Habitacional,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T160622,Gestionar la Finalización Leasing Habitacional,asignar responsable ,ACT039,Asignar Responsable
+T160622,Gestionar la Finalización Leasing Habitacional,asignar responsable [act039] ,ACT039,Asignar Responsable
+T160622,Gestionar la Finalización Leasing Habitacional,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160622,Gestionar la Finalización Leasing Habitacional,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160622,Gestionar la Finalización Leasing Habitacional,procesar pago ,ACT237,Procesar Pago
+T160622,Gestionar la Finalización Leasing Habitacional,procesar pago [act237] ,ACT237,Procesar Pago
+T160622,Gestionar la Finalización Leasing Habitacional,revisar trazabilidad [act301] ,ACT301,Realizar Trazabilidad
+T160632,Gerenciar negocios fiduciarios,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160635,Administrar Negocios Fiduciarios Públicos y Concesiones,gestionar inconsistencias de nóminas ,ACT191,Gestionar Inconsistencias
+T160635,Administrar Negocios Fiduciarios Públicos y Concesiones,m: cumplimiento de los servicios; p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160635,Administrar Negocios Fiduciarios Públicos y Concesiones,m: cumplimiento de los servicios p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160637,Liquidar el servicio en Corresponsales Bancarios,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T160637,Liquidar el servicio en Corresponsales Bancarios,consolidar informacion [act098] ,ACT098,Consolidar InformaciÃ³n
+T160637,Liquidar el servicio en Corresponsales Bancarios,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160637,Liquidar el servicio en Corresponsales Bancarios,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160637,Liquidar el servicio en Corresponsales Bancarios,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160637,Liquidar el servicio en Corresponsales Bancarios,monitorear alertas críticas [act218] ,ACT218,Monitorear Alertas
+T160637,Liquidar el servicio en Corresponsales Bancarios,recibir informacion [act266] ,ACT266,Recibir InformaciÃ³n
+T160637,Liquidar el servicio en Corresponsales Bancarios,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T160638,Generar cuenta de cobro Cardif,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160638,Generar cuenta de cobro Deudores,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160638,Generar cuenta de cobro Deudores y Nequi,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160639,T160639 Administrar Terceros Negocios Fiduciarios,c001 validar documentos ,ACT331,Validar Documento
+T160639,T160639 Administrar Terceros Negocios Fiduciarios,3\. c001 validar documentos ,ACT331,Validar Documento
+T160642,Causar y pagar operaciones negocios fiduciarios,radicar solicitud parámetros ,CMT79,Radicar Solicitud
+T160642,Causar y pagar operaciones negocios fiduciarios,m: cumplimiento de los servicios p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160642,Causar y pagar operaciones negocios fiduciarios - PRO - T160642,radicar solicitud parámetros ,CMT79,Radicar Solicitud
+T160642,Causar y pagar operaciones negocios fiduciarios - PRO - T160642,m: cumplimiento de los servicios p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,radicar solicitud ,CMT79,Radicar Solicitud
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,rechazar solicitud de pago ,ACT264,Rechazar Solicitud
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,c002: validar solicitud ,ACT348,Validar Solicitud
+T160642,Gestionar correcciones monetarias,m: cumplimiento de los servicios p: procesar pagos de negocios fiduciarios ,ACT237,Procesar Pago
+T160642,Gestionar novedades,1\. identificar tipo de novedad ,CP0417,Identificar tipo de novedad
+T160642,Gestionar novedades,7\. recibir y validar respuesta ,ACT345,Validar Respuesta
+T160642,Gestionar novedades,11\. recibir y validar respuesta ,ACT345,Validar Respuesta
+T160642,Realizar ajustes al pago,m: cumplimiento de los servicios p: procesar pagos negocios fiduciarios ,ACT237,Procesar Pago
+T160642,Realizar ajustes al pago,validar solicitud ,ACT348,Validar Solicitud
+T160642,Realizar causación,radicar solicitud de parámetros ,CMT79,Radicar Solicitud
+T160642,Realizar causación,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160642,Realizar pago,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160647,Generar Información Contable Factoring,gestionar alertas alcon ,CP0191,Gestionar alertas
+T160647,Generar Información Contable Factoring,certificar cuentas a cargo en alcon ,CP0469,Certificar cuenta
+T160647,Generar Información Contable Factoring,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160647,Generar Información Contable Factoring,gestionar alerta [act181] ,ACT181,Atender Alerta
+T160647,Generar Información Contable Factoring,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160647,Generar Información Contable Factoring,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160647,Generar Información Contable Factoring,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160647,Generar Información Contable Factoring,reportar error [act285] ,ACT285,Registrar Incidente
+T160647,Generar Información Contable Factoring,solicitar soporte [act320]. ,ACT320,Solicitar Soporte
+T160647,Generar Información Contable Factoring,validar información[act341] ,ACT341,Validar InformaciÃ³n
+T160647,Generar Información Contable Factoring,validar resultado [act347] ,ACT347,Validar Resultado
+T160647,Generar Información Contable Factoring,certificar cuentas contables [act364] ,ACT364,Certificar Cuenta Contable
+T160647,Generar Información Contable Factoring,ejecutar cierre contable [act368] ,ACT368,Ejecutar Cierre Contable
+T160647,Generar Información Contable Factoring,ejecutar ajuste contable [act372] ,ACT372,Ejecutar Ajuste Contable
+T160651,Administrar  parámetros del Sistema Factoring SAF,ajustar valor [act016] ,ACT016,Ajustar Valor
+T160651,Administrar  parámetros del Sistema Factoring SAF,configurar párametros [act081] ,ACT081,Configurar ParÃ¡metros
+T160651,Administrar  parámetros del Sistema Factoring SAF,descargar reporte [act122] ,ACT122,Descargar Reporte
+T160651,Administrar  parámetros del Sistema Factoring SAF,descargar reporte ,ACT122,Descargar Reporte
+T160651,Administrar  parámetros del Sistema Factoring SAF,c009: monitorear acceso saf ,ACT217,Monitorear Acceso
+T160651,Administrar  parámetros del Sistema Factoring SAF,obtener confirmación [act231] ,ACT231,Obtener ConfirmaciÃ³n
+T160651,Administrar  parámetros del Sistema Factoring SAF,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T160654,Realizar Desembolso Factoring SAF,gestionar inconsistencias radian ,ACT191,Gestionar Inconsistencias
+T160654,Realizar Desembolso Factoring SAF,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160654,Realizar Desembolso Factoring SAF,monitorear operaciones [act220] ,ACT220,Monitorear Operaciones
+T160654,Realizar Desembolso Factoring SAF,devolver solicitud ,ACT377,Devolver Solicitud
+T160655,Realizar Novedades y Mantenimientos de Cartera Factoring SAF,c003-sox: aprobar solicitud saf ,CMP77,Aprobar Solicitud
+T160655,Realizar Novedades y Mantenimientos de Cartera Factoring SAF,radicar solicitud de mantenimiento o novedad ,CMT79,Radicar Solicitud
+T160655,Realizar Novedades y Mantenimientos de Cartera Factoring SAF,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T160655,Realizar Novedades y Mantenimientos de Cartera Factoring SAF,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160657,Generar Informes y Reportes Factoring,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160657,Generar Informes y Reportes Factoring,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160659,Atender AQR Tranf Llaves,c201: validar respuesta ,ACT345,Validar Respuesta
+T160659,Atender AQR´s BRE-B,asignar responsable [act039] ,ACT039,Asignar Responsable
+T160659,Atender AQR´s BRE-B,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160659,Atender AQR´s BRE-B,emitir comprobante [act142] ,ACT142,Emitir Comprobante
+T160659,Atender AQR´s BRE-B,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160659,Atender AQR´s BRE-B,solicitar soporte [act320] ,ACT320,Solicitar Soporte
+T160659,Atender AQR´s BRE-B,c004: validar respuesta ,ACT345,Validar Respuesta
+T160659,Atender Solicitudes Transf llaves SPBVI,c302: validar respuesta del cliente ,ACT345,Validar Respuesta
+T160659,Gestionar AQR QR,solicitar soportes ,ACT320,Solicitar Soporte
+T160659,Gestionar Novedades QR,rechazar solicitud o novedad ,ACT264,Rechazar Solicitud
+T160659,Gestionar Novedades QR,solicitar soportes ,ACT320,Solicitar Soporte
+T160659,Gestionar Novedades QR,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160659,Gestionar Novedades y Solicitud,consultar información [act003] ,ACT003,Consultar InformaciÃ³n
+T160659,Gestionar Novedades y Solicitud,finalizar operación [act086] ,ACT086,Finalizar OperaciÃ³n
+T160659,Gestionar Novedades y Solicitud,emitir comprobante [act142] ,ACT142,Emitir Comprobante
+T160659,Gestionar Novedades y Solicitud,gestionar proceso [act192] ,ACT192,Gestionar Proceso
+T160659,Gestionar Novedades y Solicitud,informar resultado [act209] ,ACT209,Informar Resultado
+T160659,Gestionar Novedades y Solicitud,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160659,Gestionar Novedades y Solicitud,redirigir consulta [act270] ,ACT270,Redirigir Consulta
+T160659,Gestionar Novedades y Solicitud,seleccionar opción [act303] ,ACT303,Seleccionar OpciÃ³n
+T160659,Gestionar Novedades y Solicitud,c005: validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160659,Gestionar Novedades y Solicitud,c001: validar documentación [act331] ,ACT331,Validar Documento
+T160659,Gestionar Novedades y Solicitud,c004: validar respuesta ,ACT345,Validar Respuesta
+T160659,Novedades SPBVI,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160666,Administrar Catálogo de Tarifas,actualizar condiciones [act005] ,ACT005,Actualizar CondiciÃ³n
+T160666,Administrar Catálogo de Tarifas,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160666,Administrar Catálogo de Tarifas,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160666,Administrar Catálogo de Tarifas,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160666,Administrar Catálogo de Tarifas,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160666,Administrar Catálogo de Tarifas,modificar documento [act374] ,ACT374,Actualizar Documento
+T160666,Administrar Catálogo de Tarifas,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160666,Atender las novedades internas de Pricing,radicar solicitud ,CMT79,Radicar Solicitud
+T160666,Atender las novedades internas de Pricing,actualizar condiciones [act005 ] ,ACT005,Actualizar CondiciÃ³n
+T160666,Atender las novedades internas de Pricing,actualizar registro [act011] ,ACT011,Actualizar Registro
+T160666,Atender las novedades internas de Pricing,asignar responsable[act039] ,ACT039,Asignar Responsable
+T160666,Atender las novedades internas de Pricing,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160666,Atender las novedades internas de Pricing,configurar parámetros[act081] ,ACT081,Configurar ParÃ¡metros
+T160666,Atender las novedades internas de Pricing,configurar parametros [act081] ,ACT081,Configurar ParÃ¡metros
+T160666,Atender las novedades internas de Pricing,implementar solución [act204] ,ACT204,Implementar SoluciÃ³n
+T160666,Atender las novedades internas de Pricing,informar resultado[act209 ] ,ACT209,Informar Resultado
+T160666,Atender las novedades internas de Pricing,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160666,Atender las novedades internas de Pricing,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160666,Atender las novedades internas de Pricing,registrar evidencia [act275] ,ACT275,Registrar Evidencia
+T160666,Atender las novedades internas de Pricing,validar solicitud de la novedad ,ACT348,Validar Solicitud
+T160666,Atender las novedades internas de Pricing,cerrar solicitud ,ACT378,Cerrar Solicitud
+T160667,Administrar Información de Ecosistemas,procesar datos ,CP1070,Procesar dato
+T160667,Administrar Información de Ecosistemas,cargar información [act066] ,ACT066,Cargar InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T160667,Administrar Información de Ecosistemas,consolidar información [act098] ,ACT098,Consolidar InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,estructurar información [act165] ,ACT165,Estructurar InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,extraer información [act173] ,ACT173,Extraer InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,publicar información [act243] ,ACT243,Publicar InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,recibir información [act266] ,ACT266,Recibir InformaciÃ³n
+T160667,Administrar Información de Ecosistemas,reportar error [act285] ,ACT285,Registrar Incidente
+T160667,Administrar Información de Ecosistemas,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160668,Administrar el servicio Ecosistemas,elaborar informe o reporte [cmp86] ,CMP86,Elaborar Informe
+T160668,Administrar el servicio Ecosistemas,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160668,Administrar el servicio Ecosistemas,c001 validar solicitud ,ACT348,Validar Solicitud
+T160668,Atender Novedad,rechazar solicitud [act264] ,ACT264,Rechazar Solicitud
+T160668,Atender requerimientos Clientes y Aliados,enviar comunicación notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T160668,Atender requerimientos Clientes y Aliados,cmt79radicar solicitud ,CMT79,Radicar Solicitud
+T160668,Atender requerimientos Clientes y Aliados,obtener confirmación [act231] ,ACT231,Obtener ConfirmaciÃ³n
+T160668,Atender requerimientos Clientes y Aliados,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160668,Atender requerimientos Clientes y Aliados,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160668,Atender requerimientos Clientes y Aliados,validar información [act341] ,ACT341,Validar InformaciÃ³n
+T160668,Gestionar Parámetros,identificar inconsistencia [act202] ,ACT202,Identificar Inconsistencia
+T160668,Gestionar Parámetros,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,enviar comunicación/notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,enviar comunicación notificación [cmc01] ,CMC01,Enviar ComunicaciÃ³n NotificaciÃ³n
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,realizar indexación y custodia de información [cmf02] ,CMF02,Custodiar Documento Digital
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,generar documento [cmf04] ,CMF04,Generar Documento Digital
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,realizar firma [cmt78] ,CMT78,Firmar Documento Digital
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,radicar solicitud [cmt79] ,CMT79,Radicar Solicitud
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,custodiar documentos en la nube ,CP1109,Custodiar documento
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,custodiar documentos ,CP1109,Custodiar documento
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,configurar parámetros [act081] ,ACT081,Configurar ParÃ¡metros
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,diligenciar formulario [act132] ,ACT132,Diligenciar Formulario
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,solicitar gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,gestionar inconsistencias [act191] ,ACT191,Gestionar Inconsistencias
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,rechazar solicitud ,ACT264,Rechazar Solicitud
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,solicitar información [act318] ,ACT318,Solicitar InformaciÃ³n
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,solicitar soporte [act320] ,ACT320,Solicitar Soporte
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n
+T160669,Afiliar - Desafiliar al servicio Ecosistemas,c009: validar solicitud ,ACT348,Validar Solicitud
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas,custodiar documentos físicos ,CP1109,Custodiar documento
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas ,custodiar documentos físicos ,CP1109,Custodiar documento
+T160669,Afiliar y desafiliar al Servicio de Ecosistemas ,solicitar gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160673,Autorizar Tokenizaciones de TD y TDC,gestionar inconsistencias ,ACT191,Gestionar Inconsistencias
+T160673,Autorizar Tokenizaciones de TD y TDC,procesar pago ,ACT237,Procesar Pago
+T160673,Autorizar Tokenizaciones de TD y TDC,procesar solicitud ,ACT238,Procesar Solicitud
+T160673,Autorizar Tokenizaciones de TD y TDC,revisar token ,ACT300,Revisar Token
+VAL080512,Habilitar comerciales mesa de dinero,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,enviar información [act156] ,ACT156,Enviar InformaciÃ³n
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,procesar solicitud [act238] ,ACT238,Procesar Solicitud
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,solicitar autorización [act311] ,ACT311,Solicitar AutorizaciÃ³n
+VAL080512,Procedimiento asesorar clientes MK Valores y Fiduciaria,validar condiciones [act327] ,ACT327,Validar CondiciÃ³n

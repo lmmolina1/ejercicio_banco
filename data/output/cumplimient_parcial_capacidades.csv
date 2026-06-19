@@ -1,0 +1,69 @@
+codigo_proceso,t2.procedimiento,match actividad/capacidad,Capacidad de Procesos (Nivel 3),Dominio,Subdominio Nivel 1,Subdominio Nivel 2,Arquetipos Relacionado
+PAN040102,Autorizar Operaciones por Callback,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+PAN040102,Crear Cuenta y Autorizar desembolsos,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN040102,Procedimiento Contingente,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN040103,Autorizar Operaciones CallBack,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+PAN040103,Diagrama 1,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+PAN040107,Realizar aperturas de tarjeta de crédito,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN040310,Atender novedades para canales digitales,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN040314,Gestionar novedades de Medios de Pago,solicitar aprobación ,Solicitar aprobación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica,Crear y evolucionar modelos de pricing
+PAN040314,Gestionar novedades de Medios de Pago,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN040314,Gestionar novedades de tarjeta de crédito,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN040314,Gestionar novedades de tarjeta de crédito,solicitar aprobación ,Solicitar aprobación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica,Crear y evolucionar modelos de pricing
+PAN050305,Gestionar experiencia y requerimientos de clientes,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+PAN080001,Administrar programas de lealtad,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T051009,Gestionar Debida Diligencia,aplicar medidas restrictivas ,Aplicar medidas restrictivas,Clientes,Relacionamiento con el cliente,Conocimiento,
+T080902,Conciliar transacciones y contabilidad de ecosistemas,certificar cuenta ,Certificar cuenta,Habilitación Empresarial,"Gestión Financiera, Contable y Tributaria",Gestión contable,Ejecutar el cuadre contable del producto
+T080902,Conciliar transacciones y contabilidad de ecosistemas,certificar cuenta ,Certificar cuenta,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Gestión contable,Ejecutar el cuadre contable del producto
+T120302,Consultas y desbloqueos,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T120302,Gestión Correo Segtrans,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T120302,Gestión correo Segtrans,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T120302,Monitorear adquirencia,cerrar caso ,Cerrar caso.,Habilitación empresarial,Cumplimiento,,
+T140112,"Vincular, actualizar y modificar proveedores",notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+T140112,"Vincular, modificar y actualizar proveedor",notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+T140705,Recibir y radicar requerimientos de Entidades Externas,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160021,Bloqueo masivo de cupo-plazo de sobregiro,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160021,Modificar cupos de sobregiro masivos,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160021,Realizar novedad de Inembargabilidad a cuentas ahorros y corrientes,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160021,Realizar novedad de inembargabilidad a cuentas de ahorro y corriente,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160028,Administrar Extractos Especiales,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160028,Realizar soporte de extractos Especiales,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160057,Cambiar cuentas a comercios RAM 65,solicitar aprobación ,Solicitar aprobación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica,Crear y evolucionar modelos de pricing
+T160057,Cambiar cuentas a comercios Tradicional,solicitar aprobación ,Solicitar aprobación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica,Crear y evolucionar modelos de pricing
+T160057,Procesar novedades a comercios Conexión Directa,solicitar aprobación ,Solicitar aprobación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica,Crear y evolucionar modelos de pricing
+T160057,Procesar novedades a comercios Conexión Directa,custodiar documento ,Custodiar documento,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",No aplica,Procesar documento
+T160057,Procesar novedades a comercios Conexión Directa,custodiar documento ,Custodiar documento,Habilitación Empresarial,Ciclo de información digital,No aplica,Procesar documento
+T160057,Procesar novedades a comercios institución 63,custodiar documento ,Custodiar documento,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",No aplica,Procesar documento
+T160057,Procesar novedades a comercios institución 63,custodiar documento ,Custodiar documento,Habilitación Empresarial,Ciclo de información digital,No aplica,Procesar documento
+T160057,Procesar novedades a comercios institución 63,solicitar aprobación ,Solicitar aprobación,Estrategia de los negocios,Modelo de Precio (pricing),No aplica,Crear y evolucionar modelos de pricing
+T160087,Atender Solicitudes Posventa Cartera Hipotecaria y Constructor,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160087,Ejecutar mantenimientos de cartera hipotecaria,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160100,Administrar servicios y asesorias Outsourcing,generar informes de monitoreo ,Generar informes de monitoreo,Habilitación empresarial,Gestión contable,Contabilidad Financiera,
+T160107,Aplicar Pagos a la Cartera,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+T160109,Administrar Parámetros del Aplicativo en Cartera,gestionar alertas ,Gestionar alertas,Clientes,Relacionamiento con el cliente,Conocimiento,
+T160112,Constituir Garantía FNG y FAG,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160112,Constituir Garantías Covenant,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+T160112,Constituir Garantías FNG y FAG,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160112,Constituir Garantías Vehículos Pensiones CDT´s,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,
+T160159,Gestionar novedades prepago,realizar registro contable ,Realizar registro contable,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",,Solicitar el pago de proveedores y aliados
+T160218,Realizar desembolso de crédito hipotecario,cerrar caso ,Cerrar caso.,Habilitación empresarial,Cumplimiento,,
+T160264,Aplicar novedades Horarios,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160264,Aplicar novedades de Horarios,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160265,Monitorear la operación de Golf SifBranch en Sucursales,gestionar alertas ,Gestionar alertas,Clientes,Relacionamiento con el cliente,Conocimiento,
+T160275,Realizar Monitoreos,gestionar alertas ,Gestionar alertas,Clientes,Relacionamiento con el cliente,Conocimiento,
+T160355,Modificar Operaciones por Normalización,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160440,Validar Inmueble,cerrar caso ,Cerrar caso.,Habilitación empresarial,Cumplimiento,,
+T160487,Aplicar Novedades TDC,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160487,Cancelar Pagaré de Tarjeta de Crédito,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160487,Comprar Cartera Digital,consultar información del cliente ,Consultar información del cliente,Negocios,Financiación,Factoring,
+T160612,Radicar solicitud,cerrar caso ,Cerrar caso.,Habilitación empresarial,Cumplimiento,,
+T160621,Gestionar Abonos y Prepagos,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,generar asiento contable ,Generar asiento contable,Habilitación Empresarial,"Gestión Financiera, Contable y Tributaria",Gestión Contable,Ejecutar el cuadre contable del producto
+T160642,Cumplir órdenes de causación y pago de Negocios Fiduciarios,generar asiento contable ,Generar asiento contable,"Negocios, habilitadores de los negocios","Captaciones, medios de pago, soluciones para empresas, negocios no financieros, transferencias, comercio internacional",Gestión Contable,Ejecutar el cuadre contable del producto
+T160659,Novedades SPBVI,recibir solicitud ,Recibir solicitud,Negocios,Financiación,Factoring,
+T160668,Administrar el servicio Ecosistemas,cerrar caso ,Cerrar caso.,Habilitación empresarial,Cumplimiento,,
+VAL080512,Procedimiento monitorear recomendaciones profesionales,obtener información ,Obtener información,Canales,Distribución física,,
+VAL080512,Procedimiento monitorear recomendaciones profesionales,obtener información ,Obtener información,Canales,Distribución a Distancia,,
+VAL080512,Procedimiento monitorear recomendaciones profesionales,obtener información ,Obtener información,Canales,Distribución digital,,
+VAL080512,Procedimiento monitorear recomendaciones profesionales,notificar inconsistencias ,Notificar inconsistencias,Negocios,Financiación,Factoring,

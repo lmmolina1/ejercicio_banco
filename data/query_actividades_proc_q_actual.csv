@@ -8127,18 +8127,18 @@
 6788253,2026Q1,T050807,Gestionar clientes,m: cumplimiento de los servicios p: gestionar documentos tesorería 
 6788253,2026Q1,T050807,Gestionar clientes,configurar parámetros [act081-02] 
 6788253,2026Q1,T050807,Gestionar clientes,configurar parámetros [act081-01] 
-7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,aprobar la tarea de debida diligencia 
+7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Evaluar debida diligencia
 7145536,2026Q1,T051005,Procedimiento Contingente,reportar incidente 
 7145536,2026Q1,T051005,Procedimiento Contingente,notificar al comercial 
 7145536,2026Q1,T051005,Procedimiento Contingente,monitorear solicitudes 
 7145536,2026Q1,T051005,Procedimiento Contingente,enviar comunicación/notificación [cmc01] 
 7145536,2026Q1,T051005,Procedimiento Contingente,comunicación oficial 
 7145536,2026Q1,T051005,Procedimiento Contingente,atender solicitudes 
-7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,vincular cliente en los ecosistemas bancolombia 
-7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,verificar autorizaciones y revocatorias 
+7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Registrar información en fuentes oficiales
+7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Establecer cláusulas  y condiciones de relacionamiento
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,validar gestión para continuar con la vinculación 
-7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,validar cumplimiento 
-7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,solicitar documentos obligatorios para la vinculación 
+7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Identificar riesgos de cumplimiento
+7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Obtener información y documentación
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,rechazar la experiencia de vinculación 
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,realizar monitoreo y control 
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,realizar debida diligencia a los montos de inversión del potencial cliente 
@@ -8148,7 +8148,7 @@
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,radicar solicitud 
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,publicar información [act243] 
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,procedimiento contingente 
-7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,perfilar entrada de información 
+7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Perfilar estado del cliente
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,monitorear la calidad de la vinculación en intermedia 
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,"m: gestión de la relación con clientes, p: administrar listas de control la-ft "
 7145536,2026Q1,T051005,Crear o Vincular Potenciales Clientes,"m: gestión de la relación con clientes, p: administrar listas de control "
@@ -29624,7 +29624,7 @@
 7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,custodiar documentos en repositorio oficial 
 7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,crear persona en los sistemas de clientes 
 7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,conciliar facturación de proveedores 
-7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,cargar información capturada por el proveedor 
+7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,Capturar datos
 7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,c007 auditar creaciones valores realizadas por proveedor 
 7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,c005 evaluar mayor debida diligencia 
 7079635,2026Q1,T051005,Crear o Vincular Potenciales Clientes,c004 verificar identificación del potencial cliente 

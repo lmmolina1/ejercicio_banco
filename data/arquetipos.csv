@@ -19,7 +19,7 @@ ARQ047,Conciliar información contable,"T080109,T080159,PAN040702,PAN070115,T080
 ARQ056,Administrar el servicio de los canales,"T160278,T160569,T160265,T160269,T070202,T070203,T050407"
 ARQ093,Constituir colaterales,"T160107, T160405, T160358, T160115, T160112. PAN40308"
 ARQ093,Estudiar y constituir garantía,"T160112,T160405,T160115"
-ARQ114,Vincular clientes,"T051005,PAN050802,T051921"
+ARQ114,Realizar Vinculación,"T160613, T140112, T051921, T051915, T051109, T051005, PAN050802, T100902"
 ARQ120,Asegurar disponibilidad de productos financieros fisicos,"T160493,T160159,T160138,T160161,T160036,T160022,PAN040205,T160520,T160141"
 ARQ122,Fondear transacción monetaria,Por definir
 ARQ123,Ejecutar cuadre contable del producto,"T160615,T160050,T160066,T160458,T080516,T080513,T160555,T160159,T160061,T080505,T080902,T080159,T080901,T080163,T160670,T160484,T080142,T160615,T160647,T160087,T080159,T1603110,T160661,T1601111,T081001"
@@ -29,3 +29,4 @@ ARQ129,Contactar usuario,Por definir
 ARQ130,Admitir productos de inversión externos,Por definir
 ARQ131,Coordinar gestión de productos de inversión,Por definir
 ARQ139,Investigar alertas de cumplimiento,Por definir
+ARQ140,Administrar servicio en canales,T051005
